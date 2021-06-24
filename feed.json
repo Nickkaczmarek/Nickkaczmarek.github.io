@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2021/05/28/i-really-love.html",
+				
+				"content_html": "<p>I really love reading these posts about emoji and Unicode.</p>\n\n<p><a href=\"https://jenniferdaniel.substack.com/p/i-dont-understand\">jenniferdaniel.substack.com</a></p>\n",
+				"content_text": "I really love reading these posts about emoji and Unicode. \n\n[jenniferdaniel.substack.com](https://jenniferdaniel.substack.com/p/i-dont-understand)\n",
+				"date_published": "2021-05-28T21:17:45-05:00",
+				"url": "https://nickkaczmarek.micro.blog/2021/05/28/i-really-love.html"
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2021/05/14/pressing-flesh-against.html",
 				
 				"content_html": "<p><a href=\"https://jenniferdaniel.substack.com/p/pressing-flesh-against-flesh-\">Pressing flesh against flesh 🤝 - Did Someone Say Emoji?</a></p>\n",
@@ -33,16 +41,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/04/11/210739.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-11T21:07:39-05:00",
 				"url": "https://nickkaczmarek.micro.blog/2021/04/11/210739.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/04/11/210649.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-11T21:06:49-05:00",
 				"url": "https://nickkaczmarek.micro.blog/2021/04/11/210649.html"
 			},
@@ -65,8 +73,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/02/14/065318.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-14T07:53:18-05:00",
 				"url": "https://nickkaczmarek.micro.blog/2021/02/14/065318.html"
 			},
