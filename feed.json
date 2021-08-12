@@ -1,18 +1,60 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "kaczmerica",
+	"title": "Nick Kaczmarek",
 	"icon": "https://micro.blog/nickkaczmarek/avatar.jpg",
 	"home_page_url": "https://nickkaczmarek.micro.blog/",
 	"feed_url": "https://nickkaczmarek.micro.blog/feed.json",
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2021/08/12/104532.html",
+				
+				"content_html": "<p><img title=\"IMG_5376.jpeg\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/ad3aa3fa7f.jpg\" alt=\"Wednesday the dog leaning against the seat in our car.\" width=\"225\" height=\"300\" border=\"0\" /></p>\n",
+				"content_text": "<p><img title=\"IMG_5376.jpeg\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/ad3aa3fa7f.jpg\" alt=\"Wednesday the dog leaning against the seat in our car.\" width=\"225\" height=\"300\" border=\"0\" /></p>\n",
+				"date_published": "2021-08-12T10:45:32-05:00",
+				"url": "https://nickkaczmarek.micro.blog/2021/08/12/104532.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/07/10/this-tastes-exactly.html",
+				
+				"content_html": "<p>This tastes exactly like a green skittle.</p>\n\n<p><img src=\"uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This tastes exactly like a green skittle. \n\n<img src=\"uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-10T18:26:45-05:00",
+				"url": "https://nickkaczmarek.micro.blog/2021/07/10/this-tastes-exactly.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/07/09/turns-out-cherries.html",
+				
+				"content_html": "<p>Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out.</p>\n\n<p><img src=\"uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" /></p>\n",
+				"content_text": "Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out. \n\n<img src=\"uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" />\n",
+				"date_published": "2021-07-09T13:55:40-05:00",
+				"url": "https://nickkaczmarek.micro.blog/2021/07/09/turns-out-cherries.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/07/09/my-dog-wednesday.html",
+				
+				"content_html": "<p>My dog, Wednesday, laying on a couch on her side showing how long her legs are.</p>\n\n<p><img src=\"uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" /></p>\n",
+				"content_text": "My dog, Wednesday, laying on a couch on her side showing how long her legs are.\n\n<img src=\"uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" />\n",
+				"date_published": "2021-07-09T13:52:15-05:00",
+				"url": "https://nickkaczmarek.micro.blog/2021/07/09/my-dog-wednesday.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/06/24/jumping-from-feet.html",
+				
+				"content_html": "<p>Jumping from 25000 feet without a parachute.</p>\n\n<p>I’ve watched this video and seen this headline a couple times and while it’s definitely impressive, it’s important to note that he’s skydiving into a gigantic net.</p>\n\n<p><a href=\"https://kottke.org/21/06/jumping-from-25000-feet-without-a-parachute-and-landing-safely\">kottke.org</a></p>\n",
+				"content_text": "Jumping from 25000 feet without a parachute. \n\nI’ve watched this video and seen this headline a couple times and while it’s definitely impressive, it’s important to note that he’s skydiving into a gigantic net. \n\n[kottke.org](https://kottke.org/21/06/jumping-from-25000-feet-without-a-parachute-and-landing-safely)\n",
+				"date_published": "2021-07-07T14:24:26-05:00",
+				"url": "https://nickkaczmarek.micro.blog/2021/06/24/jumping-from-feet.html",
+				"tags": ["random"]
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2021/07/06/super-interesting-look.html",
 				
 				"content_html": "<p>Super interesting look into how and why cultures perceive emoji (and other things) differently. The idea that someone can see the same thing has me and come away with a distinctly different feeling and emotion is fascinating.</p>\n\n<p><a href=\"https://jenniferdaniel.substack.com/p/do-you-see-what-i-see-\">jenniferdaniel.substack.com</a></p>\n",
 				"content_text": "Super interesting look into how and why cultures perceive emoji (and other things) differently. The idea that someone can see the same thing has me and come away with a distinctly different feeling and emotion is fascinating. \n\n[jenniferdaniel.substack.com](https://jenniferdaniel.substack.com/p/do-you-see-what-i-see-)\n",
-				"date_published": "2021-07-06T08:28:04-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/07/06/super-interesting-look.html"
+				"date_published": "2021-07-06T08:28:00-05:00",
+				"url": "https://nickkaczmarek.micro.blog/2021/07/06/super-interesting-look.html",
+				"tags": ["unicode"]
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/06/25/my-first-child.html",
@@ -57,16 +99,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/04/11/210739.html",
 				
-				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-11T21:07:39-05:00",
 				"url": "https://nickkaczmarek.micro.blog/2021/04/11/210739.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/04/11/210649.html",
 				
-				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-11T21:06:49-05:00",
 				"url": "https://nickkaczmarek.micro.blog/2021/04/11/210649.html"
 			},
@@ -80,17 +122,17 @@
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/03/07/thinking-back-to.html",
-				"title": "Thinking back to a beautiful Ohio day",
-				"content_html": "<p>I really enjoyed how this photo came out. My wife and I were lucky enough to stay at a house on Lake Erie last summer. Hopefully we’ll be lucky enough to stay there again one day.</p>\n<p><img title=\"waves crashing against the steps.png\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/1a90ce9b18.png\" alt=\"waves crashing against the steps\" width=\"300\" height=\"225\" border=\"0\" /></p>\n<p>Taken with my iPhone XS Max on 2020-06-08 at 21:02:40</p>\n",
-				"content_text": "<p>I really enjoyed how this photo came out. My wife and I were lucky enough to stay at a house on Lake Erie last summer. Hopefully we’ll be lucky enough to stay there again one day.</p>\n<p><img title=\"waves crashing against the steps.png\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/1a90ce9b18.png\" alt=\"waves crashing against the steps\" width=\"300\" height=\"225\" border=\"0\" /></p>\n<p>Taken with my iPhone XS Max on 2020-06-08 at 21:02:40</p>\n",
+				
+				"content_html": "<p><h2>Thinking back to a beautiful Ohio day</h2>\n<p>I really enjoyed how this photo came out. My wife and I were lucky enough to stay at a house on Lake Erie last summer. Hopefully we’ll be lucky enough to stay there again one day.</p>\n<p><img title=\"waves crashing against the steps.png\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/1a90ce9b18.png\" alt=\"waves crashing against the steps\" width=\"300\" height=\"225\" border=\"0\" /></p>\n<p>Taken with my iPhone XS Max on 2020-06-08 at 21:02:40</p></p>\n",
+				"content_text": "<h2>Thinking back to a beautiful Ohio day</h2>\n<p>I really enjoyed how this photo came out. My wife and I were lucky enough to stay at a house on Lake Erie last summer. Hopefully we’ll be lucky enough to stay there again one day.</p>\n<p><img title=\"waves crashing against the steps.png\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/1a90ce9b18.png\" alt=\"waves crashing against the steps\" width=\"300\" height=\"225\" border=\"0\" /></p>\n<p>Taken with my iPhone XS Max on 2020-06-08 at 21:02:40</p>\n",
 				"date_published": "2021-03-07T17:24:01-05:00",
 				"url": "https://nickkaczmarek.micro.blog/2021/03/07/thinking-back-to.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/02/14/065318.html",
 				
-				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-14T07:53:18-05:00",
 				"url": "https://nickkaczmarek.micro.blog/2021/02/14/065318.html"
 			},
