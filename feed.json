@@ -2,41 +2,100 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Nick Kaczmarek",
 	"icon": "https://micro.blog/nickkaczmarek/avatar.jpg",
-	"home_page_url": "https://nickkaczmarek.micro.blog/",
-	"feed_url": "https://nickkaczmarek.micro.blog/feed.json",
+	"home_page_url": "https://www.nickkaczmarek.com/",
+	"feed_url": "https://www.nickkaczmarek.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/08/20/i-heard-the.html",
+				
+				"content_html": "<p>I heard the other dumpster had 14. I wonder what makes one want to go off on their own.</p>\n\n<p><img src=\"uploads/2021/4697461395.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/ae1daeee9c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I heard the other dumpster had 14. I wonder what makes one want to go off on their own. \n\n<img src=\"uploads/2021/4697461395.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/ae1daeee9c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-20T07:59:50-05:00",
+				"url": "https://www.nickkaczmarek.com/2021/08/20/i-heard-the.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/08/16/i-saw-this.html",
+				
+				"content_html": "<p>I saw this in the Tom Scott newsletter. Captivating.</p>\n\n<p><a href=\"https://youtu.be/n0zqQxz4DHs\">youtu.be/n0zqQxz4D&hellip;</a></p>\n",
+				"content_text": "I saw this in the Tom Scott newsletter. Captivating. \n\n[youtu.be/n0zqQxz4D...](https://youtu.be/n0zqQxz4DHs)\n",
+				"date_published": "2021-08-16T21:29:51-05:00",
+				"url": "https://www.nickkaczmarek.com/2021/08/16/i-saw-this.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/08/15/i-got-the.html",
+				
+				"content_html": "<p>I got the raccoons out. Spent like ten minutes watching two of them try to scale the edges of the dumpster. I’ve heard the groundskeeper normally lets them out, but I don’t mind helping.</p>\n\n<p><img src=\"uploads/2021/b21ab86a8f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I got the raccoons out. Spent like ten minutes watching two of them try to scale the edges of the dumpster. I’ve heard the groundskeeper normally lets them out, but I don’t mind helping. \n\n<img src=\"uploads/2021/b21ab86a8f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-15T08:00:23-05:00",
+				"url": "https://www.nickkaczmarek.com/2021/08/15/i-got-the.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/08/15/raccoons-in-a.html",
+				
+				"content_html": "<p>Raccoons in a dumpster</p>\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/6d23ea32b2.mov\" width=\"360\" height=\"640\" poster=\"https://nickkaczmarek.micro.blog/uploads/2021/86476b1448.png\" preload=\"none\"></video>\n",
+				"content_text": "Raccoons in a dumpster\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/6d23ea32b2.mov\" width=\"360\" height=\"640\" poster=\"https://nickkaczmarek.micro.blog/uploads/2021/86476b1448.png\" preload=\"none\"></video>\n",
+				"date_published": "2021-08-15T07:58:06-05:00",
+				"url": "https://www.nickkaczmarek.com/2021/08/15/raccoons-in-a.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/08/13/i-just-learned.html",
+				
+				"content_html": "<p>I just learned that my dog has a belly button.</p>\n\n<p>Well, all dogs do, but mine does too.</p>\n",
+				"content_text": "I just learned that my dog has a belly button. \n\nWell, all dogs do, but mine does too. \n",
+				"date_published": "2021-08-13T08:46:00-05:00",
+				"url": "https://www.nickkaczmarek.com/2021/08/13/i-just-learned.html",
+				"tags": ["random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/08/13/bit-late-but.html",
+				
+				"content_html": "<p>Bit late, but I really don’t understand all the hate for the Apple TV 4 remote. The one with the square touch pad. I almost never accidentally click the touch pad or lose it or anything. I’m sure the new remote is better, but I still don’t understand how there is so much hate.</p>\n",
+				"content_text": "Bit late, but I really don’t understand all the hate for the Apple TV 4 remote. The one with the square touch pad. I almost never accidentally click the touch pad or lose it or anything. I’m sure the new remote is better, but I still don’t understand how there is so much hate. \n",
+				"date_published": "2021-08-13T07:40:00-05:00",
+				"url": "https://www.nickkaczmarek.com/2021/08/13/bit-late-but.html",
+				"tags": ["random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/08/12/never-smell-an.html",
+				"title": "Never smell an infant's hand",
+				"content_html": "<p>I was discussing with my wife whether we should bathe our baby last night.<br />I did a quick smell test and she smelled fine.<br />My wife said that her hands are filthy and she’d need a bath.<br />I said how filthy could they be, she can’t even grab anything.<br />I was so wrong.<br />I was so so so so wrong.<br />But damn is she cute.<br />Moral of the story, don’t smell an infant’s hands.<br />They are filthy.<br />Though they did smell nice after a good scrubbing. </p>\n",
+				"content_text": "<p>I was discussing with my wife whether we should bathe our baby last night.<br />I did a quick smell test and she smelled fine.<br />My wife said that her hands are filthy and she’d need a bath.<br />I said how filthy could they be, she can’t even grab anything.<br />I was so wrong.<br />I was so so so so wrong.<br />But damn is she cute.<br />Moral of the story, don’t smell an infant’s hands.<br />They are filthy.<br />Though they did smell nice after a good scrubbing. </p>\n",
+				"date_published": "2021-08-12T11:59:00-05:00",
+				"url": "https://www.nickkaczmarek.com/2021/08/12/never-smell-an.html",
+				"tags": ["random"]
+			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/08/12/104532.html",
 				
 				"content_html": "<p><img title=\"IMG_5376.jpeg\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/ad3aa3fa7f.jpg\" alt=\"Wednesday the dog leaning against the seat in our car.\" width=\"225\" height=\"300\" border=\"0\" /></p>\n",
 				"content_text": "<p><img title=\"IMG_5376.jpeg\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/ad3aa3fa7f.jpg\" alt=\"Wednesday the dog leaning against the seat in our car.\" width=\"225\" height=\"300\" border=\"0\" /></p>\n",
 				"date_published": "2021-08-12T10:45:32-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/08/12/104532.html"
+				"url": "https://www.nickkaczmarek.com/2021/08/12/104532.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/07/10/this-tastes-exactly.html",
 				
-				"content_html": "<p>This tastes exactly like a green skittle.</p>\n\n<p><img src=\"uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This tastes exactly like a green skittle. \n\n<img src=\"uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This tastes exactly like a green skittle.</p>\n\n<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This tastes exactly like a green skittle. \n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-10T18:26:45-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/07/10/this-tastes-exactly.html"
+				"url": "https://www.nickkaczmarek.com/2021/07/10/this-tastes-exactly.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/07/09/turns-out-cherries.html",
 				
-				"content_html": "<p>Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out.</p>\n\n<p><img src=\"uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" /></p>\n",
-				"content_text": "Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out. \n\n<img src=\"uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" />\n",
+				"content_html": "<p>Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out.</p>\n\n<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" /></p>\n",
+				"content_text": "Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out. \n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" />\n",
 				"date_published": "2021-07-09T13:55:40-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/07/09/turns-out-cherries.html"
+				"url": "https://www.nickkaczmarek.com/2021/07/09/turns-out-cherries.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/07/09/my-dog-wednesday.html",
 				
-				"content_html": "<p>My dog, Wednesday, laying on a couch on her side showing how long her legs are.</p>\n\n<p><img src=\"uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" /></p>\n",
-				"content_text": "My dog, Wednesday, laying on a couch on her side showing how long her legs are.\n\n<img src=\"uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" />\n",
+				"content_html": "<p>My dog, Wednesday, laying on a couch on her side showing how long her legs are.</p>\n\n<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" /></p>\n",
+				"content_text": "My dog, Wednesday, laying on a couch on her side showing how long her legs are.\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" />\n",
 				"date_published": "2021-07-09T13:52:15-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/07/09/my-dog-wednesday.html"
+				"url": "https://www.nickkaczmarek.com/2021/07/09/my-dog-wednesday.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/06/24/jumping-from-feet.html",
@@ -44,7 +103,7 @@
 				"content_html": "<p>Jumping from 25000 feet without a parachute.</p>\n\n<p>I’ve watched this video and seen this headline a couple times and while it’s definitely impressive, it’s important to note that he’s skydiving into a gigantic net.</p>\n\n<p><a href=\"https://kottke.org/21/06/jumping-from-25000-feet-without-a-parachute-and-landing-safely\">kottke.org</a></p>\n",
 				"content_text": "Jumping from 25000 feet without a parachute. \n\nI’ve watched this video and seen this headline a couple times and while it’s definitely impressive, it’s important to note that he’s skydiving into a gigantic net. \n\n[kottke.org](https://kottke.org/21/06/jumping-from-25000-feet-without-a-parachute-and-landing-safely)\n",
 				"date_published": "2021-07-07T14:24:26-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/06/24/jumping-from-feet.html",
+				"url": "https://www.nickkaczmarek.com/2021/06/24/jumping-from-feet.html",
 				"tags": ["random"]
 			},
 			{
@@ -53,7 +112,7 @@
 				"content_html": "<p>Super interesting look into how and why cultures perceive emoji (and other things) differently. The idea that someone can see the same thing has me and come away with a distinctly different feeling and emotion is fascinating.</p>\n\n<p><a href=\"https://jenniferdaniel.substack.com/p/do-you-see-what-i-see-\">jenniferdaniel.substack.com</a></p>\n",
 				"content_text": "Super interesting look into how and why cultures perceive emoji (and other things) differently. The idea that someone can see the same thing has me and come away with a distinctly different feeling and emotion is fascinating. \n\n[jenniferdaniel.substack.com](https://jenniferdaniel.substack.com/p/do-you-see-what-i-see-)\n",
 				"date_published": "2021-07-06T08:28:00-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/07/06/super-interesting-look.html",
+				"url": "https://www.nickkaczmarek.com/2021/07/06/super-interesting-look.html",
 				"tags": ["unicode"]
 			},
 			{
@@ -62,7 +121,7 @@
 				"content_html": "<p>My first child was born today. I cannot overstate my excitement. Baby is doing well and so is mama. What a day.</p>\n",
 				"content_text": "My first child was born today. I cannot overstate my excitement. Baby is doing well and so is mama. What a day. \n",
 				"date_published": "2021-06-25T10:06:04-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/06/25/my-first-child.html"
+				"url": "https://www.nickkaczmarek.com/2021/06/25/my-first-child.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/05/28/i-really-love.html",
@@ -70,7 +129,7 @@
 				"content_html": "<p>I really love reading these posts about emoji and Unicode.</p>\n\n<p><a href=\"https://jenniferdaniel.substack.com/p/i-dont-understand\">jenniferdaniel.substack.com</a></p>\n",
 				"content_text": "I really love reading these posts about emoji and Unicode. \n\n[jenniferdaniel.substack.com](https://jenniferdaniel.substack.com/p/i-dont-understand)\n",
 				"date_published": "2021-05-28T21:17:45-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/05/28/i-really-love.html"
+				"url": "https://www.nickkaczmarek.com/2021/05/28/i-really-love.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/05/14/pressing-flesh-against.html",
@@ -78,7 +137,7 @@
 				"content_html": "<p><a href=\"https://jenniferdaniel.substack.com/p/pressing-flesh-against-flesh-\">Pressing flesh against flesh 🤝 - Did Someone Say Emoji?</a></p>\n",
 				"content_text": " [Pressing flesh against flesh 🤝 - Did Someone Say Emoji?](https://jenniferdaniel.substack.com/p/pressing-flesh-against-flesh-)\n",
 				"date_published": "2021-05-14T18:35:44-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/05/14/pressing-flesh-against.html"
+				"url": "https://www.nickkaczmarek.com/2021/05/14/pressing-flesh-against.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/05/01/amazing-dronedjcom.html",
@@ -86,7 +145,7 @@
 				"content_html": "<p>Amazing! <a href=\"https://dronedj.com/2021/04/28/pilot-of-viral-bowling-alley-video-scores-again/\">dronedj.com</a></p>\n",
 				"content_text": "Amazing! [dronedj.com](https://dronedj.com/2021/04/28/pilot-of-viral-bowling-alley-video-scores-again/)\n",
 				"date_published": "2021-05-01T11:47:21-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/05/01/amazing-dronedjcom.html"
+				"url": "https://www.nickkaczmarek.com/2021/05/01/amazing-dronedjcom.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/04/11/went-hunting-for.html",
@@ -94,23 +153,23 @@
 				"content_html": "<p>Went hunting for mushrooms today. We found four big morels. My wife fried them and they were delicious. I hope I can find some more.</p>\n",
 				"content_text": "Went hunting for mushrooms today. We found four big morels. My wife fried them and they were delicious. I hope I can find some more. \n",
 				"date_published": "2021-04-11T21:10:29-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/04/11/went-hunting-for.html"
+				"url": "https://www.nickkaczmarek.com/2021/04/11/went-hunting-for.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/04/11/210739.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-11T21:07:39-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/04/11/210739.html"
+				"url": "https://www.nickkaczmarek.com/2021/04/11/210739.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/04/11/210649.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-11T21:06:49-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/04/11/210649.html"
+				"url": "https://www.nickkaczmarek.com/2021/04/11/210649.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/04/09/survive-icarus.html",
@@ -118,7 +177,7 @@
 				"content_html": "<p><blockquote>\n<p><a href=\"https://surviveicarus.com\">https://surviveicarus.com</a> </p>\n</blockquote>\n<p>Looks like an interesting game. Can’t wait to try it out.</p></p>\n",
 				"content_text": "<blockquote>\n<p><a href=\"https://surviveicarus.com\">https://surviveicarus.com</a> </p>\n</blockquote>\n<p>Looks like an interesting game. Can’t wait to try it out.</p>\n",
 				"date_published": "2021-04-09T13:04:45-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/04/09/survive-icarus.html"
+				"url": "https://www.nickkaczmarek.com/2021/04/09/survive-icarus.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/03/07/thinking-back-to.html",
@@ -126,15 +185,15 @@
 				"content_html": "<p><h2>Thinking back to a beautiful Ohio day</h2>\n<p>I really enjoyed how this photo came out. My wife and I were lucky enough to stay at a house on Lake Erie last summer. Hopefully we’ll be lucky enough to stay there again one day.</p>\n<p><img title=\"waves crashing against the steps.png\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/1a90ce9b18.png\" alt=\"waves crashing against the steps\" width=\"300\" height=\"225\" border=\"0\" /></p>\n<p>Taken with my iPhone XS Max on 2020-06-08 at 21:02:40</p></p>\n",
 				"content_text": "<h2>Thinking back to a beautiful Ohio day</h2>\n<p>I really enjoyed how this photo came out. My wife and I were lucky enough to stay at a house on Lake Erie last summer. Hopefully we’ll be lucky enough to stay there again one day.</p>\n<p><img title=\"waves crashing against the steps.png\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/1a90ce9b18.png\" alt=\"waves crashing against the steps\" width=\"300\" height=\"225\" border=\"0\" /></p>\n<p>Taken with my iPhone XS Max on 2020-06-08 at 21:02:40</p>\n",
 				"date_published": "2021-03-07T17:24:01-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/03/07/thinking-back-to.html"
+				"url": "https://www.nickkaczmarek.com/2021/03/07/thinking-back-to.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/02/14/065318.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-14T07:53:18-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/02/14/065318.html"
+				"url": "https://www.nickkaczmarek.com/2021/02/14/065318.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/02/12/every-programmer-is.html",
@@ -142,7 +201,7 @@
 				"content_html": "<p>I’m always surprised that every programmer isn’t a skilled terminal user. Perhaps it’s because I got into programming after finally being able to purchase a MacBook, but having no idea what to do with it, I searched for “terminal hacks” online and the rest is history.</p>\n\n<p>I very much prefer to use the terminal for lots of tool things like git and basic Unix stuff. I do use a text editor though. Occasionally I’ll use vim but I’m not a magician.</p>\n\n<p>I’ve seen many of my coworkers reach for a graphical git client and for some reason this surprises me over and over. I’m not shaming anyone. Just observing.</p>\n\n<p>I wonder if they are surprised when they see me typing away on that black screen, chaining stuff together?</p>\n",
 				"content_text": "I’m always surprised that every programmer isn’t a skilled terminal user. Perhaps it’s because I got into programming after finally being able to purchase a MacBook, but having no idea what to do with it, I searched for “terminal hacks” online and the rest is history.\n\nI very much prefer to use the terminal for lots of tool things like git and basic Unix stuff. I do use a text editor though. Occasionally I’ll use vim but I’m not a magician. \n\nI’ve seen many of my coworkers reach for a graphical git client and for some reason this surprises me over and over. I’m not shaming anyone. Just observing. \n\nI wonder if they are surprised when they see me typing away on that black screen, chaining stuff together?\n",
 				"date_published": "2021-02-12T08:10:04-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/02/12/every-programmer-is.html"
+				"url": "https://www.nickkaczmarek.com/2021/02/12/every-programmer-is.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/02/10/my-wifes-stomach.html",
@@ -150,7 +209,7 @@
 				"content_html": "<p>My wife’s stomach just kicked me.</p>\n",
 				"content_text": "My wife’s stomach just kicked me. \n",
 				"date_published": "2021-02-10T17:37:15-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/02/10/my-wifes-stomach.html"
+				"url": "https://www.nickkaczmarek.com/2021/02/10/my-wifes-stomach.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/02/09/a-tale-of.html",
@@ -158,7 +217,7 @@
 				"content_html": "<p><a href=\"https://twitter.com/RexChapman/status/1359296274009387008\">A tale of perseverance.</a></p>\n",
 				"content_text": "[A tale of perseverance.](https://twitter.com/RexChapman/status/1359296274009387008)\n",
 				"date_published": "2021-02-09T19:56:46-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/02/09/a-tale-of.html"
+				"url": "https://www.nickkaczmarek.com/2021/02/09/a-tale-of.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/02/09/hard-to-argue.html",
@@ -166,7 +225,7 @@
 				"content_html": "<p>Hard to argue this.</p>\n\n<p><a href=\"https://twitter.com/jtannady/status/1359164136182210562\">RE: imposter syndrome</a></p>\n",
 				"content_text": "Hard to argue this. \n\n[RE: imposter syndrome](https://twitter.com/jtannady/status/1359164136182210562)\n",
 				"date_published": "2021-02-09T17:40:14-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/02/09/hard-to-argue.html"
+				"url": "https://www.nickkaczmarek.com/2021/02/09/hard-to-argue.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/02/09/if-this-doesnt.html",
@@ -174,7 +233,7 @@
 				"content_html": "<p>If this doesn’t make you feel small, then I don’t know what will.</p>\n\n<p><a href=\"https://kottke.org/21/02/10-terapixel-image-of-the-night-sky\">10 terapixel image of the night sky</a></p>\n",
 				"content_text": "If this doesn’t make you feel small, then I don’t know what will. \n\n [10 terapixel image of the night sky](https://kottke.org/21/02/10-terapixel-image-of-the-night-sky)\n",
 				"date_published": "2021-02-09T17:27:56-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/02/09/if-this-doesnt.html"
+				"url": "https://www.nickkaczmarek.com/2021/02/09/if-this-doesnt.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/02/06/working-with-my.html",
@@ -182,7 +241,7 @@
 				"content_html": "<p>I’ve been working with my brother on his photography website for a few years and it’s changed a lot over time. </p>\n<p>My first iteration was to take all the photos he sent me and make a basic website that displays them, using static html and css.</p>\n<p>The next thing I tried was to store them in Firebase and then sort of dynamically pull in the images and import them into the same structure.</p>\n<p>Then I learned about react.js and decided that I could try that out and build up his site. That was a pretty interesting experience and I learned a lot.</p>\n<p>Unfortunately all of that took a lot of time and required me to basically build a CMS on my own. While I could probably do that, I realized over time that I didn’t want to and furthermore couldn’t devote the time to give him what he wanted. So I made the tough, 😂, decision to make him a SquareSpace website.</p>\n<p>I’ve been listening to ads for them in podcasts for years and finally decided it was worth it. Why should I keep him from updating his stuff because I wasn’t feeling the dev process. For the last 4 weekends, I’ve helped him work on the site and I have to say that it’s a great experience.</p>\n<p>It’s still the early stages, but I’m glad I had this journey. I learned a lot of web stuff that has made me a better developer and I’ve also learned when to be pragmatic. I’m glad I can help him get his stuff out there and I can still provide technical assistance. </p>\n",
 				"content_text": "<p>I’ve been working with my brother on his photography website for a few years and it’s changed a lot over time. </p>\n<p>My first iteration was to take all the photos he sent me and make a basic website that displays them, using static html and css.</p>\n<p>The next thing I tried was to store them in Firebase and then sort of dynamically pull in the images and import them into the same structure.</p>\n<p>Then I learned about react.js and decided that I could try that out and build up his site. That was a pretty interesting experience and I learned a lot.</p>\n<p>Unfortunately all of that took a lot of time and required me to basically build a CMS on my own. While I could probably do that, I realized over time that I didn’t want to and furthermore couldn’t devote the time to give him what he wanted. So I made the tough, 😂, decision to make him a SquareSpace website.</p>\n<p>I’ve been listening to ads for them in podcasts for years and finally decided it was worth it. Why should I keep him from updating his stuff because I wasn’t feeling the dev process. For the last 4 weekends, I’ve helped him work on the site and I have to say that it’s a great experience.</p>\n<p>It’s still the early stages, but I’m glad I had this journey. I learned a lot of web stuff that has made me a better developer and I’ve also learned when to be pragmatic. I’m glad I can help him get his stuff out there and I can still provide technical assistance. </p>\n",
 				"date_published": "2021-02-06T13:30:35-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/02/06/working-with-my.html"
+				"url": "https://www.nickkaczmarek.com/2021/02/06/working-with-my.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/01/31/introduction.html",
@@ -190,7 +249,7 @@
 				"content_html": "<p>Hi, I’m Nick. <br /><br />I’m a software engineer living in Saint Louis, Missouri. I’ve been working in the web space, writing .NET and JavaScript apps for about five years. I’m very interested in iOS and macOS development so that’s what I’ll be talking about and posting here.</p>\n<p>I started a blog at nickkaczmarek.com, but I’ll be slowly moving over here. I only have two or three posts there so that shouldn’t be tough.</p>\n<p>I hope you all enjoy!</p>\n",
 				"content_text": "<p>Hi, I’m Nick. <br /><br />I’m a software engineer living in Saint Louis, Missouri. I’ve been working in the web space, writing .NET and JavaScript apps for about five years. I’m very interested in iOS and macOS development so that’s what I’ll be talking about and posting here.</p>\n<p>I started a blog at nickkaczmarek.com, but I’ll be slowly moving over here. I only have two or three posts there so that shouldn’t be tough.</p>\n<p>I hope you all enjoy!</p>\n",
 				"date_published": "2021-01-31T19:09:19-05:00",
-				"url": "https://nickkaczmarek.micro.blog/2021/01/31/introduction.html"
+				"url": "https://www.nickkaczmarek.com/2021/01/31/introduction.html"
 			}
 	]
 }
