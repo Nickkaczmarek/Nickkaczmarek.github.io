@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2021/11/11/really-cool-video.html",
+				"title": "Really cool video about Pando from It's Okay to be Smart",
+				"content_html": "<p>[www.youtube.com/watch](https://www.youtube.com/watch?v=TJuVm5p4TI0)</p>\n",
+				"content_text": "<p>[www.youtube.com/watch](https://www.youtube.com/watch?v=TJuVm5p4TI0)</p>\n",
+				"date_published": "2021-11-11T11:48:40-05:00",
+				"url": "https://www.nickkaczmarek.com/2021/11/11/really-cool-video.html",
+				"tags": ["random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/11/01/my-wife-made.html",
+				"title": "My wife made brownies. Last week.",
+				"content_html": "<p>My wife made the most delicious brownies last weekend. It was our first time making brownies from scratch (and especially from scratch vegan). Turns out the recipe is a ton of chocolate and butter. They turned out amazing and only lasted for days.<br /><br /><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6476.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/cb804e6fdc.png\" alt=\"Vegan brownies from above, in pan still.\" width=\"300\" height=\"225\" border=\"0\" /><img style=\"text-align: justify; display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6477.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/74318667d9.png\" alt=\"Vegan brownies, directly above in pan\" width=\"225\" height=\"300\" border=\"0\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6478.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/69ae17ae64.png\" alt=\"Vegan brownie detail in my hand\" width=\"225\" height=\"300\" border=\"0\" /><img style=\"text-align: justify; display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6479.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/329ba5652a.png\" alt=\"Vegan brownie detail in my hand, second angle\" width=\"225\" height=\"300\" border=\"0\" /></p>\n",
+				"content_text": "<p>My wife made the most delicious brownies last weekend. It was our first time making brownies from scratch (and especially from scratch vegan). Turns out the recipe is a ton of chocolate and butter. They turned out amazing and only lasted for days.<br /><br /><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6476.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/cb804e6fdc.png\" alt=\"Vegan brownies from above, in pan still.\" width=\"300\" height=\"225\" border=\"0\" /><img style=\"text-align: justify; display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6477.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/74318667d9.png\" alt=\"Vegan brownies, directly above in pan\" width=\"225\" height=\"300\" border=\"0\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6478.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/69ae17ae64.png\" alt=\"Vegan brownie detail in my hand\" width=\"225\" height=\"300\" border=\"0\" /><img style=\"text-align: justify; display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6479.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/329ba5652a.png\" alt=\"Vegan brownie detail in my hand, second angle\" width=\"225\" height=\"300\" border=\"0\" /></p>\n",
+				"date_published": "2021-11-01T14:00:07-05:00",
+				"url": "https://www.nickkaczmarek.com/2021/11/01/my-wife-made.html",
+				"tags": ["food"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/11/01/went-for-a.html",
+				
+				"content_html": "<p>Went for a bike ride with my father in law this weekend. Saw this pretty tree. I’m so fortunate that I live in a world where I can fit an amazing camera into my pocket comfortably.</p>\n\n<p><img src=\"uploads/2021/11beb33598.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Went for a bike ride with my father in law this weekend. Saw this pretty tree. I’m so fortunate that I live in a world where I can fit an amazing camera into my pocket comfortably. \n\n<img src=\"uploads/2021/11beb33598.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-01T13:51:59-05:00",
+				"url": "https://www.nickkaczmarek.com/2021/11/01/went-for-a.html"
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2021/10/31/forgot-to-buy.html",
 				
 				"content_html": "<p>Forgot to buy candy. Happy Halloween. 🎃</p>\n",
