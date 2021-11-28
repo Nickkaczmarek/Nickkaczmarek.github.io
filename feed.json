@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2021/11/28/pie-pumpkins.html",
+				"title": "Pie pumpkins",
+				"content_html": "<p>My wife has been making pumpkin pies lately from the little pie pumpkins you get at the grocery store. Normally we’d buy canned, but thought fresh would be better. I’ve heard the large ones have no flavor really, but assumed the little ones would. And they do, but not as much as you’d think.</p>\n\n<p>I was especially curious why the canned pumpkin was so much darker. After doing a little research I learned that much of canned pumpkin is actually another squash called Dickinson pumpkin. It’s huge and kind of pale orange/yellow.</p>\n\n<p>Maybe everyone knows this, but I was a little surprised. I’ll still continue to purchase pie pumpkins, but now I really want to try a Dickinson pumpkin.</p>\n",
+				"content_text": "My wife has been making pumpkin pies lately from the little pie pumpkins you get at the grocery store. Normally we’d buy canned, but thought fresh would be better. I’ve heard the large ones have no flavor really, but assumed the little ones would. And they do, but not as much as you’d think. \n\nI was especially curious why the canned pumpkin was so much darker. After doing a little research I learned that much of canned pumpkin is actually another squash called Dickinson pumpkin. It’s huge and kind of pale orange/yellow. \n\nMaybe everyone knows this, but I was a little surprised. I’ll still continue to purchase pie pumpkins, but now I really want to try a Dickinson pumpkin. \n",
+				"date_published": "2021-11-28T08:30:35-05:00",
+				"url": "https://www.nickkaczmarek.com/2021/11/28/pie-pumpkins.html"
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2021/11/11/really-cool-video.html",
 				"title": "Really cool video about Pando from It's Okay to be Smart",
-				"content_html": "<p>[www.youtube.com/watch](https://www.youtube.com/watch?v=TJuVm5p4TI0)</p>\n",
-				"content_text": "<p>[www.youtube.com/watch](https://www.youtube.com/watch?v=TJuVm5p4TI0)</p>\n",
+				"content_html": "<blockquote>\n<p><a href=\"https://www.youtube.com/watch?v=TJuVm5p4TI0\">https://www.youtube.com/watch?v=TJuVm5p4TI0</a></p>\n</blockquote>\n",
+				"content_text": "<blockquote>\n<p><a href=\"https://www.youtube.com/watch?v=TJuVm5p4TI0\">https://www.youtube.com/watch?v=TJuVm5p4TI0</a></p>\n</blockquote>\n",
 				"date_published": "2021-11-11T11:48:40-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/11/11/really-cool-video.html",
 				"tags": ["random"]
