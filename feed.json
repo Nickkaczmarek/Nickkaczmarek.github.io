@@ -7,6 +7,80 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/05/171246.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-05T17:12:46-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/05/171246.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/04/cant-wait-to.html",
+				
+				"content_html": "<p>Can’t wait to set this up! Really looking forward to having more photos on my photo page.</p>\n\n<p><a href=\"https://www.manton.org/2022/01/02/wrote-a-plugin.html\">www.manton.org</a></p>\n",
+				"content_text": "Can’t wait to set this up! Really looking forward to having more photos on my photo page. \n\n[www.manton.org](https://www.manton.org/2022/01/02/wrote-a-plugin.html)\n",
+				"date_published": "2022-01-04T07:31:38-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/04/cant-wait-to.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/02/why-does-xcode.html",
+				"title": "Why does Xcode 13 not include an Info.plist for SwiftUI projects?",
+				"content_html": "\n\n<p>I keep forgetting about this so maybe this will keep it in my mind.</p>\n\n<p><a href=\"https://useyourloaf.com/blog/xcode-13-missing-info.plist/\">Xcode 13 Missing Info.plist</a></p>\n\n<h3 id=\"most-important-bit-go-to-project-settings-and-click-on-info-tab\">Most important bit, go to project settings and click on info tab</h3>\n\n<h4 id=\"the-why\">The why</h4>\n\n<blockquote>\n<p>Projects created from several templates no longer require configuration files such as entitlements and Info.plist files. Configure common fields in the target’s Info tab, and build settings in the project editor. These files are added to the project when additional fields are used. (68254857)</p>\n</blockquote>\n",
+				"content_text": "I keep forgetting about this so maybe this will keep it in my mind.\n\n[Xcode 13 Missing Info.plist](https://useyourloaf.com/blog/xcode-13-missing-info.plist/)\n\n### Most important bit, go to project settings and click on info tab\n\n#### The why\n\n> Projects created from several templates no longer require configuration files such as entitlements and Info.plist files. Configure common fields in the target’s Info tab, and build settings in the project editor. These files are added to the project when additional fields are used. (68254857)\n\n",
+				"date_published": "2022-01-02T22:25:13-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/02/why-does-xcode.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/02/being-a-parent.html",
+				"title": "Being a parent ",
+				"content_html": "<p>Now that my daughter is six months old I feel like I have a better grasp on what being a parent is like.</p>\n\n<p>It’s so interesting how many different opinions there are. As my friend Bill once said, “Nick, you like to live your life on hard mode” and this is no different. Raising a baby without resorting to tv babysitting has been very interesting. Don’t get me wrong, sometimes she sees the tv but we are careful to curtail it as often as it happens. It’s more effort to spend time with her and I’m so happy and fortunate that I have this opportunity.</p>\n\n<p>Being a parent is the most amazing thing I’ve ever done and I’d do it again! If you have the means and desire, I would recommend it. Just make sure you’re ready to change your life for them. Although I think once you meet your child you’ll never have a thought that contradicts that love and care. Even in the challenging moments. Maybe I’m just crazy. Maybe I’m crazy in love. I don’t know everything, but I do like being parent.</p>\n\n<p>Important notes, I’m a reasonably well paid software engineer who gets to work from home and I make enough that my wife can afford to stay home with the baby. I recognize this is not the norm and many likely wouldn’t want to live this way, but I do and I love it. I also recognize (or try to) my privilege</p>\n\n<p>Also I’m aware that I write like a child and this is likely rambling nonsense, but I just wanted to write something about her.</p>\n",
+				"content_text": "Now that my daughter is six months old I feel like I have a better grasp on what being a parent is like. \n\nIt’s so interesting how many different opinions there are. As my friend Bill once said, “Nick, you like to live your life on hard mode” and this is no different. Raising a baby without resorting to tv babysitting has been very interesting. Don’t get me wrong, sometimes she sees the tv but we are careful to curtail it as often as it happens. It’s more effort to spend time with her and I’m so happy and fortunate that I have this opportunity. \n\nBeing a parent is the most amazing thing I’ve ever done and I’d do it again! If you have the means and desire, I would recommend it. Just make sure you’re ready to change your life for them. Although I think once you meet your child you’ll never have a thought that contradicts that love and care. Even in the challenging moments. Maybe I’m just crazy. Maybe I’m crazy in love. I don’t know everything, but I do like being parent. \n\nImportant notes, I’m a reasonably well paid software engineer who gets to work from home and I make enough that my wife can afford to stay home with the baby. I recognize this is not the norm and many likely wouldn’t want to live this way, but I do and I love it. I also recognize (or try to) my privilege \n\nAlso I’m aware that I write like a child and this is likely rambling nonsense, but I just wanted to write something about her. \n\n",
+				"date_published": "2022-01-02T14:05:13-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/02/being-a-parent.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/02/vegan-new-yorkstyle.html",
+				
+				"content_html": "<p>Vegan New York-style meat lovers pizza from Pizza Head in St. Louis, Missouri. This one is made with cashew cheese and it’s amazing. I only wish it was closer. 🍕</p>\n\n<p><img src=\"uploads/2022/8929a006e2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Vegan New York-style meat lovers pizza from Pizza Head in St. Louis, Missouri. This one is made with cashew cheese and it’s amazing. I only wish it was closer. 🍕 \n\n<img src=\"uploads/2022/8929a006e2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-02T13:55:35-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/02/vegan-new-yorkstyle.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/02/my-inlaws-got.html",
+				
+				"content_html": "<p>My in-laws got a board game called Ticket to Ride for Christmas and it’s really fun and pretty straight forward to play. They also have a digital version so my wife and I have been playing on my PS4. Would highly recommend! 🚂</p>\n",
+				"content_text": "My in-laws got a board game called Ticket to Ride for Christmas and it’s really fun and pretty straight forward to play. They also have a digital version so my wife and I have been playing on my PS4. Would highly recommend! 🚂 \n",
+				"date_published": "2022-01-02T13:52:07-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/02/my-inlaws-got.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/01/the-new-year.html",
+				"title": "The New Year is cool and all...",
+				"content_html": "<p>But someone is blowing some sort of kazoo type thing outside and boy is it loud. 🥳👀</p>\n",
+				"content_text": "<p>But someone is blowing some sort of kazoo type thing outside and boy is it loud. 🥳👀</p>\n",
+				"date_published": "2022-01-01T00:02:37-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/01/the-new-year.html",
+				"tags": ["random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/12/30/this-is-her.html",
+				
+				"content_html": "<p>This is her go to spot in my office.</p>\n\n<p><img src=\"uploads/2021/9b28343337.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is her go to spot in my office. \n\n<img src=\"uploads/2021/9b28343337.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-30T19:03:34-06:00",
+				"url": "https://www.nickkaczmarek.com/2021/12/30/this-is-her.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2021/12/29/wow-alexa-suggesting.html",
+				
+				"content_html": "<p>Wow, Alexa. Suggesting electrocution as a challege for a child. <a href=\"https://onefoottsunami.com/2021/12/28/alexa-the-psychopath/\">onefoottsunami.com</a></p>\n",
+				"content_text": "Wow, Alexa. Suggesting electrocution as a challege for a child. [onefoottsunami.com](https://onefoottsunami.com/2021/12/28/alexa-the-psychopath/)\n",
+				"date_published": "2021-12-29T22:14:09-06:00",
+				"url": "https://www.nickkaczmarek.com/2021/12/29/wow-alexa-suggesting.html",
+				"tags": ["technology","random"]
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2021/12/29/123132.html",
 				
 				"content_html": "<p><img src=\"uploads/2021/c081d67f49.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
