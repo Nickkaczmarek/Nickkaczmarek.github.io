@@ -7,10 +7,83 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/20/success-air-fryer.html",
+				
+				"content_html": "<p>Success! Air fryer rolled tacos! Took me a couple days of trial and error (and tostadas), but we did it. And my wife liked them too. I haven’t had rolled tacos in years so this was quite it nostalgic moment for me.</p>\n\n<p><img src=\"uploads/2022/6dbc22a405.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/46bb1953cd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/44e24706a9.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/24a227bbef.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Success! Air fryer rolled tacos! Took me a couple days of trial and error (and tostadas), but we did it. And my wife liked them too. I haven’t had rolled tacos in years so this was quite it nostalgic moment for me. \n\n<img src=\"uploads/2022/6dbc22a405.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/46bb1953cd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/44e24706a9.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/24a227bbef.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-20T17:51:46-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/20/success-air-fryer.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/19/might-as-well.html",
+				
+				"content_html": "<p>Might as well post breakfast too. I make this burrito most days.</p>\n\n<p><img src=\"uploads/2022/af834407a0.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/b35f2febd4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/edc01176d2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Might as well post breakfast too. I make this burrito most days. \n\n<img src=\"uploads/2022/af834407a0.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/b35f2febd4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/edc01176d2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-19T08:04:47-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/19/might-as-well.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/19/tomato-potato-cauliflower.html",
+				"title": "tomato potato cauliflower pea and lentil curry for lunch",
+				"content_html": "<p>Aloo gobi mattar dal tamatar subzi. Potato, cauliflower, pea, lentil, and tomato curry. Adapted from the @veganricha recipe in her book page 87. I made this in the instant pot so had to adapt a little more but came out great. Also made some basmati rice and simmered mustard and cumin seed in oil and cooked that with the rice. Also pictured, roti cooked from dough I bought at the Indian grocery store.</p>\n\n<p><img src=\"uploads/2022/bfd59a3a60.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/e65e142b2d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Aloo gobi mattar dal tamatar subzi. Potato, cauliflower, pea, lentil, and tomato curry. Adapted from the @veganricha recipe in her book page 87. I made this in the instant pot so had to adapt a little more but came out great. Also made some basmati rice and simmered mustard and cumin seed in oil and cooked that with the rice. Also pictured, roti cooked from dough I bought at the Indian grocery store. \n\n<img src=\"uploads/2022/bfd59a3a60.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/e65e142b2d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-19T07:12:30-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/19/tomato-potato-cauliflower.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/19/tostadas-for-dinner.html",
+				"title": "tostadas for dinner",
+				"content_html": "<p>Tostadas con frijoles y arroz Mexicano. I intended to make rolled tacos but made my beans too runny so we decided to air fry tortillas to make tostadas. They came out amazing! My wife also made a cheese sauce from @ohsheglows cookbook. As always the rice is @morenita.salazar.k recipe but I’ve adapted it over time to be vegan. The tostadas have beans, lettuce, tomatoes, pickled jalapeños, cheese sauce, salsa verde, @herdezmexico chipotle cremosa (holy shit this stuff is good), and cashew sour cream. These were next level.</p>\n\n<p><img src=\"uploads/2022/2680cc188e.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tostadas con frijoles y arroz Mexicano. I intended to make rolled tacos but made my beans too runny so we decided to air fry tortillas to make tostadas. They came out amazing! My wife also made a cheese sauce from @ohsheglows cookbook. As always the rice is @morenita.salazar.k recipe but I’ve adapted it over time to be vegan. The tostadas have beans, lettuce, tomatoes, pickled jalapeños, cheese sauce, salsa verde, @herdezmexico chipotle cremosa (holy shit this stuff is good), and cashew sour cream. These were next level. \n\n<img src=\"uploads/2022/2680cc188e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-19T07:11:14-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/19/tostadas-for-dinner.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/18/what-goes-into.html",
+				"title": "What goes into making an OS to be Unix compliant certified? by Terry Lambert",
+				"content_html": "<p>I read his post on NetNewsWire and didn’t realize he actually did link the post but I already typed this so…</p>\n\n<p><a href=\"https://shapeof.com/archives/2022/1/making_macos_x_unix.html\">Link to Gus’ post</a>. Thanks Gus!</p>\n\n<p>Gus Mueller from Flying Meat software, maker of the amazing graphics editor Acorn and Saint Louisan, posted a very interesting excerpt on his blog about macOS and Unix ceritification. <s>He didn’t link the post and I was very curious so I found it for anyone who cares to read it</s> 🤦🏽‍♂️. Super interesting!!! Warning, it’s on Quora.</p>\n\n<p><a href=\"https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified/answer/Terry-Lambert\">Answer to What goes into making an OS to be Unix compliant certified? by Terry Lambert</a></p>\n",
+				"content_text": "I read his post on NetNewsWire and didn’t realize he actually did link the post but I already typed this so…\n\n[Link to Gus’ post](https://shapeof.com/archives/2022/1/making_macos_x_unix.html). Thanks Gus!\n\nGus Mueller from Flying Meat software, maker of the amazing graphics editor Acorn and Saint Louisan, posted a very interesting excerpt on his blog about macOS and Unix ceritification. <s>He didn’t link the post and I was very curious so I found it for anyone who cares to read it</s> 🤦🏽‍♂️. Super interesting!!! Warning, it’s on Quora. \n\n[Answer to What goes into making an OS to be Unix compliant certified? by Terry Lambert](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified/answer/Terry-Lambert)\n",
+				"date_published": "2022-01-18T21:13:43-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/18/what-goes-into.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/17/yes-cryptocurrencies-and.html",
+				
+				"content_html": "<p>Yes, cryptocurrencies and NFTs are indeed a scam. <a href=\"https://www.jessesquires.com/blog/2022/01/16/nfts-and-web3/\">www.jessesquires.com</a></p>\n",
+				"content_text": "Yes, cryptocurrencies and NFTs are indeed a scam. [www.jessesquires.com](https://www.jessesquires.com/blog/2022/01/16/nfts-and-web3/)\n",
+				"date_published": "2022-01-17T19:09:56-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/17/yes-cryptocurrencies-and.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/17/really-cool-stop.html",
+				"title": "Really cool stop motion video of a milk crate being made",
+				"content_html": "<p>I caught this on the Tom Scott newsletter, but for anyone who hasn&rsquo;t seen this it&rsquo;s very interesting. As noted in the video, no CG was used. Just a bunch of photos. And even more time.</p>\n\n<p><a href=\"https://youtu.be/eMYWVKd0ar0\">Video by omozoc on YouTube</a></p>\n",
+				"content_text": "I caught this on the Tom Scott newsletter, but for anyone who hasn't seen this it's very interesting. As noted in the video, no CG was used. Just a bunch of photos. And even more time.\n\n[Video by omozoc on YouTube](https://youtu.be/eMYWVKd0ar0)\n",
+				"date_published": "2022-01-17T15:31:30-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/17/really-cool-stop.html",
+				"tags": ["random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/15/what-if-we.html",
+				"title": "What if we were using Mac OS 9 in 2021?",
+				"content_html": "<p>Really cool video from Michael Feeney exploring what it would be like to use the technology of today with the limitations of yesterday. It’s amazing the skills that some people have. Amazingly well done.</p>\n\n<p><a href=\"https://swallowmygraphicdesign.com/project/macostalgia\">Link to his site</a></p>\n\n<p><a href=\"https://youtube.com/watch?v=2DwJNQMBCOk&amp;feature=share\">the video</a></p>\n\n<p>I used Mac OS 9 a few times when I was in the 4th or 5th grade, around 2002-2003. I can remember there being a couple iMac G3s in the back of my classroom. I wish I could’ve used it more.</p>\n",
+				"content_text": "Really cool video from Michael Feeney exploring what it would be like to use the technology of today with the limitations of yesterday. It’s amazing the skills that some people have. Amazingly well done. \n\n[Link to his site](https://swallowmygraphicdesign.com/project/macostalgia)\n\n[the video](https://youtube.com/watch?v=2DwJNQMBCOk&feature=share)\n\nI used Mac OS 9 a few times when I was in the 4th or 5th grade, around 2002-2003. I can remember there being a couple iMac G3s in the back of my classroom. I wish I could’ve used it more. \n",
+				"date_published": "2022-01-15T20:14:18-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/15/what-if-we.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/01/14/i-find-this.html",
+				
+				"content_html": "<p>I find this absolutely hilarious. DRM is restricting the DRM creators. <a href=\"https://mjtsai.com/blog/2022/01/14/canon-forced-to-ship-knockoff-ink-cartridges/\">mjtsai.com</a></p>\n",
+				"content_text": "I find this absolutely hilarious. DRM is restricting the DRM creators. [mjtsai.com](https://mjtsai.com/blog/2022/01/14/canon-forced-to-ship-knockoff-ink-cartridges/)\n",
+				"date_published": "2022-01-14T20:06:12-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/01/14/i-find-this.html"
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/13/kfc-plant-based.html",
 				"title": "KFC plant based chicken nuggets are meh",
-				"content_html": "<p>Tried the new Beyond Meat chicken nuggets from KFC because why not. Great breading, but unfortunately they were dense as hell. Another local restaurant, Sybergs, serves the beyond meat chicken tenders and while the breading isn’t as good, they are moist and juicy. It was worth the try and I’d eat if I were stuck in the middle of nowhere, but it’s about on par with the Burger King impossible whopper. Which is to say that non vegans seem to struggle with cooking non meat products.</p>\n\n<p>What a shame because I love that there are more plant based options accessible to people who normally wouldn’t seek that out. I’m hoping this is the beginning and not the end and there is only upside from here because we really shouldn’t be raising animals for food. For many reasons.</p>\n\n<p>🫂 🐓🐄🐪🦬🐐 🐑 🐖 🦌 🦃</p>\n\n<p><img src=\"uploads/2022/82aaa7b2ae.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/85c929385c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/9b7b576d74.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Tried the new Beyond Meat chicken nuggets from KFC because why not. Great breading, but unfortunately they were dense as hell. Another local restaurant, Sybergs, serves the beyond meat chicken tenders and while the breading isn’t as good, they are moist and juicy. It was worth the try and I’d eat if I were stuck in the middle of nowhere, but it’s about on par with the Burger King impossible whopper. Which is to say that non vegans seem to struggle with cooking non meat products. \n\nWhat a shame because I love that there are more plant based options accessible to people who normally wouldn’t seek that out. I’m hoping this is the beginning and not the end and there is only upside from here because we really shouldn’t be raising animals for food. For many reasons. \n\n🫂 🐓🐄🐪🦬🐐 🐑 🐖 🦌 🦃 \n\n<img src=\"uploads/2022/82aaa7b2ae.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/85c929385c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/9b7b576d74.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Tried the new Beyond Meat chicken nuggets from KFC because why not. Great breading, but unfortunately they were dense as hell. Another local restaurant, Sybergs, serves the beyond meat chicken tenders and while the breading isn’t as good, they are moist and juicy. It was worth the try and I’d eat if I were stuck in the middle of nowhere, but it’s about on par with the Burger King impossible whopper. Which is to say that non vegans seem to struggle with cooking non meat products.</p>\n\n<p>What a shame because I love that there are more plant based options accessible to people who normally wouldn’t seek that out. I’m hoping this is the beginning and not the end and there is only upside from here because we really shouldn’t be raising animals for food. For many reasons.</p>\n\n<p>🫂 🐓🐄🐪🦬🐐 🐑 🐖 🦌 🦃</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/82aaa7b2ae.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/85c929385c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9b7b576d74.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tried the new Beyond Meat chicken nuggets from KFC because why not. Great breading, but unfortunately they were dense as hell. Another local restaurant, Sybergs, serves the beyond meat chicken tenders and while the breading isn’t as good, they are moist and juicy. It was worth the try and I’d eat if I were stuck in the middle of nowhere, but it’s about on par with the Burger King impossible whopper. Which is to say that non vegans seem to struggle with cooking non meat products. \n\nWhat a shame because I love that there are more plant based options accessible to people who normally wouldn’t seek that out. I’m hoping this is the beginning and not the end and there is only upside from here because we really shouldn’t be raising animals for food. For many reasons. \n\n🫂 🐓🐄🐪🦬🐐 🐑 🐖 🦌 🦃 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/82aaa7b2ae.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/85c929385c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9b7b576d74.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-13T06:54:30-06:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/13/kfc-plant-based.html"
 			},
@@ -25,16 +98,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/09/small-accomplishment-but.html",
 				
-				"content_html": "<p>Small accomplishment, but I’m happy with it. ¡Pero hay más que aprender!</p>\n\n<p><img src=\"uploads/2022/0f478412e0.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Small accomplishment, but I’m happy with it. ¡Pero hay más que aprender!\n\n<img src=\"uploads/2022/0f478412e0.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Small accomplishment, but I’m happy with it. ¡Pero hay más que aprender!</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/0f478412e0.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Small accomplishment, but I’m happy with it. ¡Pero hay más que aprender!\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/0f478412e0.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-09T09:46:24-06:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/09/small-accomplishment-but.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/05/171246.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-05T17:12:46-06:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/05/171246.html"
 			},
