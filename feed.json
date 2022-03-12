@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/12/being-a-dad.html",
+				
+				"content_html": "<p>Being a dad. My daughter refuses to take a nap but is extremely crabby and exhausted. She’s currently grunting in bed having a good ol’ time.</p>\n",
+				"content_text": "Being a dad. My daughter refuses to take a nap but is extremely crabby and exhausted. She’s currently grunting in bed having a good ol’ time. \n",
+				"date_published": "2022-03-12T11:39:13-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/12/being-a-dad.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/09/are-not-enough.html",
+				"title": "Are not enough people dying from COVID?",
+				"content_html": "<p><a href=\"https://kottke.org/22/03/how-did-this-many-deaths-become-normal\">kottke.org</a> When I read things like this it boggles the mind that it isn&rsquo;t taken more seriously. Was the bubonic place filled with this much idiocy? The Spanish flu? Makes me think that if more people died we would be collectively taking this as seriously as we are now. Which is to say not at all.</p>\n",
+				"content_text": " [kottke.org](https://kottke.org/22/03/how-did-this-many-deaths-become-normal) When I read things like this it boggles the mind that it isn't taken more seriously. Was the bubonic place filled with this much idiocy? The Spanish flu? Makes me think that if more people died we would be collectively taking this as seriously as we are now. Which is to say not at all. \n",
+				"date_published": "2022-03-09T20:36:39-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/09/are-not-enough.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/07/tacos-con-arroz.html",
+				
+				"content_html": "<p>Tacos con arroz y frijoles refritos</p>\n\n<p><img src=\"uploads/2022/3dd28c9038.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/0b887982ad.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/7984cf9245.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/f5bb9b21f4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/44d63c7cd0.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tacos con arroz y frijoles refritos\n\n<img src=\"uploads/2022/3dd28c9038.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/0b887982ad.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/7984cf9245.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/f5bb9b21f4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/44d63c7cd0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-07T19:40:57-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/07/tacos-con-arroz.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/07/our-dog-named.html",
+				
+				"content_html": "<p>Our dog named Wednesday. Isn’t she lovely?</p>\n\n<p><img src=\"uploads/2022/3ee96091ce.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing forward in the front seat of my car\" /><img src=\"uploads/2022/16fac0b94a.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing towards the drivers seat in the front seat of my car\" /></p>\n",
+				"content_text": "Our dog named Wednesday. Isn’t she lovely?\n\n<img src=\"uploads/2022/3ee96091ce.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing forward in the front seat of my car\" /><img src=\"uploads/2022/16fac0b94a.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing towards the drivers seat in the front seat of my car\" />\n",
+				"date_published": "2022-03-07T08:24:40-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/07/our-dog-named.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/07/my-wife-really.html",
+				
+				"content_html": "<p>My wife really makes a delicious sourdough. This was made from our sourdough starter, Constance. She’s been making them for a month or two now and I think this is the best one yet! 🥖</p>\n\n<p><img src=\"uploads/2022/aa7d6cb2ac.jpg\" width=\"450\" height=\"600\" alt=\"loaf of sourdough bread taken from above\" /></p>\n",
+				"content_text": "My wife really makes a delicious sourdough. This was made from our sourdough starter, Constance. She’s been making them for a month or two now and I think this is the best one yet! 🥖 \n\n<img src=\"uploads/2022/aa7d6cb2ac.jpg\" width=\"450\" height=\"600\" alt=\"loaf of sourdough bread taken from above\" />\n",
+				"date_published": "2022-03-07T07:46:00-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/07/my-wife-really.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/06/i-really-appreciate.html",
+				
+				"content_html": "<p>I really appreciate the utility that Casey <a href=\"https://micro.blog/liss\">@liss</a> showcased the other day. The one where you put emoji over your kids face. But the thing I really like about the photos of my kid is the faces she makes. Maybe I’ll have a use case one day. Like cute outfits or something. 🤔</p>\n",
+				"content_text": "I really appreciate the utility that Casey [@liss](https://micro.blog/liss) showcased the other day. The one where you put emoji over your kids face. But the thing I really like about the photos of my kid is the faces she makes. Maybe I’ll have a use case one day. Like cute outfits or something. 🤔 \n",
+				"date_published": "2022-03-06T07:41:51-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/06/i-really-appreciate.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/06/yesterday-was-a.html",
+				"title": "Yesterday was a good day",
+				"content_html": "<p>Had a really fun day with the family yesterday. Went to a maple syrup festival and learned about how much work it is. I also got to try maple sugar which was phenomenal.</p>\n\n<p>Later we drove into the city to eat at a local vegan taco place called Terror Tacos. They have a heavy metal theme. What a wonderful place to try if you’re around St. Louis. Had a delicious quesadilla, birria burrito, and nachos.</p>\n\n<p>Finally we stopped in a big park and walked around a little and then put out a picnic blanket and hung out while my daughter crawled around.</p>\n\n<p>Didn’t even have to use the ak.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/19b4c52225.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6e2716fa71.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/afa9929d76.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/56026cfb96.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9c4ab8b010.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6ad639faf1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/017c5aa09b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/20cb82b394.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Had a really fun day with the family yesterday. Went to a maple syrup festival and learned about how much work it is. I also got to try maple sugar which was phenomenal. \n\nLater we drove into the city to eat at a local vegan taco place called Terror Tacos. They have a heavy metal theme. What a wonderful place to try if you’re around St. Louis. Had a delicious quesadilla, birria burrito, and nachos. \n\nFinally we stopped in a big park and walked around a little and then put out a picnic blanket and hung out while my daughter crawled around. \n\nDidn’t even have to use the ak. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/19b4c52225.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6e2716fa71.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/afa9929d76.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/56026cfb96.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9c4ab8b010.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6ad639faf1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/017c5aa09b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/20cb82b394.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-06T07:31:04-06:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/06/yesterday-was-a.html"
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/04/how-to-make.html",
 				"title": "How to make BBEdit show hidden files",
 				"content_html": "<p>I use BBEdit to write code and often have hidden files (files starting with a period) that I want to be able to see. This is a way for me to remember this in the future.</p>\n\n<ol>\n<li>Click on the magnifying glass in the bottom left</li>\n<li>Select Everything under Show</li>\n<li>Profit</li>\n</ol>\n",
@@ -26,8 +82,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/02/02/the-hard-work.html",
 				
-				"content_html": "<p>The hard work of my wife paid off. After making a sour dough starter from scratch, a little trial and error, and only a tiny amount of stress 🤪 we have a beautiful load of bread.</p>\n\n<p><img src=\"uploads/2022/4afee6ea26.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The hard work of my wife paid off. After making a sour dough starter from scratch, a little trial and error, and only a tiny amount of stress 🤪 we have a beautiful load of bread. \n\n<img src=\"uploads/2022/4afee6ea26.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The hard work of my wife paid off. After making a sour dough starter from scratch, a little trial and error, and only a tiny amount of stress 🤪 we have a beautiful load of bread.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/4afee6ea26.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The hard work of my wife paid off. After making a sour dough starter from scratch, a little trial and error, and only a tiny amount of stress 🤪 we have a beautiful load of bread. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/4afee6ea26.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-02T09:37:21-06:00",
 				"url": "https://www.nickkaczmarek.com/2022/02/02/the-hard-work.html"
 			},
@@ -42,8 +98,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/30/breakfast-and-lunch.html",
 				
-				"content_html": "<p>Breakfast and lunch are done. Dinner is on its way. (Lunch is the pasta I made yesterday)</p>\n\n<p><img src=\"uploads/2022/d0ad47b2b9.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Breakfast and lunch are done. Dinner is on its way. (Lunch is the pasta I made yesterday)\n\n<img src=\"uploads/2022/d0ad47b2b9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Breakfast and lunch are done. Dinner is on its way. (Lunch is the pasta I made yesterday)</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/d0ad47b2b9.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Breakfast and lunch are done. Dinner is on its way. (Lunch is the pasta I made yesterday)\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/d0ad47b2b9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-30T12:00:55-06:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/30/breakfast-and-lunch.html"
 			},
