@@ -7,11 +7,77 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/19/i-often-use.html",
+				
+				"content_html": "<p>I often use Siri to add things to a shopping list. And for some godforsaken reason it believes that &ldquo;green salsa&rdquo; is two items. What the hell?</p>\n\n<p>It also thinks &ldquo;oatmilk&rdquo; is two items.</p>\n",
+				"content_text": "I often use Siri to add things to a shopping list. And for some godforsaken reason it believes that \"green salsa\" is two items. What the hell?\n\nIt also thinks \"oatmilk\" is two items.\n",
+				"date_published": "2022-03-19T09:34:07-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/19/i-often-use.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/18/heres-another-image.html",
+				
+				"content_html": "<p>Here’s another image Duolingo sent me for completing a 365 day streak.</p>\n\n<p><img src=\"uploads/2022/c4a196852b.png\" width=\"600\" height=\"600\" alt=\"image showing me being part of a quote streak society in Duolingo. \" /></p>\n",
+				"content_text": "Here’s another image Duolingo sent me for completing a 365 day streak. \n\n<img src=\"uploads/2022/c4a196852b.png\" width=\"600\" height=\"600\" alt=\"image showing me being part of a quote streak society in Duolingo. \" />\n",
+				"date_published": "2022-03-18T16:18:50-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/18/heres-another-image.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/18/days-is-the.html",
+				
+				"content_html": "<p>365 days is the longest and most consistently I’ve ever practiced Spanish. I’ve missed about a month or so and have used many streak freezes but I’m proud either way.</p>\n\n<p><img src=\"uploads/2022/6087fe1d17.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "365 days is the longest and most consistently I’ve ever practiced Spanish. I’ve missed about a month or so and have used many streak freezes but I’m proud either way. \n\n<img src=\"uploads/2022/6087fe1d17.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-18T16:16:53-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/18/days-is-the.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/18/marsedit-download-preview.html",
+				"title": "MarsEdit Download Preview Template Feature",
+				"content_html": "<p>I use an app called <a href=\"https://redsweater.com/marsedit/\">MarsEdit</a> to author my blog posts. I really like it and I recommend anyone using a Mac to check it out. Great piece of indie developed software that just works.</p>\n\n<p>Something cool that it enables is the ability to preview your post in the style of your blog. The template that comes with the app isn&rsquo;t bad but of course it likely doesn&rsquo;t match your site. In the past I&rsquo;ve gone into the web inspector in Safari and took the html for my site and put it into the preview template.</p>\n\n<p>I just learned however that MarsEdit has the ability to download a preview template from your website. I clicked the button and ~10 seconds later I have a preview of my site that just works. What an amazing feature. I don&rsquo;t know if it&rsquo;s new or not, but really appreciate the coolness factor.</p>\n\n<p>Thanks again <a href=\"https://redsweater.com\">Red Sweater Software</a> and <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a>!</p>\n",
+				"content_text": "I use an app called [MarsEdit](https://redsweater.com/marsedit/) to author my blog posts. I really like it and I recommend anyone using a Mac to check it out. Great piece of indie developed software that just works.\n\nSomething cool that it enables is the ability to preview your post in the style of your blog. The template that comes with the app isn't bad but of course it likely doesn't match your site. In the past I've gone into the web inspector in Safari and took the html for my site and put it into the preview template.\n\nI just learned however that MarsEdit has the ability to download a preview template from your website. I clicked the button and ~10 seconds later I have a preview of my site that just works. What an amazing feature. I don't know if it's new or not, but really appreciate the coolness factor.\n\nThanks again [Red Sweater Software](https://redsweater.com) and [@danielpunkass](https://micro.blog/danielpunkass)!\n",
+				"date_published": "2022-03-18T14:05:07-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/18/marsedit-download-preview.html",
+				"tags": ["technology","random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/18/universal-control-on.html",
+				"title": "Universal Control on macOS and iPadOS",
+				"content_html": "<p>I&rsquo;ve been using Universal Control since yesterday afternoon and I really love it. It&rsquo;s seamless and I especially appreciate being able to isolate certain things to the iPad. This is particularly useful because I often pair program at work and it makes it so that I can talk to my wife or whomever without having to stop sharing or share that potentially private info. I wish the iPad could enable some sort of screensaver because I have some worries about it showing the same black text on white screen for most of the workday, but it&rsquo;s not a deal breaker. If you have the means, I would highly recommend giving it a try. It feels even better because I&rsquo;m using the Magic Trackpad so I can do all the gesture things on iPadOS.</p>\n",
+				"content_text": "I've been using Universal Control since yesterday afternoon and I really love it. It's seamless and I especially appreciate being able to isolate certain things to the iPad. This is particularly useful because I often pair program at work and it makes it so that I can talk to my wife or whomever without having to stop sharing or share that potentially private info. I wish the iPad could enable some sort of screensaver because I have some worries about it showing the same black text on white screen for most of the workday, but it's not a deal breaker. If you have the means, I would highly recommend giving it a try. It feels even better because I'm using the Magic Trackpad so I can do all the gesture things on iPadOS.\n",
+				"date_published": "2022-03-18T13:51:41-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/18/universal-control-on.html",
+				"tags": ["technology","random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/14/today-i-learned.html",
+				
+				"content_html": "<p>Today I learned that March 14 is both pi day and Saint Louis, Missouri day (because 314 is the area code). Who knew.</p>\n",
+				"content_text": "Today I learned that March 14 is both pi day and Saint Louis, Missouri day (because 314 is the area code). Who knew. \n",
+				"date_published": "2022-03-14T23:54:10-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/14/today-i-learned.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/14/zombie-baby.html",
+				"title": "Zombie baby",
+				"content_html": "<p>My daughter has decided she likes sleeping on her belly and it’s very cute. When she wakes up in the morning she launches her head up with such speed that it’s like she’s a zombie arising from the dead. The next thing she does is try to climb whatever is nearest, whether it’s us or the stacks of pillows around her. It’s both amazing and terrifying.</p>\n",
+				"content_text": "My daughter has decided she likes sleeping on her belly and it’s very cute. When she wakes up in the morning she launches her head up with such speed that it’s like she’s a zombie arising from the dead. The next thing she does is try to climb whatever is nearest, whether it’s us or the stacks of pillows around her. It’s both amazing and terrifying. \n",
+				"date_published": "2022-03-14T07:13:04-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/14/zombie-baby.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/03/12/primitive-technology-reemerges.html",
+				"title": "Primitive Technology re-emerges. ",
+				"content_html": "<p>So happy to see Primitive Technology back on YouTube. It’s been over two years since we last saw him and I’m just happy he’s back. Pro tip, turn captions on to see descriptions of what’s going on. Enjoy the serenity and check out the back catalog if you haven’t seen the videos.</p>\n\n<p><a href=\"https://youtube.com/watch?v=0tZLCCLMws4&amp;feature=share\">Primitive Technology: Thatched Workshop on YouTube</a></p>\n",
+				"content_text": "So happy to see Primitive Technology back on YouTube. It’s been over two years since we last saw him and I’m just happy he’s back. Pro tip, turn captions on to see descriptions of what’s going on. Enjoy the serenity and check out the back catalog if you haven’t seen the videos. \n\n[Primitive Technology: Thatched Workshop on YouTube](https://youtube.com/watch?v=0tZLCCLMws4&feature=share)\n",
+				"date_published": "2022-03-12T14:40:46-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/03/12/primitive-technology-reemerges.html"
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/12/being-a-dad.html",
 				
 				"content_html": "<p>Being a dad. My daughter refuses to take a nap but is extremely crabby and exhausted. She’s currently grunting in bed having a good ol’ time.</p>\n",
 				"content_text": "Being a dad. My daughter refuses to take a nap but is extremely crabby and exhausted. She’s currently grunting in bed having a good ol’ time. \n",
-				"date_published": "2022-03-12T11:39:13-06:00",
+				"date_published": "2022-03-12T12:39:13-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/12/being-a-dad.html"
 			},
 			{
@@ -19,31 +85,31 @@
 				"title": "Are not enough people dying from COVID?",
 				"content_html": "<p><a href=\"https://kottke.org/22/03/how-did-this-many-deaths-become-normal\">kottke.org</a> When I read things like this it boggles the mind that it isn&rsquo;t taken more seriously. Was the bubonic place filled with this much idiocy? The Spanish flu? Makes me think that if more people died we would be collectively taking this as seriously as we are now. Which is to say not at all.</p>\n",
 				"content_text": " [kottke.org](https://kottke.org/22/03/how-did-this-many-deaths-become-normal) When I read things like this it boggles the mind that it isn't taken more seriously. Was the bubonic place filled with this much idiocy? The Spanish flu? Makes me think that if more people died we would be collectively taking this as seriously as we are now. Which is to say not at all. \n",
-				"date_published": "2022-03-09T20:36:39-06:00",
+				"date_published": "2022-03-09T21:36:39-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/09/are-not-enough.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/07/tacos-con-arroz.html",
 				
-				"content_html": "<p>Tacos con arroz y frijoles refritos</p>\n\n<p><img src=\"uploads/2022/3dd28c9038.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/0b887982ad.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/7984cf9245.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/f5bb9b21f4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/44d63c7cd0.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Tacos con arroz y frijoles refritos\n\n<img src=\"uploads/2022/3dd28c9038.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/0b887982ad.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/7984cf9245.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/f5bb9b21f4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/44d63c7cd0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-03-07T19:40:57-06:00",
+				"content_html": "<p>Tacos con arroz y frijoles refritos</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/3dd28c9038.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/0b887982ad.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/7984cf9245.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/f5bb9b21f4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/44d63c7cd0.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tacos con arroz y frijoles refritos\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/3dd28c9038.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/0b887982ad.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/7984cf9245.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/f5bb9b21f4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/44d63c7cd0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-07T20:40:57-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/07/tacos-con-arroz.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/07/our-dog-named.html",
 				
-				"content_html": "<p>Our dog named Wednesday. Isn’t she lovely?</p>\n\n<p><img src=\"uploads/2022/3ee96091ce.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing forward in the front seat of my car\" /><img src=\"uploads/2022/16fac0b94a.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing towards the drivers seat in the front seat of my car\" /></p>\n",
-				"content_text": "Our dog named Wednesday. Isn’t she lovely?\n\n<img src=\"uploads/2022/3ee96091ce.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing forward in the front seat of my car\" /><img src=\"uploads/2022/16fac0b94a.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing towards the drivers seat in the front seat of my car\" />\n",
-				"date_published": "2022-03-07T08:24:40-06:00",
+				"content_html": "<p>Our dog named Wednesday. Isn’t she lovely?</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/3ee96091ce.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing forward in the front seat of my car\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/16fac0b94a.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing towards the drivers seat in the front seat of my car\" /></p>\n",
+				"content_text": "Our dog named Wednesday. Isn’t she lovely?\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/3ee96091ce.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing forward in the front seat of my car\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/16fac0b94a.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing towards the drivers seat in the front seat of my car\" />\n",
+				"date_published": "2022-03-07T09:24:40-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/07/our-dog-named.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/07/my-wife-really.html",
 				
-				"content_html": "<p>My wife really makes a delicious sourdough. This was made from our sourdough starter, Constance. She’s been making them for a month or two now and I think this is the best one yet! 🥖</p>\n\n<p><img src=\"uploads/2022/aa7d6cb2ac.jpg\" width=\"450\" height=\"600\" alt=\"loaf of sourdough bread taken from above\" /></p>\n",
-				"content_text": "My wife really makes a delicious sourdough. This was made from our sourdough starter, Constance. She’s been making them for a month or two now and I think this is the best one yet! 🥖 \n\n<img src=\"uploads/2022/aa7d6cb2ac.jpg\" width=\"450\" height=\"600\" alt=\"loaf of sourdough bread taken from above\" />\n",
-				"date_published": "2022-03-07T07:46:00-06:00",
+				"content_html": "<p>My wife really makes a delicious sourdough. This was made from our sourdough starter, Constance. She’s been making them for a month or two now and I think this is the best one yet! 🥖</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/aa7d6cb2ac.jpg\" width=\"450\" height=\"600\" alt=\"loaf of sourdough bread taken from above\" /></p>\n",
+				"content_text": "My wife really makes a delicious sourdough. This was made from our sourdough starter, Constance. She’s been making them for a month or two now and I think this is the best one yet! 🥖 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/aa7d6cb2ac.jpg\" width=\"450\" height=\"600\" alt=\"loaf of sourdough bread taken from above\" />\n",
+				"date_published": "2022-03-07T08:46:00-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/07/my-wife-really.html"
 			},
 			{
@@ -51,7 +117,7 @@
 				
 				"content_html": "<p>I really appreciate the utility that Casey <a href=\"https://micro.blog/liss\">@liss</a> showcased the other day. The one where you put emoji over your kids face. But the thing I really like about the photos of my kid is the faces she makes. Maybe I’ll have a use case one day. Like cute outfits or something. 🤔</p>\n",
 				"content_text": "I really appreciate the utility that Casey [@liss](https://micro.blog/liss) showcased the other day. The one where you put emoji over your kids face. But the thing I really like about the photos of my kid is the faces she makes. Maybe I’ll have a use case one day. Like cute outfits or something. 🤔 \n",
-				"date_published": "2022-03-06T07:41:51-06:00",
+				"date_published": "2022-03-06T08:41:51-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/06/i-really-appreciate.html"
 			},
 			{
@@ -59,7 +125,7 @@
 				"title": "Yesterday was a good day",
 				"content_html": "<p>Had a really fun day with the family yesterday. Went to a maple syrup festival and learned about how much work it is. I also got to try maple sugar which was phenomenal.</p>\n\n<p>Later we drove into the city to eat at a local vegan taco place called Terror Tacos. They have a heavy metal theme. What a wonderful place to try if you’re around St. Louis. Had a delicious quesadilla, birria burrito, and nachos.</p>\n\n<p>Finally we stopped in a big park and walked around a little and then put out a picnic blanket and hung out while my daughter crawled around.</p>\n\n<p>Didn’t even have to use the ak.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/19b4c52225.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6e2716fa71.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/afa9929d76.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/56026cfb96.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9c4ab8b010.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6ad639faf1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/017c5aa09b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/20cb82b394.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Had a really fun day with the family yesterday. Went to a maple syrup festival and learned about how much work it is. I also got to try maple sugar which was phenomenal. \n\nLater we drove into the city to eat at a local vegan taco place called Terror Tacos. They have a heavy metal theme. What a wonderful place to try if you’re around St. Louis. Had a delicious quesadilla, birria burrito, and nachos. \n\nFinally we stopped in a big park and walked around a little and then put out a picnic blanket and hung out while my daughter crawled around. \n\nDidn’t even have to use the ak. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/19b4c52225.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6e2716fa71.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/afa9929d76.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/56026cfb96.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9c4ab8b010.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6ad639faf1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/017c5aa09b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/20cb82b394.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-03-06T07:31:04-06:00",
+				"date_published": "2022-03-06T08:31:04-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/06/yesterday-was-a.html"
 			},
 			{
@@ -67,7 +133,7 @@
 				"title": "How to make BBEdit show hidden files",
 				"content_html": "<p>I use BBEdit to write code and often have hidden files (files starting with a period) that I want to be able to see. This is a way for me to remember this in the future.</p>\n\n<ol>\n<li>Click on the magnifying glass in the bottom left</li>\n<li>Select Everything under Show</li>\n<li>Profit</li>\n</ol>\n",
 				"content_text": "I use BBEdit to write code and often have hidden files (files starting with a period) that I want to be able to see. This is a way for me to remember this in the future.\n\n1. Click on the magnifying glass in the bottom left\n2. Select Everything under Show\n3. Profit\n",
-				"date_published": "2022-03-04T09:24:50-06:00",
+				"date_published": "2022-03-04T10:24:50-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/04/how-to-make.html",
 				"tags": ["technology"]
 			},
@@ -76,7 +142,7 @@
 				"title": "Shortcut to open Halide when opening Camera",
 				"content_html": "<p>I had no idea you could do this. Hoping it’s a little quicker when iOS 15.4 comes out.</p>\n\n<p><a href=\"https://twitter.com/FlorianBuerger/status/1490623051549061122?s=20&amp;t=d24hv9DdOAh7b7KKM-qYvg\">video on twitter.com</a></p>\n\n<blockquote>\n<p>Florian Bürger (@FlorianBuerger) Tweeted:\niOS 15.4 Beta allows you to remove the notification (&amp; delay) when running personal automations via Shortcuts…</p>\n\n<p>This means, opening Fjorden (or any other camera app) from the lock screen is now super quick and almost seamless 🤩 <a href=\"https://t.co/Ez2JGeVo6l\">t.co/Ez2JGeVo6&hellip;</a></p>\n</blockquote>\n",
 				"content_text": "I had no idea you could do this. Hoping it’s a little quicker when iOS 15.4 comes out. \n\n[video on twitter.com](https://twitter.com/FlorianBuerger/status/1490623051549061122?s=20&t=d24hv9DdOAh7b7KKM-qYvg)\n\n> Florian Bürger (@FlorianBuerger) Tweeted:\niOS 15.4 Beta allows you to remove the notification (& delay) when running personal automations via Shortcuts…\n\n>This means, opening Fjorden (or any other camera app) from the lock screen is now super quick and almost seamless 🤩 [t.co/Ez2JGeVo6...](https://t.co/Ez2JGeVo6l)\n",
-				"date_published": "2022-02-09T19:28:56-06:00",
+				"date_published": "2022-02-09T20:28:56-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/02/09/shortcut-to-open.html"
 			},
 			{
@@ -84,7 +150,7 @@
 				
 				"content_html": "<p>The hard work of my wife paid off. After making a sour dough starter from scratch, a little trial and error, and only a tiny amount of stress 🤪 we have a beautiful load of bread.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/4afee6ea26.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "The hard work of my wife paid off. After making a sour dough starter from scratch, a little trial and error, and only a tiny amount of stress 🤪 we have a beautiful load of bread. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/4afee6ea26.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-02-02T09:37:21-06:00",
+				"date_published": "2022-02-02T10:37:21-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/02/02/the-hard-work.html"
 			},
 			{
@@ -92,7 +158,7 @@
 				
 				"content_html": "<p>Today I learned that my dad plays Wordle. I just assumed this was only big amongst the nerdy (❤️) crowd.</p>\n",
 				"content_text": "Today I learned that my dad plays Wordle. I just assumed this was only big amongst the nerdy (❤️) crowd. \n",
-				"date_published": "2022-02-02T06:57:09-06:00",
+				"date_published": "2022-02-02T07:57:09-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/02/02/today-i-learned.html"
 			},
 			{
@@ -100,7 +166,7 @@
 				
 				"content_html": "<p>Breakfast and lunch are done. Dinner is on its way. (Lunch is the pasta I made yesterday)</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/d0ad47b2b9.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Breakfast and lunch are done. Dinner is on its way. (Lunch is the pasta I made yesterday)\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/d0ad47b2b9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-30T12:00:55-06:00",
+				"date_published": "2022-01-30T13:00:55-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/30/breakfast-and-lunch.html"
 			},
 			{
@@ -108,7 +174,7 @@
 				"title": "Cooking as a vegan is food safer. 🌱",
 				"content_html": "<p>Listening to an ATP episode from a couple years ago (because I’m currently listening to them all in order, but that’s a story for another time) and they’re talking about gift ideas. Marco Arment mentioned a kitchen thermometer and how you need it if you cooked and I’m reminded of how easy it is to cook and store food when you don’t eat animals. Y’all should try it. Food safety is basically a non issue.</p>\n",
 				"content_text": "Listening to an ATP episode from a couple years ago (because I’m currently listening to them all in order, but that’s a story for another time) and they’re talking about gift ideas. Marco Arment mentioned a kitchen thermometer and how you need it if you cooked and I’m reminded of how easy it is to cook and store food when you don’t eat animals. Y’all should try it. Food safety is basically a non issue. \n",
-				"date_published": "2022-01-30T09:43:06-06:00",
+				"date_published": "2022-01-30T10:43:06-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/30/cooking-as-a.html"
 			},
 			{
@@ -116,7 +182,7 @@
 				
 				"content_html": "<p>My wife’s sourdough starter. Her name is Constance. I know, I know. Bread is so 2020, but we got a house with a reasonable kitchen in 2021 so 🤷🏽‍♂️</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/142cd3a25d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "My wife’s sourdough starter. Her name is Constance. I know, I know. Bread is so 2020, but we got a house with a reasonable kitchen in 2021 so 🤷🏽‍♂️ \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/142cd3a25d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-30T09:01:50-06:00",
+				"date_published": "2022-01-30T10:01:50-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/30/my-wifes-sourdough.html"
 			},
 			{
@@ -124,7 +190,7 @@
 				"title": "Seriously, grind your own peppercorns. You’ll thank me. ",
 				"content_html": "<p>I cook a lot and I always see “fresh black pepper” as an ingredient and I go and grab my pre ground pepper. Well yesterday I bought peppercorns and holy shit. Why did I not try this sooner?! Also you don’t need a pepper grinder if you have a mortar and pestle. (molcajete)</p>\n",
 				"content_text": "I cook a lot and I always see “fresh black pepper” as an ingredient and I go and grab my pre ground pepper. Well yesterday I bought peppercorns and holy shit. Why did I not try this sooner?! Also you don’t need a pepper grinder if you have a mortar and pestle. (molcajete)\n",
-				"date_published": "2022-01-30T08:48:14-06:00",
+				"date_published": "2022-01-30T09:48:14-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/30/seriously-grind-your.html"
 			},
 			{
@@ -132,7 +198,7 @@
 				
 				"content_html": "<p>Made some delicious (vegan) meaty pasta. 🍝</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/8ef7e4da2f.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/d56a75ed9a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/1fc7f1b203.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Made some delicious (vegan) meaty pasta. 🍝 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/8ef7e4da2f.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/d56a75ed9a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/1fc7f1b203.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-29T19:39:04-06:00",
+				"date_published": "2022-01-29T20:39:04-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/29/made-some-delicious.html"
 			},
 			{
@@ -140,7 +206,7 @@
 				
 				"content_html": "<p>If you like hip hop, @leemlizzy has some great music on Apple Music. I stumbled upon him on Instagram and I’m so glad. Two albums to start with. Good, instrumental, sample based hip hop. Definitely a bop.</p>\n\n<p><a href=\"https://music.apple.com/us/album/big-brother-butter/1343523076\">Big Brother Butter</a></p>\n\n<p><a href=\"https://music.apple.com/us/album/butter-trilogy-pt-2/1490298255\">Butter Trilogy, Pt. 2</a></p>\n",
 				"content_text": "If you like hip hop, @leemlizzy has some great music on Apple Music. I stumbled upon him on Instagram and I’m so glad. Two albums to start with. Good, instrumental, sample based hip hop. Definitely a bop. \n\n[Big Brother Butter](https://music.apple.com/us/album/big-brother-butter/1343523076)\n\n[Butter Trilogy, Pt. 2](https://music.apple.com/us/album/butter-trilogy-pt-2/1490298255)\n",
-				"date_published": "2022-01-29T19:33:55-06:00",
+				"date_published": "2022-01-29T20:33:55-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/29/if-you-like.html"
 			},
 			{
@@ -148,7 +214,7 @@
 				
 				"content_html": "<p>I find I’m way more chill about people cutting me off if they wave and acknowledge it. I wonder if anyone else feels this way. I know my wife doesn’t. 🤪</p>\n",
 				"content_text": "I find I’m way more chill about people cutting me off if they wave and acknowledge it. I wonder if anyone else feels this way. I know my wife doesn’t. 🤪 \n",
-				"date_published": "2022-01-29T13:56:18-06:00",
+				"date_published": "2022-01-29T14:56:18-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/29/i-find-im.html"
 			},
 			{
@@ -156,7 +222,7 @@
 				
 				"content_html": "<p>Letterman is a creep and it’s not hard to find several very creepy instances. 🤢 <a href=\"https://daringfireball.net/linked/2022/01/26/letterman-meyers\">daringfireball.net</a></p>\n",
 				"content_text": "Letterman is a creep and it’s not hard to find several very creepy instances. 🤢 [daringfireball.net](https://daringfireball.net/linked/2022/01/26/letterman-meyers)\n",
-				"date_published": "2022-01-28T19:37:26-06:00",
+				"date_published": "2022-01-28T20:37:26-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/28/letterman-is-a.html"
 			},
 			{
@@ -164,7 +230,7 @@
 				"title": "iCloud fears",
 				"content_html": "<p>I’ve been nervous about this affecting me but so far so good. I will however be taking Jesse’s advice and turning off optimize storage and making sure to sync all my iCloud stuff to Backblaze  I don’t have customers but I did convince my wife to store all of her stuff in there. 😬🤞🏽</p>\n\n<p>Thanks again @jesse_squires <a href=\"https://www.jessesquires.com/blog/2022/01/26/icloud-failures-developer-relations/\">www.jessesquires.com</a></p>\n",
 				"content_text": "I’ve been nervous about this affecting me but so far so good. I will however be taking Jesse’s advice and turning off optimize storage and making sure to sync all my iCloud stuff to Backblaze  I don’t have customers but I did convince my wife to store all of her stuff in there. 😬🤞🏽 \n\nThanks again @jesse_squires [www.jessesquires.com](https://www.jessesquires.com/blog/2022/01/26/icloud-failures-developer-relations/)\n",
-				"date_published": "2022-01-28T19:30:46-06:00",
+				"date_published": "2022-01-28T20:30:46-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/28/icloud-fears.html"
 			},
 			{
@@ -172,7 +238,7 @@
 				"title": "Here we go yo, so what, so what’s the scenario?",
 				"content_html": "<p>Great update from <a href=\"https://micro.blog/rogueamoeba\">@rogueamoeba</a>. They have seriously the best audio tools. I currently only own SoundSource but it’s 11/10. Can’t wait to buy some more!</p>\n\n<p><a href=\"https://weblog.rogueamoeba.com/2022/01/26/rogue-amoebas-2022-status-report/\">weblog.rogueamoeba.com</a></p>\n\n<p>Also apprarently the best taste in music as noted by the screenshot of an Apple TV playing “Scenario” by A Tribe Called Quest.</p>\n\n<p><a href=\"https://music.apple.com/us/album/scenario/278911460?i=278911479\">link to Scenario on Apple Music</a></p>\n",
 				"content_text": "Great update from [@rogueamoeba](https://micro.blog/rogueamoeba). They have seriously the best audio tools. I currently only own SoundSource but it’s 11/10. Can’t wait to buy some more!\n\n[weblog.rogueamoeba.com](https://weblog.rogueamoeba.com/2022/01/26/rogue-amoebas-2022-status-report/)\n\nAlso apprarently the best taste in music as noted by the screenshot of an Apple TV playing “Scenario” by A Tribe Called Quest. \n\n[link to Scenario on Apple Music](https://music.apple.com/us/album/scenario/278911460?i=278911479)\n",
-				"date_published": "2022-01-28T19:15:53-06:00",
+				"date_published": "2022-01-28T20:15:53-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/28/here-we-go.html"
 			},
 			{
@@ -180,7 +246,7 @@
 				
 				"content_html": "<p>I don’t know why I’ve never thought to do something like this. It looks so good. I really need to brush up on using Acorn again.</p>\n\n<p><a href=\"https://blog.gingerbeardman.com/2019/01/19/door-door-redrawn/\">Door Door Redrawn on blog.gingerbeardman.com</a></p>\n",
 				"content_text": "I don’t know why I’ve never thought to do something like this. It looks so good. I really need to brush up on using Acorn again. \n\n[Door Door Redrawn on blog.gingerbeardman.com](https://blog.gingerbeardman.com/2019/01/19/door-door-redrawn/)\n",
-				"date_published": "2022-01-28T19:04:33-06:00",
+				"date_published": "2022-01-28T20:04:33-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/28/i-dont-know.html"
 			},
 			{
@@ -188,7 +254,7 @@
 				
 				"content_html": "<p>Just started writing a post from @overcast.fm and noticed this weirdness. Almost thought I wasn’t going to be able to post it. Not sure if this is on <a href=\"https://micro.blog/marco\">@marco</a> or <a href=\"https://micro.blog/manton\">@manton</a>. Maybe <a href=\"https://micro.blog/help\">@help</a> would know?</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/4711560bb8.png\" width=\"277\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Just started writing a post from @overcast.fm and noticed this weirdness. Almost thought I wasn’t going to be able to post it. Not sure if this is on [@marco](https://micro.blog/marco) or [@manton](https://micro.blog/manton). Maybe [@help](https://micro.blog/help) would know?\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/4711560bb8.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-26T12:24:55-06:00",
+				"date_published": "2022-01-26T13:24:55-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/26/just-started-writing.html"
 			},
 			{
@@ -196,7 +262,7 @@
 				"title": "MarsEdit and Micro.blog",
 				"content_html": "<p>Just listened to the Microcast from <a href=\"https://micro.blog/manton\">@manton</a> and it’s talking about MarsEdit by <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a> how you can use both micro.blog and marsedit for the same things and I just thought it was interesting because I do that. Both amazing apps, though I use micro.blog more for browsing and quick posts and marsedit for longer stuff. I love that marsedit can pull in all your posts and edit them. Two amazing apps!</p>\n\n<p><a href=\"https://overcast.fm/+F18e26XHg\">overcast.fm</a></p>\n",
 				"content_text": "Just listened to the Microcast from [@manton](https://micro.blog/manton) and it’s talking about MarsEdit by [@danielpunkass](https://micro.blog/danielpunkass) how you can use both micro.blog and marsedit for the same things and I just thought it was interesting because I do that. Both amazing apps, though I use micro.blog more for browsing and quick posts and marsedit for longer stuff. I love that marsedit can pull in all your posts and edit them. Two amazing apps!\n\n[overcast.fm](https://overcast.fm/+F18e26XHg)\n",
-				"date_published": "2022-01-26T12:23:25-06:00",
+				"date_published": "2022-01-26T13:23:25-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/26/marsedit-and-microblog.html"
 			},
 			{
@@ -204,7 +270,7 @@
 				
 				"content_html": "<p>I am speechless. Great rendition of the time loop paradox. It’s so amazing when you watch something so powerful and yet so brief.</p>\n\n<p><a href=\"https://youtube.com/watch?v=68f27rqP_NY\">Omeleto on YouTube</a></p>\n",
 				"content_text": "I am speechless. Great rendition of the time loop paradox. It’s so amazing when you watch something so powerful and yet so brief. \n\n[Omeleto on YouTube](https://youtube.com/watch?v=68f27rqP_NY)\n",
-				"date_published": "2022-01-24T20:56:56-06:00",
+				"date_published": "2022-01-24T21:56:56-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/24/i-am-speechless.html"
 			},
 			{
@@ -212,7 +278,7 @@
 				
 				"content_html": "<p>Wow, this was so good. Hard to believe it was all shot on an iPhone.</p>\n\n<p><a href=\"https://youtu.be/Me3PEs88pOU\">The Comeback</a></p>\n",
 				"content_text": "Wow, this was so good. Hard to believe it was all shot on an iPhone. \n\n[The Comeback](https://youtu.be/Me3PEs88pOU)\n",
-				"date_published": "2022-01-24T20:28:45-06:00",
+				"date_published": "2022-01-24T21:28:45-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/24/wow-this-was.html"
 			},
 			{
@@ -220,7 +286,7 @@
 				
 				"content_html": "<p>Excellent piece on <code>diff</code> exit codes by <a href=\"https://micro.blog/drdrang@mastodon.cloud\">@drdrang@mastodon.cloud</a></p>\n\n<p><a href=\"https://leancrew.com/all-this/2022/01/whats-the-diff/\">leancrew.com</a></p>\n",
 				"content_text": "Excellent piece on `diff` exit codes by [@drdrang@mastodon.cloud](https://micro.blog/drdrang@mastodon.cloud) \n\n[leancrew.com](https://leancrew.com/all-this/2022/01/whats-the-diff/)\n",
-				"date_published": "2022-01-24T19:36:10-06:00",
+				"date_published": "2022-01-24T20:36:10-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/24/excellent-piece-on.html"
 			},
 			{
@@ -228,7 +294,7 @@
 				
 				"content_html": "<p>Love this food!</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/670f0f9b6a.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Love this food!\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/670f0f9b6a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-24T17:21:34-06:00",
+				"date_published": "2022-01-24T18:21:34-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/24/love-this-food.html"
 			},
 			{
@@ -236,7 +302,7 @@
 				"title": "Please give us usb-c on iPhone Apple!",
 				"content_html": "<p>I was unsure if I really <em>needed</em> usb-c on my phone, but after using my wife’s iPad Pro more I’m realizing it is necessary. Okay, not necessary but I really would like to be able to charge both with the same cable and not have to unplug the cable from the charging brick and plug in the usb-c cable for the iPad. I am aware this is a classic “first world problem”, but that’s why I pay a bajillion dollars for these products.</p>\n\n<p>As always <a href=\"https://micro.blog/mjtsai\">@mjtsai</a> has great quotes to support this.</p>\n\n<p><a href=\"https://mjtsai.com/blog/2022/01/21/how-apple-destroys-lightning/\">mjtsai.com</a></p>\n",
 				"content_text": "I was unsure if I really _needed_ usb-c on my phone, but after using my wife’s iPad Pro more I’m realizing it is necessary. Okay, not necessary but I really would like to be able to charge both with the same cable and not have to unplug the cable from the charging brick and plug in the usb-c cable for the iPad. I am aware this is a classic “first world problem”, but that’s why I pay a bajillion dollars for these products. \n\nAs always [@mjtsai](https://micro.blog/mjtsai) has great quotes to support this. \n\n[mjtsai.com](https://mjtsai.com/blog/2022/01/21/how-apple-destroys-lightning/)\n",
-				"date_published": "2022-01-21T19:02:26-06:00",
+				"date_published": "2022-01-21T20:02:26-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/21/please-give-us.html"
 			},
 			{
@@ -244,7 +310,7 @@
 				"title": "Messages needs mark as unread. Maybe. ",
 				"content_html": "<p>Mark as unread would be amazing, but this is why I enable message previews. I can read most of the message and leave it in an unread state. I was really excited when Face ID came around and I could make them hidden from view unless unlocked. And the unread status still works!</p>\n\n<p><a href=\"https://micro.blog/gruber\">@gruber</a>  of course has more thoughts about it.</p>\n\n<p><a href=\"https://daringfireball.net/linked/2022/01/21/mark-as-unread-messages\">daringfireball.net</a></p>\n",
 				"content_text": "Mark as unread would be amazing, but this is why I enable message previews. I can read most of the message and leave it in an unread state. I was really excited when Face ID came around and I could make them hidden from view unless unlocked. And the unread status still works! \n\n[@gruber](https://micro.blog/gruber)  of course has more thoughts about it. \n\n[daringfireball.net](https://daringfireball.net/linked/2022/01/21/mark-as-unread-messages)\n",
-				"date_published": "2022-01-21T18:57:45-06:00",
+				"date_published": "2022-01-21T19:57:45-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/21/messages-needs-mark.html"
 			},
 			{
@@ -252,7 +318,7 @@
 				
 				"content_html": "<p>Great little history on what and why the filibuster exists. <a href=\"https://howdemocracyworks.wordpress.com/2012/05/15/what-filibuster-is-why-important/\">What the filibuster is and why it’s important - how democracy works</a></p>\n",
 				"content_text": "Great little history on what and why the filibuster exists. [What the filibuster is and why it’s important - how democracy works](https://howdemocracyworks.wordpress.com/2012/05/15/what-filibuster-is-why-important/)\n",
-				"date_published": "2022-01-20T19:55:02-06:00",
+				"date_published": "2022-01-20T20:55:02-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/20/great-little-history.html"
 			},
 			{
@@ -260,7 +326,7 @@
 				
 				"content_html": "<p>Success! Air fryer rolled tacos! Took me a couple days of trial and error (and tostadas), but we did it. And my wife liked them too. I haven’t had rolled tacos in years so this was quite it nostalgic moment for me.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/6dbc22a405.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/46bb1953cd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/44e24706a9.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/24a227bbef.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Success! Air fryer rolled tacos! Took me a couple days of trial and error (and tostadas), but we did it. And my wife liked them too. I haven’t had rolled tacos in years so this was quite it nostalgic moment for me. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/6dbc22a405.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/46bb1953cd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/44e24706a9.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/24a227bbef.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-20T17:51:46-06:00",
+				"date_published": "2022-01-20T18:51:46-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/20/success-air-fryer.html"
 			},
 			{
@@ -268,7 +334,7 @@
 				
 				"content_html": "<p>Might as well post breakfast too. I make this burrito most days.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/af834407a0.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/b35f2febd4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/edc01176d2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Might as well post breakfast too. I make this burrito most days. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/af834407a0.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/b35f2febd4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/edc01176d2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-19T08:04:47-06:00",
+				"date_published": "2022-01-19T09:04:47-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/19/might-as-well.html"
 			},
 			{
@@ -276,7 +342,7 @@
 				"title": "tomato potato cauliflower pea and lentil curry for lunch",
 				"content_html": "<p>Aloo gobi mattar dal tamatar subzi. Potato, cauliflower, pea, lentil, and tomato curry. Adapted from the @veganricha recipe in her book page 87. I made this in the instant pot so had to adapt a little more but came out great. Also made some basmati rice and simmered mustard and cumin seed in oil and cooked that with the rice. Also pictured, roti cooked from dough I bought at the Indian grocery store.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/bfd59a3a60.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/e65e142b2d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Aloo gobi mattar dal tamatar subzi. Potato, cauliflower, pea, lentil, and tomato curry. Adapted from the @veganricha recipe in her book page 87. I made this in the instant pot so had to adapt a little more but came out great. Also made some basmati rice and simmered mustard and cumin seed in oil and cooked that with the rice. Also pictured, roti cooked from dough I bought at the Indian grocery store. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/bfd59a3a60.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/e65e142b2d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-19T07:12:30-06:00",
+				"date_published": "2022-01-19T08:12:30-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/19/tomato-potato-cauliflower.html"
 			},
 			{
@@ -284,7 +350,7 @@
 				"title": "tostadas for dinner",
 				"content_html": "<p>Tostadas con frijoles y arroz Mexicano. I intended to make rolled tacos but made my beans too runny so we decided to air fry tortillas to make tostadas. They came out amazing! My wife also made a cheese sauce from @ohsheglows cookbook. As always the rice is @morenita.salazar.k recipe but I’ve adapted it over time to be vegan. The tostadas have beans, lettuce, tomatoes, pickled jalapeños, cheese sauce, salsa verde, @herdezmexico chipotle cremosa (holy shit this stuff is good), and cashew sour cream. These were next level.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/2680cc188e.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Tostadas con frijoles y arroz Mexicano. I intended to make rolled tacos but made my beans too runny so we decided to air fry tortillas to make tostadas. They came out amazing! My wife also made a cheese sauce from @ohsheglows cookbook. As always the rice is @morenita.salazar.k recipe but I’ve adapted it over time to be vegan. The tostadas have beans, lettuce, tomatoes, pickled jalapeños, cheese sauce, salsa verde, @herdezmexico chipotle cremosa (holy shit this stuff is good), and cashew sour cream. These were next level. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/2680cc188e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-19T07:11:14-06:00",
+				"date_published": "2022-01-19T08:11:14-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/19/tostadas-for-dinner.html"
 			},
 			{
@@ -292,7 +358,7 @@
 				"title": "What goes into making an OS to be Unix compliant certified? by Terry Lambert",
 				"content_html": "<p>I read his post on NetNewsWire and didn’t realize he actually did link the post but I already typed this so…</p>\n\n<p><a href=\"https://shapeof.com/archives/2022/1/making_macos_x_unix.html\">Link to Gus’ post</a>. Thanks Gus!</p>\n\n<p>Gus Mueller from Flying Meat software, maker of the amazing graphics editor Acorn and Saint Louisan, posted a very interesting excerpt on his blog about macOS and Unix ceritification. <s>He didn’t link the post and I was very curious so I found it for anyone who cares to read it</s> 🤦🏽‍♂️. Super interesting!!! Warning, it’s on Quora.</p>\n\n<p><a href=\"https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified/answer/Terry-Lambert\">Answer to What goes into making an OS to be Unix compliant certified? by Terry Lambert</a></p>\n",
 				"content_text": "I read his post on NetNewsWire and didn’t realize he actually did link the post but I already typed this so…\n\n[Link to Gus’ post](https://shapeof.com/archives/2022/1/making_macos_x_unix.html). Thanks Gus!\n\nGus Mueller from Flying Meat software, maker of the amazing graphics editor Acorn and Saint Louisan, posted a very interesting excerpt on his blog about macOS and Unix ceritification. <s>He didn’t link the post and I was very curious so I found it for anyone who cares to read it</s> 🤦🏽‍♂️. Super interesting!!! Warning, it’s on Quora. \n\n[Answer to What goes into making an OS to be Unix compliant certified? by Terry Lambert](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified/answer/Terry-Lambert)\n",
-				"date_published": "2022-01-18T21:13:43-06:00",
+				"date_published": "2022-01-18T22:13:43-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/18/what-goes-into.html"
 			},
 			{
@@ -300,7 +366,7 @@
 				
 				"content_html": "<p>Yes, cryptocurrencies and NFTs are indeed a scam. <a href=\"https://www.jessesquires.com/blog/2022/01/16/nfts-and-web3/\">www.jessesquires.com</a></p>\n",
 				"content_text": "Yes, cryptocurrencies and NFTs are indeed a scam. [www.jessesquires.com](https://www.jessesquires.com/blog/2022/01/16/nfts-and-web3/)\n",
-				"date_published": "2022-01-17T19:09:56-06:00",
+				"date_published": "2022-01-17T20:09:56-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/17/yes-cryptocurrencies-and.html"
 			},
 			{
@@ -308,7 +374,7 @@
 				"title": "Really cool stop motion video of a milk crate being made",
 				"content_html": "<p>I caught this on the Tom Scott newsletter, but for anyone who hasn&rsquo;t seen this it&rsquo;s very interesting. As noted in the video, no CG was used. Just a bunch of photos. And even more time.</p>\n\n<p><a href=\"https://youtu.be/eMYWVKd0ar0\">Video by omozoc on YouTube</a></p>\n",
 				"content_text": "I caught this on the Tom Scott newsletter, but for anyone who hasn't seen this it's very interesting. As noted in the video, no CG was used. Just a bunch of photos. And even more time.\n\n[Video by omozoc on YouTube](https://youtu.be/eMYWVKd0ar0)\n",
-				"date_published": "2022-01-17T15:31:30-06:00",
+				"date_published": "2022-01-17T16:31:30-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/17/really-cool-stop.html",
 				"tags": ["random"]
 			},
@@ -317,7 +383,7 @@
 				"title": "What if we were using Mac OS 9 in 2021?",
 				"content_html": "<p>Really cool video from Michael Feeney exploring what it would be like to use the technology of today with the limitations of yesterday. It’s amazing the skills that some people have. Amazingly well done.</p>\n\n<p><a href=\"https://swallowmygraphicdesign.com/project/macostalgia\">Link to his site</a></p>\n\n<p><a href=\"https://youtube.com/watch?v=2DwJNQMBCOk&amp;feature=share\">the video</a></p>\n\n<p>I used Mac OS 9 a few times when I was in the 4th or 5th grade, around 2002-2003. I can remember there being a couple iMac G3s in the back of my classroom. I wish I could’ve used it more.</p>\n",
 				"content_text": "Really cool video from Michael Feeney exploring what it would be like to use the technology of today with the limitations of yesterday. It’s amazing the skills that some people have. Amazingly well done. \n\n[Link to his site](https://swallowmygraphicdesign.com/project/macostalgia)\n\n[the video](https://youtube.com/watch?v=2DwJNQMBCOk&feature=share)\n\nI used Mac OS 9 a few times when I was in the 4th or 5th grade, around 2002-2003. I can remember there being a couple iMac G3s in the back of my classroom. I wish I could’ve used it more. \n",
-				"date_published": "2022-01-15T20:14:18-06:00",
+				"date_published": "2022-01-15T21:14:18-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/15/what-if-we.html"
 			},
 			{
@@ -325,7 +391,7 @@
 				
 				"content_html": "<p>I find this absolutely hilarious. DRM is restricting the DRM creators. <a href=\"https://mjtsai.com/blog/2022/01/14/canon-forced-to-ship-knockoff-ink-cartridges/\">mjtsai.com</a></p>\n",
 				"content_text": "I find this absolutely hilarious. DRM is restricting the DRM creators. [mjtsai.com](https://mjtsai.com/blog/2022/01/14/canon-forced-to-ship-knockoff-ink-cartridges/)\n",
-				"date_published": "2022-01-14T20:06:12-06:00",
+				"date_published": "2022-01-14T21:06:12-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/14/i-find-this.html"
 			},
 			{
@@ -333,7 +399,7 @@
 				"title": "KFC plant based chicken nuggets are meh",
 				"content_html": "<p>Tried the new Beyond Meat chicken nuggets from KFC because why not. Great breading, but unfortunately they were dense as hell. Another local restaurant, Sybergs, serves the beyond meat chicken tenders and while the breading isn’t as good, they are moist and juicy. It was worth the try and I’d eat if I were stuck in the middle of nowhere, but it’s about on par with the Burger King impossible whopper. Which is to say that non vegans seem to struggle with cooking non meat products.</p>\n\n<p>What a shame because I love that there are more plant based options accessible to people who normally wouldn’t seek that out. I’m hoping this is the beginning and not the end and there is only upside from here because we really shouldn’t be raising animals for food. For many reasons.</p>\n\n<p>🫂 🐓🐄🐪🦬🐐 🐑 🐖 🦌 🦃</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/82aaa7b2ae.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/85c929385c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9b7b576d74.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Tried the new Beyond Meat chicken nuggets from KFC because why not. Great breading, but unfortunately they were dense as hell. Another local restaurant, Sybergs, serves the beyond meat chicken tenders and while the breading isn’t as good, they are moist and juicy. It was worth the try and I’d eat if I were stuck in the middle of nowhere, but it’s about on par with the Burger King impossible whopper. Which is to say that non vegans seem to struggle with cooking non meat products. \n\nWhat a shame because I love that there are more plant based options accessible to people who normally wouldn’t seek that out. I’m hoping this is the beginning and not the end and there is only upside from here because we really shouldn’t be raising animals for food. For many reasons. \n\n🫂 🐓🐄🐪🦬🐐 🐑 🐖 🦌 🦃 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/82aaa7b2ae.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/85c929385c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9b7b576d74.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-13T06:54:30-06:00",
+				"date_published": "2022-01-13T07:54:30-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/13/kfc-plant-based.html"
 			},
 			{
@@ -341,7 +407,7 @@
 				"title": "Ticket to Ride Local multiplayer with DLC maps",
 				"content_html": "<p>** tl;dr you choose the map on your phone, not on the game console. **</p>\n\n<p>I purchased Ticket to Ride on my PlayStation 4 recently after playing the board game. I wanted to play the expansions as well and particularly in local mode so I could play with my wife. When we first purchased the DLC for the game, it was unclear to us how, if it all, to play the other maps. After spending an hour or so looking into it and reading online we couldn’t find anything so we decided to try to get a refund on the DLC and just play the base game. So sad.</p>\n\n<p>Through some sort of luck, we noticed something when playing the base game again after the refund…</p>\n\n<p>A little background first.</p>\n\n<p>When you start the game and choose local mode, the game asks you to install an app on your mobile device so that you can keep your cards to yourself. Makes sense. What we didn’t realize is that the mobile interface is actually how you choose the maps! ¡Fantástico! In other play modes you choose the map with the controller so we must have missed this earlier.</p>\n\n<p>So like any reasonable person, we bought the DLC again and we were able to play the Europe version of the game! It was so much fun and more challenging than the US map. Highly recommend this game.</p>\n\n<p>Footnote, thanks to Sony for giving us a refund. I also reached out to the company who made the game with the same question and they never got back to me after saying they’d reach out to the engineers. Amazing that no one had this info so hopefully this post will help some other poor soul who just wants to play the train game.</p>\n\n<p>🚞🚊🚂🚆🚄🚅🚃🚇🚝🚋🚈🛤🚉</p>\n",
 				"content_text": "** tl;dr you choose the map on your phone, not on the game console. **\n\nI purchased Ticket to Ride on my PlayStation 4 recently after playing the board game. I wanted to play the expansions as well and particularly in local mode so I could play with my wife. When we first purchased the DLC for the game, it was unclear to us how, if it all, to play the other maps. After spending an hour or so looking into it and reading online we couldn’t find anything so we decided to try to get a refund on the DLC and just play the base game. So sad. \n\nThrough some sort of luck, we noticed something when playing the base game again after the refund…\n\nA little background first. \n\nWhen you start the game and choose local mode, the game asks you to install an app on your mobile device so that you can keep your cards to yourself. Makes sense. What we didn’t realize is that the mobile interface is actually how you choose the maps! ¡Fantástico! In other play modes you choose the map with the controller so we must have missed this earlier. \n\nSo like any reasonable person, we bought the DLC again and we were able to play the Europe version of the game! It was so much fun and more challenging than the US map. Highly recommend this game. \n\nFootnote, thanks to Sony for giving us a refund. I also reached out to the company who made the game with the same question and they never got back to me after saying they’d reach out to the engineers. Amazing that no one had this info so hopefully this post will help some other poor soul who just wants to play the train game. \n\n🚞🚊🚂🚆🚄🚅🚃🚇🚝🚋🚈🛤🚉\n",
-				"date_published": "2022-01-09T10:01:05-06:00",
+				"date_published": "2022-01-09T11:01:05-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/09/ticket-to-ride.html"
 			},
 			{
@@ -349,7 +415,7 @@
 				
 				"content_html": "<p>Small accomplishment, but I’m happy with it. ¡Pero hay más que aprender!</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/0f478412e0.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Small accomplishment, but I’m happy with it. ¡Pero hay más que aprender!\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/0f478412e0.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-09T09:46:24-06:00",
+				"date_published": "2022-01-09T10:46:24-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/09/small-accomplishment-but.html"
 			},
 			{
@@ -357,7 +423,7 @@
 				
 				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-05T17:12:46-06:00",
+				"date_published": "2022-01-05T18:12:46-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/05/171246.html"
 			},
 			{
@@ -365,7 +431,7 @@
 				
 				"content_html": "<p>Can’t wait to set this up! Really looking forward to having more photos on my photo page.</p>\n\n<p><a href=\"https://www.manton.org/2022/01/02/wrote-a-plugin.html\">www.manton.org</a></p>\n",
 				"content_text": "Can’t wait to set this up! Really looking forward to having more photos on my photo page. \n\n[www.manton.org](https://www.manton.org/2022/01/02/wrote-a-plugin.html)\n",
-				"date_published": "2022-01-04T07:31:38-06:00",
+				"date_published": "2022-01-04T08:31:38-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/04/cant-wait-to.html"
 			},
 			{
@@ -373,7 +439,7 @@
 				"title": "Why does Xcode 13 not include an Info.plist for SwiftUI projects?",
 				"content_html": "\n\n<p>I keep forgetting about this so maybe this will keep it in my mind.</p>\n\n<p><a href=\"https://useyourloaf.com/blog/xcode-13-missing-info.plist/\">Xcode 13 Missing Info.plist</a></p>\n\n<h3 id=\"most-important-bit-go-to-project-settings-and-click-on-info-tab\">Most important bit, go to project settings and click on info tab</h3>\n\n<h4 id=\"the-why\">The why</h4>\n\n<blockquote>\n<p>Projects created from several templates no longer require configuration files such as entitlements and Info.plist files. Configure common fields in the target’s Info tab, and build settings in the project editor. These files are added to the project when additional fields are used. (68254857)</p>\n</blockquote>\n",
 				"content_text": "I keep forgetting about this so maybe this will keep it in my mind.\n\n[Xcode 13 Missing Info.plist](https://useyourloaf.com/blog/xcode-13-missing-info.plist/)\n\n### Most important bit, go to project settings and click on info tab\n\n#### The why\n\n> Projects created from several templates no longer require configuration files such as entitlements and Info.plist files. Configure common fields in the target’s Info tab, and build settings in the project editor. These files are added to the project when additional fields are used. (68254857)\n\n",
-				"date_published": "2022-01-02T22:25:13-06:00",
+				"date_published": "2022-01-02T23:25:13-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/02/why-does-xcode.html"
 			},
 			{
@@ -381,7 +447,7 @@
 				"title": "Being a parent ",
 				"content_html": "<p>Now that my daughter is six months old I feel like I have a better grasp on what being a parent is like.</p>\n\n<p>It’s so interesting how many different opinions there are. As my friend Bill once said, “Nick, you like to live your life on hard mode” and this is no different. Raising a baby without resorting to tv babysitting has been very interesting. Don’t get me wrong, sometimes she sees the tv but we are careful to curtail it as often as it happens. It’s more effort to spend time with her and I’m so happy and fortunate that I have this opportunity.</p>\n\n<p>Being a parent is the most amazing thing I’ve ever done and I’d do it again! If you have the means and desire, I would recommend it. Just make sure you’re ready to change your life for them. Although I think once you meet your child you’ll never have a thought that contradicts that love and care. Even in the challenging moments. Maybe I’m just crazy. Maybe I’m crazy in love. I don’t know everything, but I do like being parent.</p>\n\n<p>Important notes, I’m a reasonably well paid software engineer who gets to work from home and I make enough that my wife can afford to stay home with the baby. I recognize this is not the norm and many likely wouldn’t want to live this way, but I do and I love it. I also recognize (or try to) my privilege</p>\n\n<p>Also I’m aware that I write like a child and this is likely rambling nonsense, but I just wanted to write something about her.</p>\n",
 				"content_text": "Now that my daughter is six months old I feel like I have a better grasp on what being a parent is like. \n\nIt’s so interesting how many different opinions there are. As my friend Bill once said, “Nick, you like to live your life on hard mode” and this is no different. Raising a baby without resorting to tv babysitting has been very interesting. Don’t get me wrong, sometimes she sees the tv but we are careful to curtail it as often as it happens. It’s more effort to spend time with her and I’m so happy and fortunate that I have this opportunity. \n\nBeing a parent is the most amazing thing I’ve ever done and I’d do it again! If you have the means and desire, I would recommend it. Just make sure you’re ready to change your life for them. Although I think once you meet your child you’ll never have a thought that contradicts that love and care. Even in the challenging moments. Maybe I’m just crazy. Maybe I’m crazy in love. I don’t know everything, but I do like being parent. \n\nImportant notes, I’m a reasonably well paid software engineer who gets to work from home and I make enough that my wife can afford to stay home with the baby. I recognize this is not the norm and many likely wouldn’t want to live this way, but I do and I love it. I also recognize (or try to) my privilege \n\nAlso I’m aware that I write like a child and this is likely rambling nonsense, but I just wanted to write something about her. \n\n",
-				"date_published": "2022-01-02T14:05:13-06:00",
+				"date_published": "2022-01-02T15:05:13-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/02/being-a-parent.html"
 			},
 			{
@@ -389,7 +455,7 @@
 				
 				"content_html": "<p>Vegan New York-style meat lovers pizza from Pizza Head in St. Louis, Missouri. This one is made with cashew cheese and it’s amazing. I only wish it was closer. 🍕</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/8929a006e2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Vegan New York-style meat lovers pizza from Pizza Head in St. Louis, Missouri. This one is made with cashew cheese and it’s amazing. I only wish it was closer. 🍕 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/8929a006e2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-02T13:55:35-06:00",
+				"date_published": "2022-01-02T14:55:35-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/02/vegan-new-yorkstyle.html"
 			},
 			{
@@ -397,7 +463,7 @@
 				
 				"content_html": "<p>My in-laws got a board game called Ticket to Ride for Christmas and it’s really fun and pretty straight forward to play. They also have a digital version so my wife and I have been playing on my PS4. Would highly recommend! 🚂</p>\n",
 				"content_text": "My in-laws got a board game called Ticket to Ride for Christmas and it’s really fun and pretty straight forward to play. They also have a digital version so my wife and I have been playing on my PS4. Would highly recommend! 🚂 \n",
-				"date_published": "2022-01-02T13:52:07-06:00",
+				"date_published": "2022-01-02T14:52:07-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/02/my-inlaws-got.html"
 			},
 			{
@@ -405,7 +471,7 @@
 				"title": "The New Year is cool and all...",
 				"content_html": "<p>But someone is blowing some sort of kazoo type thing outside and boy is it loud. 🥳👀</p>\n",
 				"content_text": "<p>But someone is blowing some sort of kazoo type thing outside and boy is it loud. 🥳👀</p>\n",
-				"date_published": "2022-01-01T00:02:37-06:00",
+				"date_published": "2022-01-01T01:02:37-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/01/the-new-year.html",
 				"tags": ["random"]
 			},
@@ -414,7 +480,7 @@
 				
 				"content_html": "<p>This is her go to spot in my office.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/9b28343337.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "This is her go to spot in my office. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/9b28343337.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-12-30T19:03:34-06:00",
+				"date_published": "2021-12-30T20:03:34-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/12/30/this-is-her.html"
 			},
 			{
@@ -422,7 +488,7 @@
 				
 				"content_html": "<p>Wow, Alexa. Suggesting electrocution as a challege for a child. <a href=\"https://onefoottsunami.com/2021/12/28/alexa-the-psychopath/\">onefoottsunami.com</a></p>\n",
 				"content_text": "Wow, Alexa. Suggesting electrocution as a challege for a child. [onefoottsunami.com](https://onefoottsunami.com/2021/12/28/alexa-the-psychopath/)\n",
-				"date_published": "2021-12-29T22:14:09-06:00",
+				"date_published": "2021-12-29T23:14:09-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/12/29/wow-alexa-suggesting.html",
 				"tags": ["technology","random"]
 			},
@@ -431,7 +497,7 @@
 				
 				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/c081d67f49.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/c081d67f49.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2021-12-29T12:31:32-06:00",
+				"date_published": "2021-12-29T13:31:32-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/12/29/123132.html"
 			},
 			{
@@ -439,7 +505,7 @@
 				"title": "My dad tried vegan meat and he liked it.",
 				"content_html": "<p>Spent the weekend down at my dad’s house. It was really nice to be out there and have them visit my daughter. It was also nice to bring down some vegan meats and have them try them. I was worried that they’d be like your typical person and shudder at the idea of it, but they tried the burgers and the sausages. I was surprised how much they enjoyed them. They even said they liked the beyond meat breakfast sausages more than they like regular sausage. <br /><br />What an amazing weekend.</p>\n",
 				"content_text": "<p>Spent the weekend down at my dad’s house. It was really nice to be out there and have them visit my daughter. It was also nice to bring down some vegan meats and have them try them. I was worried that they’d be like your typical person and shudder at the idea of it, but they tried the burgers and the sausages. I was surprised how much they enjoyed them. They even said they liked the beyond meat breakfast sausages more than they like regular sausage. <br /><br />What an amazing weekend.</p>\n",
-				"date_published": "2021-12-20T08:18:47-06:00",
+				"date_published": "2021-12-20T09:18:47-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/12/20/my-dad-tried.html",
 				"tags": ["random"]
 			},
@@ -448,7 +514,7 @@
 				"title": "How to pronounce my surname",
 				"content_html": "<p><a href=\"https://forvo.com/word/kaczmarek/\">[kat͡ʂˈmarɛk]</a></p>\n",
 				"content_text": "<p><a href=\"https://forvo.com/word/kaczmarek/\">[kat͡ʂˈmarɛk]</a></p>\n",
-				"date_published": "2021-12-14T08:21:26-06:00",
+				"date_published": "2021-12-14T09:21:26-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/12/14/how-to-pronounce.html",
 				"tags": ["random"]
 			},
@@ -457,7 +523,7 @@
 				
 				"content_html": "<p>I think this was a great explanation from kurzgesagt. Wish more people understood this.</p>\n\n<p><a href=\"https://youtu.be/XFqn3uy238E\">youtu.be/XFqn3uy23&hellip;</a></p>\n",
 				"content_text": "I think this was a great explanation from kurzgesagt. Wish more people understood this. \n\n[youtu.be/XFqn3uy23...](https://youtu.be/XFqn3uy238E)\n",
-				"date_published": "2021-12-08T06:46:28-06:00",
+				"date_published": "2021-12-08T07:46:28-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/12/08/i-think-this.html"
 			},
 			{
@@ -465,7 +531,7 @@
 				
 				"content_html": "<p>Is meat really that bad?</p>\n\n<blockquote>\n<p><a href=\"https://youtube.com/watch?v=F1Hq8eVOMHs&amp;feature=share\">youtube.com/watch</a></p>\n</blockquote>\n",
 				"content_text": "Is meat really that bad?\n\n> [youtube.com/watch](https://youtube.com/watch?v=F1Hq8eVOMHs&feature=share)\n",
-				"date_published": "2021-12-02T07:06:11-06:00",
+				"date_published": "2021-12-02T08:06:11-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/12/02/is-meat-really.html"
 			},
 			{
@@ -473,7 +539,7 @@
 				"title": "Pie pumpkins",
 				"content_html": "<p>My wife has been making pumpkin pies lately from the little pie pumpkins you get at the grocery store. Normally we’d buy canned, but thought fresh would be better. I’ve heard the large ones have no flavor really, but assumed the little ones would. And they do, but not as much as you’d think.</p>\n\n<p>I was especially curious why the canned pumpkin was so much darker. After doing a little research I learned that much of canned pumpkin is actually another squash called Dickinson pumpkin. It’s huge and kind of pale orange/yellow.</p>\n\n<p>Maybe everyone knows this, but I was a little surprised. I’ll still continue to purchase pie pumpkins, but now I really want to try a Dickinson pumpkin.</p>\n",
 				"content_text": "My wife has been making pumpkin pies lately from the little pie pumpkins you get at the grocery store. Normally we’d buy canned, but thought fresh would be better. I’ve heard the large ones have no flavor really, but assumed the little ones would. And they do, but not as much as you’d think. \n\nI was especially curious why the canned pumpkin was so much darker. After doing a little research I learned that much of canned pumpkin is actually another squash called Dickinson pumpkin. It’s huge and kind of pale orange/yellow. \n\nMaybe everyone knows this, but I was a little surprised. I’ll still continue to purchase pie pumpkins, but now I really want to try a Dickinson pumpkin. \n",
-				"date_published": "2021-11-28T07:30:35-06:00",
+				"date_published": "2021-11-28T08:30:35-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/11/28/pie-pumpkins.html"
 			},
 			{
@@ -481,7 +547,7 @@
 				"title": "Really cool video about Pando from It's Okay to be Smart",
 				"content_html": "<blockquote>\n<p><a href=\"https://www.youtube.com/watch?v=TJuVm5p4TI0\">https://www.youtube.com/watch?v=TJuVm5p4TI0</a></p>\n</blockquote>\n",
 				"content_text": "<blockquote>\n<p><a href=\"https://www.youtube.com/watch?v=TJuVm5p4TI0\">https://www.youtube.com/watch?v=TJuVm5p4TI0</a></p>\n</blockquote>\n",
-				"date_published": "2021-11-11T10:48:40-06:00",
+				"date_published": "2021-11-11T11:48:40-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/11/11/really-cool-video.html",
 				"tags": ["random"]
 			},
@@ -490,7 +556,7 @@
 				"title": "My wife made brownies. Last week.",
 				"content_html": "<p>My wife made the most delicious brownies last weekend. It was our first time making brownies from scratch (and especially from scratch vegan). Turns out the recipe is a ton of chocolate and butter. They turned out amazing and only lasted for days.<br /><br /><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6476.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/cb804e6fdc.png\" alt=\"Vegan brownies from above, in pan still.\" width=\"300\" height=\"225\" border=\"0\" /><img style=\"text-align: justify; display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6477.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/74318667d9.png\" alt=\"Vegan brownies, directly above in pan\" width=\"225\" height=\"300\" border=\"0\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6478.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/69ae17ae64.png\" alt=\"Vegan brownie detail in my hand\" width=\"225\" height=\"300\" border=\"0\" /><img style=\"text-align: justify; display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6479.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/329ba5652a.png\" alt=\"Vegan brownie detail in my hand, second angle\" width=\"225\" height=\"300\" border=\"0\" /></p>\n",
 				"content_text": "<p>My wife made the most delicious brownies last weekend. It was our first time making brownies from scratch (and especially from scratch vegan). Turns out the recipe is a ton of chocolate and butter. They turned out amazing and only lasted for days.<br /><br /><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6476.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/cb804e6fdc.png\" alt=\"Vegan brownies from above, in pan still.\" width=\"300\" height=\"225\" border=\"0\" /><img style=\"text-align: justify; display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6477.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/74318667d9.png\" alt=\"Vegan brownies, directly above in pan\" width=\"225\" height=\"300\" border=\"0\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6478.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/69ae17ae64.png\" alt=\"Vegan brownie detail in my hand\" width=\"225\" height=\"300\" border=\"0\" /><img style=\"text-align: justify; display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_6479.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/329ba5652a.png\" alt=\"Vegan brownie detail in my hand, second angle\" width=\"225\" height=\"300\" border=\"0\" /></p>\n",
-				"date_published": "2021-11-01T13:00:07-06:00",
+				"date_published": "2021-11-01T14:00:07-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/11/01/my-wife-made.html",
 				"tags": ["food"]
 			},
@@ -499,7 +565,7 @@
 				
 				"content_html": "<p>Went for a bike ride with my father in law this weekend. Saw this pretty tree. I’m so fortunate that I live in a world where I can fit an amazing camera into my pocket comfortably.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/11beb33598.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Went for a bike ride with my father in law this weekend. Saw this pretty tree. I’m so fortunate that I live in a world where I can fit an amazing camera into my pocket comfortably. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/11beb33598.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-11-01T12:51:59-06:00",
+				"date_published": "2021-11-01T13:51:59-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/11/01/went-for-a.html"
 			},
 			{
@@ -507,7 +573,7 @@
 				
 				"content_html": "<p>Forgot to buy candy. Happy Halloween. 🎃</p>\n",
 				"content_text": "Forgot to buy candy. Happy Halloween. 🎃 \n",
-				"date_published": "2021-10-31T19:59:52-06:00",
+				"date_published": "2021-10-31T20:59:52-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/10/31/forgot-to-buy.html"
 			},
 			{
@@ -515,7 +581,7 @@
 				
 				"content_html": "<p>3 yr old: it’s kinda like a taco hat.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/7b12c57e40.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "3 yr old: it’s kinda like a taco hat. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/7b12c57e40.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-10-09T15:34:07-06:00",
+				"date_published": "2021-10-09T16:34:07-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/10/09/yr-old-its.html"
 			},
 			{
@@ -523,7 +589,7 @@
 				
 				"content_html": "<p>Potato wedge salad with tempeh bacon</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/8372b2dd14.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Potato wedge salad with tempeh bacon\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/8372b2dd14.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-10-06T11:00:57-06:00",
+				"date_published": "2021-10-06T12:00:57-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/10/06/potato-wedge-salad.html"
 			},
 			{
@@ -531,7 +597,7 @@
 				
 				"content_html": "<p>Early morning shot from my new house. The sun was so intense. It created such a beautiful glow on everything.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/85af1f009c.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "Early morning shot from my new house. The sun was so intense. It created such a beautiful glow on everything. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/85af1f009c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2021-10-04T12:30:19-06:00",
+				"date_published": "2021-10-04T13:30:19-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/10/04/early-morning-shot.html"
 			},
 			{
@@ -539,7 +605,7 @@
 				
 				"content_html": "<p>The burrito</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/aca0e084ab.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/e033bfe397.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/b893cce8ac.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "The burrito\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/aca0e084ab.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/e033bfe397.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/b893cce8ac.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-10-02T11:48:32-06:00",
+				"date_published": "2021-10-02T12:48:32-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/10/02/the-burrito.html"
 			},
 			{
@@ -547,7 +613,7 @@
 				
 				"content_html": "<p>Another day, another burrito 🌯</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/a5e5d7f9b0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "Another day, another burrito 🌯 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/a5e5d7f9b0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2021-10-02T07:38:30-06:00",
+				"date_published": "2021-10-02T08:38:30-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/10/02/another-day-another.html"
 			},
 			{
@@ -555,7 +621,7 @@
 				"title": "More places you can debug with a REPL",
 				"content_html": "<p><a href=\"https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/\">Debugging by starting a REPL at a breakpoint is fun</a></p>\n\n<p>This was a really interesting read about debugging using REPLs. Two more to add to the list are:</p>\n\n<ul>\n<li>.NET using visual studio’s immediate mode (I think that’s what it’s called)</li>\n<li>LLDB in Xcode (and probably outside of Xcode too).</li>\n</ul>\n\n<p>I am a huge proponent of using the <code>debugger</code> statement in JavaScript. Debugging allows you to be able to see something at a moment in time and also inspect and execute other things. It’s like freezing time. I am generally not a fan of print statement debugging, but I recognize that sometimes you have to do what you have to do. 🤷🏽‍♂️</p>\n",
 				"content_text": "[Debugging by starting a REPL at a breakpoint is fun](https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/)\n\nThis was a really interesting read about debugging using REPLs. Two more to add to the list are:\n\n- .NET using visual studio’s immediate mode (I think that’s what it’s called)\n- LLDB in Xcode (and probably outside of Xcode too).\n\nI am a huge proponent of using the `debugger` statement in JavaScript. Debugging allows you to be able to see something at a moment in time and also inspect and execute other things. It’s like freezing time. I am generally not a fan of print statement debugging, but I recognize that sometimes you have to do what you have to do. 🤷🏽‍♂️\n",
-				"date_published": "2021-09-19T19:58:27-06:00",
+				"date_published": "2021-09-19T20:58:27-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/09/19/more-places-you.html",
 				"tags": ["technology"]
 			},
@@ -564,7 +630,7 @@
 				
 				"content_html": "<p>He walked to the edge of the porch and stretched himself out just enough to stay in the shade.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/a2dcc34285.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "He walked to the edge of the porch and stretched himself out just enough to stay in the shade. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/a2dcc34285.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-09-17T05:43:03-06:00",
+				"date_published": "2021-09-17T06:43:03-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/09/17/he-walked-to.html"
 			},
 			{
@@ -572,7 +638,7 @@
 				
 				"content_html": "<p>Imposible is now selling tubes of vegan sausage so we made biscuits and gravy. It was amazing! Not pictured is me covering mine with ketchup and hot sauce.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/2dc00d749b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Imposible is now selling tubes of vegan sausage so we made biscuits and gravy. It was amazing! Not pictured is me covering mine with ketchup and hot sauce. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/2dc00d749b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-09-17T05:41:49-06:00",
+				"date_published": "2021-09-17T06:41:49-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/09/17/imposible-is-now.html"
 			},
 			{
@@ -580,7 +646,7 @@
 				
 				"content_html": "<p>Wednesday hanging outside, sniffing.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/2b5d81f0b6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "Wednesday hanging outside, sniffing. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/2b5d81f0b6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2021-09-17T05:40:31-06:00",
+				"date_published": "2021-09-17T06:40:31-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/09/17/wednesday-hanging-outside.html"
 			},
 			{
@@ -588,7 +654,7 @@
 				
 				"content_html": "<p>Good morning to you too half pizza on the ground.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/ccf5a45ffb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Good morning to you too half pizza on the ground. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/ccf5a45ffb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-09-10T09:39:03-06:00",
+				"date_published": "2021-09-10T10:39:03-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/09/10/good-morning-to.html"
 			},
 			{
@@ -596,7 +662,7 @@
 				"title": "Hans Holbein the Younger",
 				"content_html": "<p>I was on a bit of a Wikipedia spiral (I do this often) and wanted to share something I found. It’s a bit of a windy story, but hopefully you find it interesting and get the bug to read about history.</p>\n<p> </p>\n<p>Yesterday I was reading about a town in England called <a href=\"https://en.wikipedia.org/wiki/Blackpool\">Blackpool</a>. I thought the <a href=\"https://en.wikipedia.org/wiki/Blackpool#Toponymy\">name</a> was interesting and was also curious what the ‘pool’ part meant. This led to me reading about <a href=\"https://en.wikipedia.org/wiki/Bog\">bogs</a>. They really are <a href=\"https://en.wikipedia.org/wiki/File:Koitjärve_raba_05-2015.jpg\">interesting</a>.</p>\n<p>I noticed an <a href=\"https://en.wikipedia.org/wiki/Bog#/media/File:NSGEwM.jpg\">image</a> of a bog in <a href=\"https://en.wikipedia.org/wiki/East_Frisia\">Ostfriesland</a>. I know that Austria’s name in German is Österreich so I was curious what that word meant.</p>\n<p>This led me to an <a href=\"https://en.wikipedia.org/wiki/File:Ostfriesland_Verkehr-de.svg\">image</a> of a map of northern Germany and all the islands that are just off the coast.</p>\n<p>This led me to opening Maps and poking around to see what else was there and I found that there are a ton of islands in that area of the North Sea around the border of Denmark and Germany. Looking at the map I found an island called <a href=\"https://en.wikipedia.org/wiki/Heligoland\">Helgoland</a> (Helgoland is the German spelling) and decided to look that up.</p>\n<p>I read that this island was part of a <a href=\"https://en.wikipedia.org/wiki/German_Bight\">bight</a>. A word I don’t think I’ve encountered before. Looking up what the German bight was informative and led me to an image of the mouth of the Elbe with an island called Trischen visible. Really beautiful photo shot by Vincent van Zeijst. <br /><br /><img title=\"UntitledImage.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/f07964f222.png\" alt=\"The mouth of the river Elbe, here in October 2010, marks the southeastern corner of the German Bight. The island is Trischen by Vincent van Zeijst\" width=\"279\" height=\"420\" border=\"0\" /></p>\n<p>This image led me to the island which led me to the <a href=\"https://en.wikipedia.org/wiki/Bay_of_Meldorf\">Bay of Meldorf</a> which led me to the <a href=\"https://en.wikipedia.org/wiki/Battle_of_Hemmingstedt\">Battle of Hemmingstedt</a> (Read about this!!!) which led me to the <a href=\"https://en.wikipedia.org/wiki/Kalmar_Union\">Kalmar Union</a> which led me to the <a href=\"https://en.wikipedia.org/wiki/Hanseatic_League\">Hanseatic League</a> which led me to this painting of <a href=\"https://en.wikipedia.org/wiki/Georg_Giese\">Georg Giese</a> by <a href=\"https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger\">Hans Holbein the Younger</a>. I was struck by how realistic this painting was. Reminds me of the <a href=\"https://en.wikipedia.org/wiki/Arnolfini_Portrait\">Arnolfini Portrait by Jan van Eyck</a> with it’s extreme levels of detail.</p>\n<p><img title=\"georggiese.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/01b94df9d2.png\" alt=\"Hans Holbein der Jüngere - Der Kaufmann Georg Gisze\" width=\"368\" height=\"420\" border=\"0\" /></p>\n<p>Turns out Hans Holbein the Younger painted more than <a href=\"https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger\">once</a>!</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger#/media/File:Hans_Holbein_the_Younger_-_Charles_de_Solier,_Sieur_de_Morette_-_Google_Art_Project.jpg\">Here’s another one I really liked</a>. This is from 1534! </p>\n<p><img title=\"charlesdesolier.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/965435e9d8.png\" alt=\"Charles de Solier, Sieur de Morette, 1534. Gemäldegalerie Alte Meister, Dresden.\" width=\"420\" height=\"528\" border=\"0\" /></p>\n<p>There isn’t much of a point to this post beyond I am very easily drawn to reading things on Wikipedia and this painter was incredibly talented. </p>\n",
 				"content_text": "<p>I was on a bit of a Wikipedia spiral (I do this often) and wanted to share something I found. It’s a bit of a windy story, but hopefully you find it interesting and get the bug to read about history.</p>\n<p> </p>\n<p>Yesterday I was reading about a town in England called <a href=\"https://en.wikipedia.org/wiki/Blackpool\">Blackpool</a>. I thought the <a href=\"https://en.wikipedia.org/wiki/Blackpool#Toponymy\">name</a> was interesting and was also curious what the ‘pool’ part meant. This led to me reading about <a href=\"https://en.wikipedia.org/wiki/Bog\">bogs</a>. They really are <a href=\"https://en.wikipedia.org/wiki/File:Koitjärve_raba_05-2015.jpg\">interesting</a>.</p>\n<p>I noticed an <a href=\"https://en.wikipedia.org/wiki/Bog#/media/File:NSGEwM.jpg\">image</a> of a bog in <a href=\"https://en.wikipedia.org/wiki/East_Frisia\">Ostfriesland</a>. I know that Austria’s name in German is Österreich so I was curious what that word meant.</p>\n<p>This led me to an <a href=\"https://en.wikipedia.org/wiki/File:Ostfriesland_Verkehr-de.svg\">image</a> of a map of northern Germany and all the islands that are just off the coast.</p>\n<p>This led me to opening Maps and poking around to see what else was there and I found that there are a ton of islands in that area of the North Sea around the border of Denmark and Germany. Looking at the map I found an island called <a href=\"https://en.wikipedia.org/wiki/Heligoland\">Helgoland</a> (Helgoland is the German spelling) and decided to look that up.</p>\n<p>I read that this island was part of a <a href=\"https://en.wikipedia.org/wiki/German_Bight\">bight</a>. A word I don’t think I’ve encountered before. Looking up what the German bight was informative and led me to an image of the mouth of the Elbe with an island called Trischen visible. Really beautiful photo shot by Vincent van Zeijst. <br /><br /><img title=\"UntitledImage.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/f07964f222.png\" alt=\"The mouth of the river Elbe, here in October 2010, marks the southeastern corner of the German Bight. The island is Trischen by Vincent van Zeijst\" width=\"279\" height=\"420\" border=\"0\" /></p>\n<p>This image led me to the island which led me to the <a href=\"https://en.wikipedia.org/wiki/Bay_of_Meldorf\">Bay of Meldorf</a> which led me to the <a href=\"https://en.wikipedia.org/wiki/Battle_of_Hemmingstedt\">Battle of Hemmingstedt</a> (Read about this!!!) which led me to the <a href=\"https://en.wikipedia.org/wiki/Kalmar_Union\">Kalmar Union</a> which led me to the <a href=\"https://en.wikipedia.org/wiki/Hanseatic_League\">Hanseatic League</a> which led me to this painting of <a href=\"https://en.wikipedia.org/wiki/Georg_Giese\">Georg Giese</a> by <a href=\"https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger\">Hans Holbein the Younger</a>. I was struck by how realistic this painting was. Reminds me of the <a href=\"https://en.wikipedia.org/wiki/Arnolfini_Portrait\">Arnolfini Portrait by Jan van Eyck</a> with it’s extreme levels of detail.</p>\n<p><img title=\"georggiese.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/01b94df9d2.png\" alt=\"Hans Holbein der Jüngere - Der Kaufmann Georg Gisze\" width=\"368\" height=\"420\" border=\"0\" /></p>\n<p>Turns out Hans Holbein the Younger painted more than <a href=\"https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger\">once</a>!</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger#/media/File:Hans_Holbein_the_Younger_-_Charles_de_Solier,_Sieur_de_Morette_-_Google_Art_Project.jpg\">Here’s another one I really liked</a>. This is from 1534! </p>\n<p><img title=\"charlesdesolier.png\" src=\"https://www.nickkaczmarek.com/uploads/2021/965435e9d8.png\" alt=\"Charles de Solier, Sieur de Morette, 1534. Gemäldegalerie Alte Meister, Dresden.\" width=\"420\" height=\"528\" border=\"0\" /></p>\n<p>There isn’t much of a point to this post beyond I am very easily drawn to reading things on Wikipedia and this painter was incredibly talented. </p>\n",
-				"date_published": "2021-08-26T08:32:13-06:00",
+				"date_published": "2021-08-26T09:32:13-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/08/26/hans-holbein-the.html"
 			},
 			{
@@ -604,7 +670,7 @@
 				
 				"content_html": "<p>I heard the other dumpster had 14. I wonder what makes one want to go off on their own.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/4697461395.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/ae1daeee9c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I heard the other dumpster had 14. I wonder what makes one want to go off on their own. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/4697461395.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/ae1daeee9c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-08-20T06:59:50-06:00",
+				"date_published": "2021-08-20T07:59:50-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/08/20/i-heard-the.html"
 			},
 			{
@@ -612,7 +678,7 @@
 				
 				"content_html": "<p>I saw this in the Tom Scott newsletter. Captivating.</p>\n\n<p><a href=\"https://youtu.be/n0zqQxz4DHs\">youtu.be/n0zqQxz4D&hellip;</a></p>\n",
 				"content_text": "I saw this in the Tom Scott newsletter. Captivating. \n\n[youtu.be/n0zqQxz4D...](https://youtu.be/n0zqQxz4DHs)\n",
-				"date_published": "2021-08-16T20:29:51-06:00",
+				"date_published": "2021-08-16T21:29:51-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/08/16/i-saw-this.html"
 			},
 			{
@@ -620,7 +686,7 @@
 				
 				"content_html": "<p>I got the raccoons out. Spent like ten minutes watching two of them try to scale the edges of the dumpster. I’ve heard the groundskeeper normally lets them out, but I don’t mind helping.</p>\n\n<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/b21ab86a8f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I got the raccoons out. Spent like ten minutes watching two of them try to scale the edges of the dumpster. I’ve heard the groundskeeper normally lets them out, but I don’t mind helping. \n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/b21ab86a8f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-08-15T07:00:23-06:00",
+				"date_published": "2021-08-15T08:00:23-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/08/15/i-got-the.html"
 			},
 			{
@@ -628,7 +694,7 @@
 				
 				"content_html": "<p>Raccoons in a dumpster</p>\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/6d23ea32b2.mov\" width=\"360\" height=\"640\" poster=\"https://nickkaczmarek.micro.blog/uploads/2021/86476b1448.png\" preload=\"none\"></video>\n",
 				"content_text": "Raccoons in a dumpster\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/6d23ea32b2.mov\" width=\"360\" height=\"640\" poster=\"https://nickkaczmarek.micro.blog/uploads/2021/86476b1448.png\" preload=\"none\"></video>\n",
-				"date_published": "2021-08-15T06:58:06-06:00",
+				"date_published": "2021-08-15T07:58:06-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/08/15/raccoons-in-a.html"
 			},
 			{
@@ -636,7 +702,7 @@
 				
 				"content_html": "<p>I just learned that my dog has a belly button.</p>\n\n<p>Well, all dogs do, but mine does too.</p>\n",
 				"content_text": "I just learned that my dog has a belly button. \n\nWell, all dogs do, but mine does too. \n",
-				"date_published": "2021-08-13T07:46:00-06:00",
+				"date_published": "2021-08-13T08:46:00-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/08/13/i-just-learned.html",
 				"tags": ["random"]
 			},
@@ -645,7 +711,7 @@
 				
 				"content_html": "<p>Bit late, but I really don’t understand all the hate for the Apple TV 4 remote. The one with the square touch pad. I almost never accidentally click the touch pad or lose it or anything. I’m sure the new remote is better, but I still don’t understand how there is so much hate.</p>\n",
 				"content_text": "Bit late, but I really don’t understand all the hate for the Apple TV 4 remote. The one with the square touch pad. I almost never accidentally click the touch pad or lose it or anything. I’m sure the new remote is better, but I still don’t understand how there is so much hate. \n",
-				"date_published": "2021-08-13T06:40:00-06:00",
+				"date_published": "2021-08-13T07:40:00-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/08/13/bit-late-but.html",
 				"tags": ["random"]
 			},
@@ -654,7 +720,7 @@
 				"title": "Never smell an infant's hand",
 				"content_html": "<p>I was discussing with my wife whether we should bathe our baby last night.<br />I did a quick smell test and she smelled fine.<br />My wife said that her hands are filthy and she’d need a bath.<br />I said how filthy could they be, she can’t even grab anything.<br />I was so wrong.<br />I was so so so so wrong.<br />But damn is she cute.<br />Moral of the story, don’t smell an infant’s hands.<br />They are filthy.<br />Though they did smell nice after a good scrubbing. </p>\n",
 				"content_text": "<p>I was discussing with my wife whether we should bathe our baby last night.<br />I did a quick smell test and she smelled fine.<br />My wife said that her hands are filthy and she’d need a bath.<br />I said how filthy could they be, she can’t even grab anything.<br />I was so wrong.<br />I was so so so so wrong.<br />But damn is she cute.<br />Moral of the story, don’t smell an infant’s hands.<br />They are filthy.<br />Though they did smell nice after a good scrubbing. </p>\n",
-				"date_published": "2021-08-12T10:59:00-06:00",
+				"date_published": "2021-08-12T11:59:00-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/08/12/never-smell-an.html",
 				"tags": ["random"]
 			},
@@ -663,7 +729,7 @@
 				
 				"content_html": "<p><img title=\"IMG_5376.jpeg\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/ad3aa3fa7f.jpg\" alt=\"Wednesday the dog leaning against the seat in our car.\" width=\"225\" height=\"300\" border=\"0\" /></p>\n",
 				"content_text": "<p><img title=\"IMG_5376.jpeg\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/ad3aa3fa7f.jpg\" alt=\"Wednesday the dog leaning against the seat in our car.\" width=\"225\" height=\"300\" border=\"0\" /></p>\n",
-				"date_published": "2021-08-12T09:45:32-06:00",
+				"date_published": "2021-08-12T10:45:32-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/08/12/104532.html"
 			},
 			{
@@ -671,7 +737,7 @@
 				
 				"content_html": "<p>This tastes exactly like a green skittle.</p>\n\n<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "This tastes exactly like a green skittle. \n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-07-10T17:26:45-06:00",
+				"date_published": "2021-07-10T18:26:45-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/07/10/this-tastes-exactly.html"
 			},
 			{
@@ -679,7 +745,7 @@
 				
 				"content_html": "<p>Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out.</p>\n\n<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" /></p>\n",
 				"content_text": "Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out. \n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" />\n",
-				"date_published": "2021-07-09T12:55:40-06:00",
+				"date_published": "2021-07-09T13:55:40-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/07/09/turns-out-cherries.html"
 			},
 			{
@@ -687,7 +753,7 @@
 				
 				"content_html": "<p>My dog, Wednesday, laying on a couch on her side showing how long her legs are.</p>\n\n<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" /></p>\n",
 				"content_text": "My dog, Wednesday, laying on a couch on her side showing how long her legs are.\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" />\n",
-				"date_published": "2021-07-09T12:52:15-06:00",
+				"date_published": "2021-07-09T13:52:15-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/07/09/my-dog-wednesday.html"
 			},
 			{
@@ -695,7 +761,7 @@
 				
 				"content_html": "<p>Jumping from 25000 feet without a parachute.</p>\n\n<p>I’ve watched this video and seen this headline a couple times and while it’s definitely impressive, it’s important to note that he’s skydiving into a gigantic net.</p>\n\n<p><a href=\"https://kottke.org/21/06/jumping-from-25000-feet-without-a-parachute-and-landing-safely\">kottke.org</a></p>\n",
 				"content_text": "Jumping from 25000 feet without a parachute. \n\nI’ve watched this video and seen this headline a couple times and while it’s definitely impressive, it’s important to note that he’s skydiving into a gigantic net. \n\n[kottke.org](https://kottke.org/21/06/jumping-from-25000-feet-without-a-parachute-and-landing-safely)\n",
-				"date_published": "2021-07-07T13:24:26-06:00",
+				"date_published": "2021-07-07T14:24:26-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/06/24/jumping-from-feet.html",
 				"tags": ["random"]
 			},
@@ -704,7 +770,7 @@
 				
 				"content_html": "<p>Super interesting look into how and why cultures perceive emoji (and other things) differently. The idea that someone can see the same thing has me and come away with a distinctly different feeling and emotion is fascinating.</p>\n\n<p><a href=\"https://jenniferdaniel.substack.com/p/do-you-see-what-i-see-\">jenniferdaniel.substack.com</a></p>\n",
 				"content_text": "Super interesting look into how and why cultures perceive emoji (and other things) differently. The idea that someone can see the same thing has me and come away with a distinctly different feeling and emotion is fascinating. \n\n[jenniferdaniel.substack.com](https://jenniferdaniel.substack.com/p/do-you-see-what-i-see-)\n",
-				"date_published": "2021-07-06T07:28:00-06:00",
+				"date_published": "2021-07-06T08:28:00-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/07/06/super-interesting-look.html",
 				"tags": ["unicode"]
 			},
@@ -713,7 +779,7 @@
 				
 				"content_html": "<p>My first child was born today. I cannot overstate my excitement. Baby is doing well and so is mama. What a day.</p>\n",
 				"content_text": "My first child was born today. I cannot overstate my excitement. Baby is doing well and so is mama. What a day. \n",
-				"date_published": "2021-06-25T09:06:04-06:00",
+				"date_published": "2021-06-25T10:06:04-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/06/25/my-first-child.html"
 			},
 			{
@@ -721,7 +787,7 @@
 				
 				"content_html": "<p>I really love reading these posts about emoji and Unicode.</p>\n\n<p><a href=\"https://jenniferdaniel.substack.com/p/i-dont-understand\">jenniferdaniel.substack.com</a></p>\n",
 				"content_text": "I really love reading these posts about emoji and Unicode. \n\n[jenniferdaniel.substack.com](https://jenniferdaniel.substack.com/p/i-dont-understand)\n",
-				"date_published": "2021-05-28T20:17:45-06:00",
+				"date_published": "2021-05-28T21:17:45-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/05/28/i-really-love.html"
 			},
 			{
@@ -729,7 +795,7 @@
 				
 				"content_html": "<p><a href=\"https://jenniferdaniel.substack.com/p/pressing-flesh-against-flesh-\">Pressing flesh against flesh 🤝 - Did Someone Say Emoji?</a></p>\n",
 				"content_text": " [Pressing flesh against flesh 🤝 - Did Someone Say Emoji?](https://jenniferdaniel.substack.com/p/pressing-flesh-against-flesh-)\n",
-				"date_published": "2021-05-14T17:35:44-06:00",
+				"date_published": "2021-05-14T18:35:44-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/05/14/pressing-flesh-against.html"
 			},
 			{
@@ -737,7 +803,7 @@
 				
 				"content_html": "<p>Amazing! <a href=\"https://dronedj.com/2021/04/28/pilot-of-viral-bowling-alley-video-scores-again/\">dronedj.com</a></p>\n",
 				"content_text": "Amazing! [dronedj.com](https://dronedj.com/2021/04/28/pilot-of-viral-bowling-alley-video-scores-again/)\n",
-				"date_published": "2021-05-01T10:47:21-06:00",
+				"date_published": "2021-05-01T11:47:21-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/05/01/amazing-dronedjcom.html"
 			},
 			{
@@ -745,7 +811,7 @@
 				
 				"content_html": "<p>Went hunting for mushrooms today. We found four big morels. My wife fried them and they were delicious. I hope I can find some more.</p>\n",
 				"content_text": "Went hunting for mushrooms today. We found four big morels. My wife fried them and they were delicious. I hope I can find some more. \n",
-				"date_published": "2021-04-11T20:10:29-06:00",
+				"date_published": "2021-04-11T21:10:29-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/04/11/went-hunting-for.html"
 			},
 			{
@@ -753,7 +819,7 @@
 				
 				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-04-11T20:07:39-06:00",
+				"date_published": "2021-04-11T21:07:39-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/04/11/210739.html"
 			},
 			{
@@ -761,7 +827,7 @@
 				
 				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-04-11T20:06:49-06:00",
+				"date_published": "2021-04-11T21:06:49-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/04/11/210649.html"
 			},
 			{
@@ -769,7 +835,7 @@
 				"title": "Survive Icarus",
 				"content_html": "<p><blockquote>\n<p><a href=\"https://surviveicarus.com\">https://surviveicarus.com</a> </p>\n</blockquote>\n<p>Looks like an interesting game. Can’t wait to try it out.</p></p>\n",
 				"content_text": "<blockquote>\n<p><a href=\"https://surviveicarus.com\">https://surviveicarus.com</a> </p>\n</blockquote>\n<p>Looks like an interesting game. Can’t wait to try it out.</p>\n",
-				"date_published": "2021-04-09T12:04:45-06:00",
+				"date_published": "2021-04-09T13:04:45-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/04/09/survive-icarus.html"
 			},
 			{
@@ -777,7 +843,7 @@
 				
 				"content_html": "<p><h2>Thinking back to a beautiful Ohio day</h2>\n<p>I really enjoyed how this photo came out. My wife and I were lucky enough to stay at a house on Lake Erie last summer. Hopefully we’ll be lucky enough to stay there again one day.</p>\n<p><img title=\"waves crashing against the steps.png\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/1a90ce9b18.png\" alt=\"waves crashing against the steps\" width=\"300\" height=\"225\" border=\"0\" /></p>\n<p>Taken with my iPhone XS Max on 2020-06-08 at 21:02:40</p></p>\n",
 				"content_text": "<h2>Thinking back to a beautiful Ohio day</h2>\n<p>I really enjoyed how this photo came out. My wife and I were lucky enough to stay at a house on Lake Erie last summer. Hopefully we’ll be lucky enough to stay there again one day.</p>\n<p><img title=\"waves crashing against the steps.png\" src=\"https://nickkaczmarek.micro.blog/uploads/2021/1a90ce9b18.png\" alt=\"waves crashing against the steps\" width=\"300\" height=\"225\" border=\"0\" /></p>\n<p>Taken with my iPhone XS Max on 2020-06-08 at 21:02:40</p>\n",
-				"date_published": "2021-03-07T16:24:01-06:00",
+				"date_published": "2021-03-07T17:24:01-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/03/07/thinking-back-to.html"
 			},
 			{
@@ -785,7 +851,7 @@
 				
 				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-02-14T06:53:18-06:00",
+				"date_published": "2021-02-14T07:53:18-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/02/14/065318.html"
 			},
 			{
@@ -793,7 +859,7 @@
 				"title": "Every Programmer Is Not A Terminal User",
 				"content_html": "<p>I’m always surprised that every programmer isn’t a skilled terminal user. Perhaps it’s because I got into programming after finally being able to purchase a MacBook, but having no idea what to do with it, I searched for “terminal hacks” online and the rest is history.</p>\n\n<p>I very much prefer to use the terminal for lots of tool things like git and basic Unix stuff. I do use a text editor though. Occasionally I’ll use vim but I’m not a magician.</p>\n\n<p>I’ve seen many of my coworkers reach for a graphical git client and for some reason this surprises me over and over. I’m not shaming anyone. Just observing.</p>\n\n<p>I wonder if they are surprised when they see me typing away on that black screen, chaining stuff together?</p>\n",
 				"content_text": "I’m always surprised that every programmer isn’t a skilled terminal user. Perhaps it’s because I got into programming after finally being able to purchase a MacBook, but having no idea what to do with it, I searched for “terminal hacks” online and the rest is history.\n\nI very much prefer to use the terminal for lots of tool things like git and basic Unix stuff. I do use a text editor though. Occasionally I’ll use vim but I’m not a magician. \n\nI’ve seen many of my coworkers reach for a graphical git client and for some reason this surprises me over and over. I’m not shaming anyone. Just observing. \n\nI wonder if they are surprised when they see me typing away on that black screen, chaining stuff together?\n",
-				"date_published": "2021-02-12T07:10:04-06:00",
+				"date_published": "2021-02-12T08:10:04-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/02/12/every-programmer-is.html"
 			},
 			{
@@ -801,7 +867,7 @@
 				
 				"content_html": "<p>My wife’s stomach just kicked me.</p>\n",
 				"content_text": "My wife’s stomach just kicked me. \n",
-				"date_published": "2021-02-10T16:37:15-06:00",
+				"date_published": "2021-02-10T17:37:15-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/02/10/my-wifes-stomach.html"
 			},
 			{
@@ -809,7 +875,7 @@
 				
 				"content_html": "<p><a href=\"https://twitter.com/RexChapman/status/1359296274009387008\">A tale of perseverance.</a></p>\n",
 				"content_text": "[A tale of perseverance.](https://twitter.com/RexChapman/status/1359296274009387008)\n",
-				"date_published": "2021-02-09T18:56:46-06:00",
+				"date_published": "2021-02-09T19:56:46-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/02/09/a-tale-of.html"
 			},
 			{
@@ -817,7 +883,7 @@
 				
 				"content_html": "<p>Hard to argue this.</p>\n\n<p><a href=\"https://twitter.com/jtannady/status/1359164136182210562\">RE: imposter syndrome</a></p>\n",
 				"content_text": "Hard to argue this. \n\n[RE: imposter syndrome](https://twitter.com/jtannady/status/1359164136182210562)\n",
-				"date_published": "2021-02-09T16:40:14-06:00",
+				"date_published": "2021-02-09T17:40:14-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/02/09/hard-to-argue.html"
 			},
 			{
@@ -825,7 +891,7 @@
 				
 				"content_html": "<p>If this doesn’t make you feel small, then I don’t know what will.</p>\n\n<p><a href=\"https://kottke.org/21/02/10-terapixel-image-of-the-night-sky\">10 terapixel image of the night sky</a></p>\n",
 				"content_text": "If this doesn’t make you feel small, then I don’t know what will. \n\n [10 terapixel image of the night sky](https://kottke.org/21/02/10-terapixel-image-of-the-night-sky)\n",
-				"date_published": "2021-02-09T16:27:56-06:00",
+				"date_published": "2021-02-09T17:27:56-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/02/09/if-this-doesnt.html"
 			},
 			{
@@ -833,7 +899,7 @@
 				"title": "Working with my brother on his website",
 				"content_html": "<p>I’ve been working with my brother on his photography website for a few years and it’s changed a lot over time. </p>\n<p>My first iteration was to take all the photos he sent me and make a basic website that displays them, using static html and css.</p>\n<p>The next thing I tried was to store them in Firebase and then sort of dynamically pull in the images and import them into the same structure.</p>\n<p>Then I learned about react.js and decided that I could try that out and build up his site. That was a pretty interesting experience and I learned a lot.</p>\n<p>Unfortunately all of that took a lot of time and required me to basically build a CMS on my own. While I could probably do that, I realized over time that I didn’t want to and furthermore couldn’t devote the time to give him what he wanted. So I made the tough, 😂, decision to make him a SquareSpace website.</p>\n<p>I’ve been listening to ads for them in podcasts for years and finally decided it was worth it. Why should I keep him from updating his stuff because I wasn’t feeling the dev process. For the last 4 weekends, I’ve helped him work on the site and I have to say that it’s a great experience.</p>\n<p>It’s still the early stages, but I’m glad I had this journey. I learned a lot of web stuff that has made me a better developer and I’ve also learned when to be pragmatic. I’m glad I can help him get his stuff out there and I can still provide technical assistance. </p>\n",
 				"content_text": "<p>I’ve been working with my brother on his photography website for a few years and it’s changed a lot over time. </p>\n<p>My first iteration was to take all the photos he sent me and make a basic website that displays them, using static html and css.</p>\n<p>The next thing I tried was to store them in Firebase and then sort of dynamically pull in the images and import them into the same structure.</p>\n<p>Then I learned about react.js and decided that I could try that out and build up his site. That was a pretty interesting experience and I learned a lot.</p>\n<p>Unfortunately all of that took a lot of time and required me to basically build a CMS on my own. While I could probably do that, I realized over time that I didn’t want to and furthermore couldn’t devote the time to give him what he wanted. So I made the tough, 😂, decision to make him a SquareSpace website.</p>\n<p>I’ve been listening to ads for them in podcasts for years and finally decided it was worth it. Why should I keep him from updating his stuff because I wasn’t feeling the dev process. For the last 4 weekends, I’ve helped him work on the site and I have to say that it’s a great experience.</p>\n<p>It’s still the early stages, but I’m glad I had this journey. I learned a lot of web stuff that has made me a better developer and I’ve also learned when to be pragmatic. I’m glad I can help him get his stuff out there and I can still provide technical assistance. </p>\n",
-				"date_published": "2021-02-06T12:30:35-06:00",
+				"date_published": "2021-02-06T13:30:35-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/02/06/working-with-my.html"
 			},
 			{
@@ -841,7 +907,7 @@
 				"title": "Introduction",
 				"content_html": "<p>Hi, I’m Nick. <br /><br />I’m a software engineer living in Saint Louis, Missouri. I’ve been working in the web space, writing .NET and JavaScript apps for about five years. I’m very interested in iOS and macOS development so that’s what I’ll be talking about and posting here.</p>\n<p>I started a blog at nickkaczmarek.com, but I’ll be slowly moving over here. I only have two or three posts there so that shouldn’t be tough.</p>\n<p>I hope you all enjoy!</p>\n",
 				"content_text": "<p>Hi, I’m Nick. <br /><br />I’m a software engineer living in Saint Louis, Missouri. I’ve been working in the web space, writing .NET and JavaScript apps for about five years. I’m very interested in iOS and macOS development so that’s what I’ll be talking about and posting here.</p>\n<p>I started a blog at nickkaczmarek.com, but I’ll be slowly moving over here. I only have two or three posts there so that shouldn’t be tough.</p>\n<p>I hope you all enjoy!</p>\n",
-				"date_published": "2021-01-31T18:09:19-06:00",
+				"date_published": "2021-01-31T19:09:19-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/01/31/introduction.html"
 			}
 	]
