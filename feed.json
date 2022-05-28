@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/05/28/062644.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/09e5526838.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/09e5526838.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-28T06:26:44-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/05/28/062644.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/04/21/xcode-gpg-not.html",
+				"title": "Xcode GPG not found issue",
+				"content_html": "<p>If you use GPG and Xcode you may have run into this error.</p>\n\n<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/ee5cb63672.png\" alt=\"Xcode error message saying GPG cannot be found\" title=\"Screen Shot 2022-04-21 at 20.04.06.png\" border=\"0\" width=\"756\" height=\"506\" /></p>\n\n<p>From what I can tell if doesn&rsquo;t really matter and you can still commit just fine (in the terminal if you want to use GPG), but it was annoying me. So I went spelunking and found <a href=\"https://github.com/isaacs/github/issues/675#issuecomment-219521841\">this post on GitHub</a>. In the post the author shares a git config command we can use to solve the issue.</p>\n\n<pre><code>git config --global gpg.program $(which gpg)\n</code></pre>\n\n<p>Run this in your terminal and then when you create a project in Xcode, the warning should go away. Expect that you&rsquo;ll need to enter your GPG password (if you have one) on the next project creation.</p>\n\n<p>For reference, <a href=\"https://gist.github.com/koshatul/2427643668d4e89c0086f297f9ed2130\">here is the gist</a> I followed to set up my GPG key for macOS.</p>\n",
+				"content_text": "If you use GPG and Xcode you may have run into this error.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/ee5cb63672.png\" alt=\"Xcode error message saying GPG cannot be found\" title=\"Screen Shot 2022-04-21 at 20.04.06.png\" border=\"0\" width=\"756\" height=\"506\" />\n\nFrom what I can tell if doesn't really matter and you can still commit just fine (in the terminal if you want to use GPG), but it was annoying me. So I went spelunking and found [this post on GitHub](https://github.com/isaacs/github/issues/675#issuecomment-219521841). In the post the author shares a git config command we can use to solve the issue.\n\n\n```\ngit config --global gpg.program $(which gpg)\n```\n\nRun this in your terminal and then when you create a project in Xcode, the warning should go away. Expect that you'll need to enter your GPG password (if you have one) on the next project creation.\n\nFor reference, [here is the gist](https://gist.github.com/koshatul/2427643668d4e89c0086f297f9ed2130) I followed to set up my GPG key for macOS.\n",
+				"date_published": "2022-04-21T20:14:49-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/04/21/xcode-gpg-not.html",
+				"tags": ["Xcode"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/04/20/jamiroquaibee-gees-mashup.html",
+				"title": "Jamiroquai/Bee Gees Mashup",
+				"content_html": "<p>I am a big fan of <a href=\"https://en.wikipedia.org/wiki/Jamiroquai\">Jamiroquai</a> and the <a href=\"https://en.wikipedia.org/wiki/Bee_Gees\">Bee Gees</a> and this mashup is just amazing. Looks like I&rsquo;m a fan of <a href=\"https://en.wikipedia.org/wiki/Pomplamoose\">Pomplamoose</a> now. 🎵</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=ooZR4LSuppk\">Jamiroquai Bee Gees Mashup - Pomplamoose on YouTube</a></p>\n\n<p>Great album cover too.</p>\n\n<p><img src=\"https://musicadekoala.com/wp-content/uploads/2019/10/eaf2375a002d60830e98f8b1e574e2f7d9558ee41.jpg\" alt=\"album cover for pomplamoose jamirobeegees mashup\" /></p>\n",
+				"content_text": "I am a big fan of [Jamiroquai](https://en.wikipedia.org/wiki/Jamiroquai) and the [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees) and this mashup is just amazing. Looks like I'm a fan of [Pomplamoose](https://en.wikipedia.org/wiki/Pomplamoose) now. 🎵\n\n[Jamiroquai Bee Gees Mashup - Pomplamoose on YouTube](https://www.youtube.com/watch?v=ooZR4LSuppk)\n\nGreat album cover too.\n\n<img src=\"https://musicadekoala.com/wp-content/uploads/2019/10/eaf2375a002d60830e98f8b1e574e2f7d9558ee41.jpg\" alt=\"album cover for pomplamoose jamirobeegees mashup\" />\n",
+				"date_published": "2022-04-20T13:42:26-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/04/20/jamiroquaibee-gees-mashup.html",
+				"tags": ["random"]
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2022/04/18/how-to-fix.html",
 				"title": "How to fix \"waiting for other installations to complete\"",
 				"content_html": "<p>I was trying to install an app (MS Teams) but was seeing a strange message from the installer:</p>\n\n<pre><code>waiting for other installations to complete\n</code></pre>\n\n<p>I found something on <a href=\"https://superuser.com/a/321627\">stackoverflow.com</a> on how to fix it and it worked like a charm:</p>\n\n<pre><code class=\"language-shell\">sudo killall -1 installd\n</code></pre>\n\n<p>Note: I did not run the command to remove any locked files, just filled the process and tried the install again.</p>\n\n<p>Hopefully this helps someone else (or future me).</p>\n",
@@ -22,7 +48,7 @@
 				"content_text": "I have used VSCode for much of my career (for historical .NETy reasons) and really like its ability to split editor panes. Particularly the ability to split horizontally and vertically. I was bummed when moving to Xcode and found I wasn't able to do this...Until now! \n\n## How to do split editor vertically in Xcode\n\n1. Open Xcode (seems like it has to be a project, not a playground)\n2. Go to File -> New -> Editor Below (ctrl + option + cmd + T)\n<img src=\"uploads/2022/2cc5fa4c1c.png\" alt=\"macOS Xcode menu with Editor Below highlighted\" title=\"Screen Shot 2022-04-08 at 13.20.04.png\" border=\"0\" width=\"220\" height=\"300\" />\n\nThis is very exciting, but I look forward to when other editors support the VSCode feature of dragging those pane corners more than one direction at a time. (VSCode allows you to grab at the corner of two panes and drag horizontally, vertically, or diagonally all in one motion while Xcode and Nova only allow one direction per click).\n",
 				"date_published": "2022-04-08T13:26:45-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/04/08/til-xcode-has.html",
-				"tags": ["technology"]
+				"tags": ["technology","Xcode"]
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/19/i-often-use.html",
