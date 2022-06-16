@@ -7,10 +7,36 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/06/16/its-kind-of.html",
+				
+				"content_html": "<p>It’s kind of odd that we call some plants weeds and some not. If you’re planting a plant and something else is growing with it that you didn’t plant, you’re planting the weed.</p>\n",
+				"content_text": "It’s kind of odd that we call some plants weeds and some not. If you’re planting a plant and something else is growing with it that you didn’t plant, you’re planting the weed. \n",
+				"date_published": "2022-06-16T07:59:54-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/06/16/its-kind-of.html",
+				"tags": ["random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/06/13/112724.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/4d3f03e1b6.jpg\" width=\"600\" height=\"325\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/4d3f03e1b6.jpg\" width=\"600\" height=\"325\" alt=\"\" />\n",
+				"date_published": "2022-06-13T11:27:24-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/06/13/112724.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/06/06/site-analytics-with.html",
+				"title": "Site Analytics with GoatCounter",
+				"content_html": "<p>I haven&rsquo;t been blogging for very long, but I was very curious about who (if anyone) might be seeing my site. So I looked around a little for an analytics platform I could use that would respect user privacy. I found one called Plausible Analytics that looked really nice, but I didn&rsquo;t want to pay anything (I know, I know) and I also didn&rsquo;t want to host anything (which also costs money). I eventually found something called <a href=\"https://www.goatcounter.com\">GoatCounter</a> and it seems like it&rsquo;s just the right tool for the job.</p>\n\n<p>I am shocked to find that not only do people see my site, but apparently it&rsquo;s more than 1 or 2. From March 31 until now (June 6th), I&rsquo;ve received 91 page views!? That&rsquo;s peanuts compared to more established people but I&rsquo;m pretty happy to learn this.</p>\n\n<p>Something really nice about GoatCounter is that it gives you pretty basic data about who/what is seeing your site. Because I chose something that doesn&rsquo;t want to infringe on user&rsquo;s privacy, I can only see browsers, referrers, systems (OSes), device categories (Phones, Large phones, etc.), country of origin, and language. This is a lot, but I am still so curious who is seeing my site.</p>\n\n<p>I doubt many will see this post, but if you&rsquo;re bored send me an email at nick.s.kaczmarek@gmail.com and say hello. You can also tweet at me at @nickkacz. If I&rsquo;ve written anything helpful or useful, I&rsquo;d love to hear from you.</p>\n\n<p>Cheers, <br />\nNick</p>\n",
+				"content_text": "I haven't been blogging for very long, but I was very curious about who (if anyone) might be seeing my site. So I looked around a little for an analytics platform I could use that would respect user privacy. I found one called Plausible Analytics that looked really nice, but I didn't want to pay anything (I know, I know) and I also didn't want to host anything (which also costs money). I eventually found something called [GoatCounter](https://www.goatcounter.com) and it seems like it's just the right tool for the job.\n\nI am shocked to find that not only do people see my site, but apparently it's more than 1 or 2. From March 31 until now (June 6th), I've received 91 page views!? That's peanuts compared to more established people but I'm pretty happy to learn this. \n\nSomething really nice about GoatCounter is that it gives you pretty basic data about who/what is seeing your site. Because I chose something that doesn't want to infringe on user's privacy, I can only see browsers, referrers, systems (OSes), device categories (Phones, Large phones, etc.), country of origin, and language. This is a lot, but I am still so curious who is seeing my site.\n\nI doubt many will see this post, but if you're bored send me an email at nick.s.kaczmarek@gmail.com and say hello. You can also tweet at me at @nickkacz. If I've written anything helpful or useful, I'd love to hear from you.\n\nCheers, <br />\nNick\n",
+				"date_published": "2022-06-06T14:52:57-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/06/06/site-analytics-with.html",
+				"tags": ["random"]
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2022/06/06/wwdc.html",
 				"title": "WWDC 2022",
-				"content_html": "<p>Just finished the WWDC 2022 keynote a little while ago and I&rsquo;m super pumped. From WatchOS 9 to Stage Manager, Messages Edits, and everything else I&rsquo;m incredibly excited for this fall. I&rsquo;m also very curious what sort of hardware we&rsquo;ll see as the year carries on. New computers? New Watch? New headphones? New Mac Pro? The list goes on. </p>\n",
-				"content_text": "Just finished the WWDC 2022 keynote a little while ago and I'm super pumped. From WatchOS 9 to Stage Manager, Messages Edits, and everything else I'm incredibly excited for this fall. I'm also very curious what sort of hardware we'll see as the year carries on. New computers? New Watch? New headphones? New Mac Pro? The list goes on. \n",
+				"content_html": "<p>Just finished the WWDC 2022 keynote a little while ago and I&rsquo;m super pumped. From WatchOS 9 to Stage Manager, Messages Edits, and everything else I&rsquo;m incredibly excited for this fall. I&rsquo;m also very curious what sort of hardware we&rsquo;ll see as the year carries on. New computers? New Watch? New headphones? New Mac Pro? The list goes on.</p>\n\n<p></p>\n\n<p>Edit: I almost forgot about Lock Screen improvements as well as the updates to Wallet that add delivery notifications. Can&rsquo;t wait for the Platforms State of the Union to hear about the nitty gritty details.</p>\n",
+				"content_text": "Just finished the WWDC 2022 keynote a little while ago and I'm super pumped. From WatchOS 9 to Stage Manager, Messages Edits, and everything else I'm incredibly excited for this fall. I'm also very curious what sort of hardware we'll see as the year carries on. New computers? New Watch? New headphones? New Mac Pro? The list goes on. \n\n\n\nEdit: I almost forgot about Lock Screen improvements as well as the updates to Wallet that add delivery notifications. Can't wait for the Platforms State of the Union to hear about the nitty gritty details.\n",
 				"date_published": "2022-06-06T14:40:08-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/06/06/wwdc.html",
 				"tags": ["technology"]
@@ -36,16 +62,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/05/28/we-went-to.html",
 				
-				"content_html": "<p>We went to Mellow Mushroom for the first time the other day with my in-laws (who are not vegan) and were pleasantly surprised at how amazing the pizza was. We got jerk tempeh and the flavor and texture was so much better than expected and the cheese was so melty. And my god was there so much cheese.</p>\n\n<p><img src=\"uploads/2022/73b4fafedd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/4edf4ab3cb.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "We went to Mellow Mushroom for the first time the other day with my in-laws (who are not vegan) and were pleasantly surprised at how amazing the pizza was. We got jerk tempeh and the flavor and texture was so much better than expected and the cheese was so melty. And my god was there so much cheese. \n\n<img src=\"uploads/2022/73b4fafedd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/4edf4ab3cb.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>We went to Mellow Mushroom for the first time the other day with my in-laws (who are not vegan) and were pleasantly surprised at how amazing the pizza was. We got jerk tempeh and the flavor and texture was so much better than expected and the cheese was so melty. And my god was there so much cheese.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/73b4fafedd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/4edf4ab3cb.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "We went to Mellow Mushroom for the first time the other day with my in-laws (who are not vegan) and were pleasantly surprised at how amazing the pizza was. We got jerk tempeh and the flavor and texture was so much better than expected and the cheese was so melty. And my god was there so much cheese. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/73b4fafedd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/4edf4ab3cb.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-28T06:31:14-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/05/28/we-went-to.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/05/28/062644.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/09e5526838.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2022/09e5526838.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/09e5526838.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/09e5526838.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-28T06:26:44-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/05/28/062644.html"
 			},
