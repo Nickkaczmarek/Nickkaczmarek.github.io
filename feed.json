@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/06/pm-is-much.html",
+				
+				"content_html": "<p>8pm is much too late to ring someone’s doorbell asking for them to vote for you. It’s much to late to ring someone’s doorbell period. Especially when they might have a small child sleeping.</p>\n",
+				"content_text": "8pm is much too late to ring someone’s doorbell asking for them to vote for you. It’s much to late to ring someone’s doorbell period. Especially when they might have a small child sleeping. \n",
+				"date_published": "2022-07-06T20:04:55-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/06/pm-is-much.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/06/22/stop-suggesting-i.html",
+				"title": "Stop suggesting I upgrade to macOS Monterey on a computer that isn't allowed to update to macOS Monterey!",
+				"content_html": "<p>It’s just kinda rude.</p>\n<p><img title=\"Screen Shot 2022-06-22 at 19.01.53.png\" src=\"https://www.nickkaczmarek.com/uploads/2022/067ae18cf1.png\" alt=\"macOS Notification suggesting upgrading to macOS Monterey\" width=\"370\" height=\"100\" border=\"0\" /></p>\n",
+				"content_text": "<p>It’s just kinda rude.</p>\n<p><img title=\"Screen Shot 2022-06-22 at 19.01.53.png\" src=\"https://www.nickkaczmarek.com/uploads/2022/067ae18cf1.png\" alt=\"macOS Notification suggesting upgrading to macOS Monterey\" width=\"370\" height=\"100\" border=\"0\" /></p>\n",
+				"date_published": "2022-06-22T19:03:52-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/06/22/stop-suggesting-i.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/06/20/got-to-see.html",
+				
+				"content_html": "<p>Got to see my brother from Colorado today. Also my brother who lives in the same city.</p>\n\n<p><img src=\"uploads/2022/b352055f9c.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "Got to see my brother from Colorado today. Also my brother who lives in the same city. \n\n<img src=\"uploads/2022/b352055f9c.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"date_published": "2022-06-20T19:55:10-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/06/20/got-to-see.html"
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2022/06/16/its-kind-of.html",
 				
 				"content_html": "<p>It’s kind of odd that we call some plants weeds and some not. If you’re planting a plant and something else is growing with it that you didn’t plant, you’re planting the weed.</p>\n",
