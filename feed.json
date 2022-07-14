@@ -7,6 +7,145 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/13/this-is-how.html",
+				
+				"content_html": "<p>This is how everyone pours a glass of water right? Right?</p>\n\n<p><img src=\"uploads/2022/500fb18e76.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is how everyone pours a glass of water right? Right?\n\n<img src=\"uploads/2022/500fb18e76.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-13T20:45:45-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/13/this-is-how.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/13/weve-made-it.html",
+				
+				"content_html": "<p>We’ve made it to level 3.</p>\n\n<p><img src=\"uploads/2022/486543817a.jpg\" width=\"450\" height=\"600\" alt=\"baby climbing on monkey bars\" /></p>\n",
+				"content_text": "We’ve made it to level 3. \n\n<img src=\"uploads/2022/486543817a.jpg\" width=\"450\" height=\"600\" alt=\"baby climbing on monkey bars\" />\n",
+				"date_published": "2022-07-13T11:45:26-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/13/weve-made-it.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/13/just-purchased-airbuddy.html",
+				
+				"content_html": "<p>Just purchased <a href=\"https://v2.airbuddy.app\">AirBuddy</a> and <a href=\"https://xscopeapp.com\">xScope</a>. What a day!</p>\n",
+				"content_text": "Just purchased [AirBuddy](https://v2.airbuddy.app) and [xScope](https://xscopeapp.com). What a day!\n",
+				"date_published": "2022-07-13T11:33:36-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/13/just-purchased-airbuddy.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/13/my-wife-made.html",
+				
+				"content_html": "<p>My wife made this last night and it was amazing. <a href=\"https://www.veganbell.com/lemon-spinach-risotto/\">Lemon Kale Risotto. (She also doubled the nutritional yeast)</a></p>\n\n<p><img src=\"uploads/2022/1c5c9e7eba.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My wife made this last night and it was amazing. [Lemon Kale Risotto. (She also doubled the nutritional yeast)](https://www.veganbell.com/lemon-spinach-risotto/)\n\n<img src=\"uploads/2022/1c5c9e7eba.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-13T08:16:07-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/13/my-wife-made.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/13/frying-potato-tacos.html",
+				
+				"content_html": "<p>Frying potato tacos. Started with enchilada mix of corn, onion, garlic, zucchini, and salsa verde then mixed in boiled and mashed yellow potatoes. Forgot to take a picture of the finished product. 🤷🏽‍♀️</p>\n\n<p><img src=\"uploads/2022/9f45da0eb5.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Frying potato tacos. Started with enchilada mix of corn, onion, garlic, zucchini, and salsa verde then mixed in boiled and mashed yellow potatoes. Forgot to take a picture of the finished product. 🤷🏽‍♀️\n\n<img src=\"uploads/2022/9f45da0eb5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-13T08:08:24-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/13/frying-potato-tacos.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/12/link-to-petapixel.html",
+				"title": "Link to PetaPixel - Comparing Webb's First Photos to what Hubble Saw",
+				"content_html": "<p>Following up on my post of the Carina Nebula from earlier, <a href=\"https://petapixel.com/2022/07/12/comparing-webbs-first-photos-to-what-hubble-saw/\">here&rsquo;s a link from PetaPixel showing the differences between Hubble and JWST</a>.</p>\n",
+				"content_text": "Following up on my post of the Carina Nebula from earlier, [here's a link from PetaPixel showing the differences between Hubble and JWST](https://petapixel.com/2022/07/12/comparing-webbs-first-photos-to-what-hubble-saw/).\n",
+				"date_published": "2022-07-12T15:23:08-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/12/link-to-petapixel.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/12/who-are-you.html",
+				"title": "Who are you and what are you doing here?",
+				"content_html": "<p>I added analytics (<a href=\"https://www.goatcounter.com\">https://www.goatcounter.com</a>) to my website so I can see people are seeing it but who are you!? And how are you finding these posts? Is this just my wife? 🤣</p>\n\n<p>P.S. I have comments now so write some, yo.</p>\n",
+				"content_text": "I added analytics (https://www.goatcounter.com) to my website so I can see people are seeing it but who are you!? And how are you finding these posts? Is this just my wife? 🤣\n\nP.S. I have comments now so write some, yo.\n",
+				"date_published": "2022-07-12T13:58:35-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/12/who-are-you.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/12/enchiladas-verdes-con.html",
+				
+				"content_html": "<p>Enchiladas verdes con arroz y frijoles.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/f54a26d276.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6759f7d32d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Enchiladas verdes con arroz y frijoles.\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/f54a26d276.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6759f7d32d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-12T13:38:48-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/12/enchiladas-verdes-con.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/12/my-dog-named.html",
+				
+				"content_html": "<p>My dog, named Wednesday, sitting up in a car seat while resting her head against the back.</p>\n\n<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/964ec82ea8.jpg\" title=\"IMG_5376.jpeg\" border=\"0\" width=\"225\" height=\"300\" /></p>\n",
+				"content_text": "My dog, named Wednesday, sitting up in a car seat while resting her head against the back.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/964ec82ea8.jpg\" title=\"IMG_5376.jpeg\" border=\"0\" width=\"225\" height=\"300\" />\n",
+				"date_published": "2022-07-12T13:19:36-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/12/my-dog-named.html",
+				"tags": ["random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/12/113315.html",
+				
+				"content_html": "<p>First images from James Webb Space Telescope</p>\n\n<p><img src=\"uploads/2022/6dec4603d7.jpg\" width=\"600\" height=\"347\" alt=\"\" /></p>\n\n<p><a href=\"https://stsci-opo.org/STScI-01G7ETPF7DVBJAC42JR5N6EQRH.png\">Link to full res</a></p>\n",
+				"content_text": "First images from James Webb Space Telescope\n\n<img src=\"uploads/2022/6dec4603d7.jpg\" width=\"600\" height=\"347\" alt=\"\" />\n\n[Link to full res](https://stsci-opo.org/STScI-01G7ETPF7DVBJAC42JR5N6EQRH.png)\n",
+				"date_published": "2022-07-12T11:33:15-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/12/113315.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/12/113232.html",
+				
+				"content_html": "<p>Some colorful lines from a child&rsquo;s toy.</p>\n\n<p><img src=\"uploads/2022/f52f33806e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Some colorful lines from a child's toy.\n\n<img src=\"uploads/2022/f52f33806e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-12T11:32:32-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/12/113232.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/10/great-post-by.html",
+				
+				"content_html": "<p>Great post by <a href=\"http://basicappleguy.com\">@basicappleguy.com</a>. I really need to evaluate my own subs again. I did it recently, but it’s amazing how quickly these numbers can add up. 💰</p>\n\n<blockquote>\n<p><a href=\"https://basicappleguy.com/basicappleblog/999month\">basicappleguy.com</a></p>\n</blockquote>\n",
+				"content_text": "Great post by [@basicappleguy.com](http://basicappleguy.com). I really need to evaluate my own subs again. I did it recently, but it’s amazing how quickly these numbers can add up. 💰\n\n> [basicappleguy.com](https://basicappleguy.com/basicappleblog/999month)\n",
+				"date_published": "2022-07-10T14:20:09-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/10/great-post-by.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/09/drafts-custom-action.html",
+				"title": "Drafts custom action to create new draft in current workspace with keyboard shortcut",
+				"content_html": "\n\n<p>I made a <a href=\"https://getdrafts.com\">Drafts</a> <a href=\"https://docs.getdrafts.com/actions/\">custom action</a> that looks at the current <a href=\"https://docs.getdrafts.com/docs/drafts/workspaces\">workspace</a>, grabs the <a href=\"https://docs.getdrafts.com/docs/drafts/tagging\">tags</a>, and applies them to a new draft that is opened in the editor. It also supplies a keyboard shortcut:</p>\n\n<pre><code>(option + control + command + N)\n\n⌥⌃⌘N\n</code></pre>\n\n<p>I hope someone else finds this as useful as I do.</p>\n\n<p><a href=\"https://directory.getdrafts.com/a/2BC\">Link to action</a></p>\n\n<h1 id=\"code\">Code</h1>\n\n<pre><code class=\"language-javascript\">/// a drafts script that looks for the current workspace \n/// and adds a new draft with the associated tags\n/// then opens that draft in the editor\n\nconst currentWorkspace = app.currentWorkspace;\nconst workspaceName = currentWorkspace.name\nconst tags = currentWorkspace.tagFilter.split(&quot;,&quot;);\n\nlet d = new Draft();\ntags.forEach(tag =&gt; d.addTag(tag));\n\neditor.load(d);\n</code></pre>\n",
+				"content_text": "I made a [Drafts](https://getdrafts.com) [custom action](https://docs.getdrafts.com/actions/) that looks at the current [workspace](https://docs.getdrafts.com/docs/drafts/workspaces), grabs the [tags](https://docs.getdrafts.com/docs/drafts/tagging), and applies them to a new draft that is opened in the editor. It also supplies a keyboard shortcut:\n\n```\n(option + control + command + N)\n\n⌥⌃⌘N\n```\n\nI hope someone else finds this as useful as I do.\n\n[Link to action](https://directory.getdrafts.com/a/2BC)\n\n# Code\n\n```javascript\n/// a drafts script that looks for the current workspace \n/// and adds a new draft with the associated tags\n/// then opens that draft in the editor\n\nconst currentWorkspace = app.currentWorkspace;\nconst workspaceName = currentWorkspace.name\nconst tags = currentWorkspace.tagFilter.split(\",\");\n\nlet d = new Draft();\ntags.forEach(tag => d.addTag(tag));\n\neditor.load(d);\n```\n",
+				"date_published": "2022-07-09T09:03:46-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/09/drafts-custom-action.html",
+				"tags": ["technology","random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/08/221156.html",
+				
+				"content_html": "<p>Cut wheat, corn field, sky.</p>\n\n<p>Driving down the highway in rural Missouri can lead to some pretty photos.</p>\n\n<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/9bd4d8d0cb.jpg\" title=\"IMG_0217.jpeg\" border=\"0\" width=\"2016\" height=\"1512\" /></p>\n",
+				"content_text": "Cut wheat, corn field, sky. \n\nDriving down the highway in rural Missouri can lead to some pretty photos.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/9bd4d8d0cb.jpg\" title=\"IMG_0217.jpeg\" border=\"0\" width=\"2016\" height=\"1512\" />\n",
+				"date_published": "2022-07-08T22:11:56-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/08/221156.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/07/add-a-dark.html",
+				"title": "Add a dark (or light) theme to your website using prefers-color-scheme",
+				"content_html": "\n\n<p>This is one way to add a dark or light theme to your website. I use <a href=\"https://micro.blog\">Micro.blog</a> for my website, but this should be the same for basically any website hosting service or static website that one would use.</p>\n\n<blockquote>\n<p><strong>Caveat:</strong> while I work as a software engineer and have spent many years building web code, I don&rsquo;t know everything so some of the nitty gritty details might be wrong, but the code will make your website gain the ability to display a light and dark mode.</p>\n\n<p><strong>Important note:</strong> I may say theme here, but what I really mean is this is how you can set your website to automatically change colors based on the device&rsquo;s settings. In macOS this is called appearance (found in System Preferences -&gt; General -&gt; Appearance). In windows they call it colors (found in Settings -&gt; Personalize -&gt; Colors) and I have no idea what Linux distributions call it.</p>\n</blockquote>\n\n<p><a href=\"#code\">tl;dr (too long; didn&rsquo;t read. take me to the code)</a></p>\n\n<h1 id=\"how-to-do-the-thing\">How to do the thing</h1>\n\n<p>Finally, how to do the thing.</p>\n\n<blockquote>\n<p>This tutorial assumes you know a little bit about html and css or at the very least can use a search engine to find the relevant details if I miss something. I&rsquo;ll do my best to cover it all and provide links.</p>\n</blockquote>\n\n<p>Open either your website&rsquo;s main html file or main css file.</p>\n\n<p>Figure out what your <code>background-color</code> and <code>color</code> are in the css. If you haven&rsquo;t set them that&rsquo;s fine too. By default the background color of your website will be unset which will likely render as white or <code>#fff</code> in hex and your foreground color will likely be black or <code>#000</code> in hex.  (Hex colors are one way to define colors in css, <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color_keywords#list_of_all_color_keywords\">but there are a group of named colors as well</a>.)</p>\n\n<blockquote>\n<p><strong>Note:</strong> color refers to text or foreground <code>color</code> and <code>background-color</code> refers to&hellip;background color.\nThe below code snippet will leave your background as white and set your foreground color to gray. It will also set your font to the apple system font, but feel free to put whatever you want there. You&rsquo;ll notice there are a bunch of fonts separated by commas. Those are fallbacks in case the first one isn&rsquo;t present.</p>\n</blockquote>\n\n<p>Assuming you&rsquo;re starting with an un-styled light mode website, you&rsquo;re going to put your colors from the above step in a chunk of code that will either live in your css file or in a <code>&lt;style&gt;&lt;/style&gt;</code> tag in your html.</p>\n\n<h1 id=\"code\">Code</h1>\n\n<h2 id=\"starter-light-mode\">Starter light mode</h2>\n\n<pre><code class=\"language-css\">@media (prefers-color-scheme: light) {\n  html {\n    color: #555;\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,\n      Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',\n      'Segoe UI Symbol';\n  }\n}\n</code></pre>\n\n<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/434f043547.png\" alt=\"Screenshot of gray text on a white background\" title=\"Screen Shot 2022-07-07 at 21.57.25.png\" border=\"0\" width=\"76\" height=\"65\" /></p>\n\n<p>Next you&rsquo;ll add a dark theme. You can choose whatever colors you want for background and foreground, but for simplicity I&rsquo;ll stick with black (#000) for the background and white (#fff) for the foreground. Keep in mind that black background and white text is a bit intense to look at so feel free to mess with these colors. I&rsquo;ve included the <code>font-family</code> attribute in both snippets, but you don&rsquo;t need it in both or either unless you plan on setting a different font when in dark mode versus light mode.</p>\n\n<p>There are likely other elements that you&rsquo;ll want to include in your dark mode styles (like <code>pre</code> or <code>code</code>) that will look weird if you only have body styled, but I&rsquo;ll leave that as an exercise for the reader.</p>\n\n<h2 id=\"starter-dark-mode\">Starter dark mode</h2>\n\n<pre><code class=\"language-css\">@media (prefers-color-scheme: dark) {\n  html {\n    background-color: #000;\n    color: #fff;\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,\n      Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',\n      'Segoe UI Symbol';\n  }\n}\n</code></pre>\n\n<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/db2dd09dce.png\" alt=\"Screenshot of white text on a black background\" title=\"Screen Shot 2022-07-07 at 22.20.27.png\" border=\"0\" width=\"78\" height=\"57\" /></p>\n\n<h1 id=\"ending-thoughts\">Ending thoughts</h1>\n\n<p>I wrote probably way more than I needed to for what amounts to less than 20 lines of css, but I wanted to give some background and context.</p>\n\n<p>My inspiration for doing this to my website was browsing the web at night and being blinded by other&rsquo;s websites. I wanted to be able to make my website not to searing and I made this post to hopefully share this information with others. At the end of the day you can take the two snippets and put them on your website and you&rsquo;ll enable the ability to have two different themes for your site that follow what the operating system is rendering in terms of appearance.</p>\n\n<p>You can also get much more creative and have a number of themes, but you&rsquo;ll likely need some sort of javascript to enable something like that. Maybe I&rsquo;ll write about that in the future. Who knows.</p>\n\n<p>If you enjoyed this post, feel free to leave a comment or let me know on <a href=\"https://twitter.com/nickkacz/\">twitter @nickkacz</a> or if you use micro.blog (I hope you do) send me a mention there. I&rsquo;d love to hear about it or what I could do to help.</p>\n\n<p>&ndash; Nick</p>\n\n<h1 id=\"my-theme\">My theme</h1>\n\n<p>And finally this is what my dark theme looks like:</p>\n\n<pre><code class=\"language-css\">@media (prefers-color-scheme: dark) {\n  html {\n    background-color: #000;\n    color: #b4b4b4;\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,\n      Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',\n      'Segoe UI Symbol';\n  }\n  .site__name {\n    color: #b4b4b4;\n  }\n  pre {\n    background-color: #282828;\n    color: #b4b4b4;\n  }\n}\n</code></pre>\n\n<p>And here is my light theme:</p>\n\n<pre><code class=\"language-css\">@media (prefers-color-scheme: light) {\n  html {\n    color: #555;\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,\n      Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',\n      'Segoe UI Symbol';\n  }\n}\n</code></pre>\n\n<h1 id=\"links\">Links</h1>\n\n<p><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme\">MDN prefers-color-scheme docs</a></p>\n\n<p><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color_keywords#list_of_all_color_keywords\">MDN css color keywords docs</a></p>\n",
+				"content_text": "This is one way to add a dark or light theme to your website. I use [Micro.blog](https://micro.blog) for my website, but this should be the same for basically any website hosting service or static website that one would use.\n\n> **Caveat:** while I work as a software engineer and have spent many years building web code, I don't know everything so some of the nitty gritty details might be wrong, but the code will make your website gain the ability to display a light and dark mode.\n\n> **Important note:** I may say theme here, but what I really mean is this is how you can set your website to automatically change colors based on the device's settings. In macOS this is called appearance (found in System Preferences -> General -> Appearance). In windows they call it colors (found in Settings -> Personalize -> Colors) and I have no idea what Linux distributions call it.\n\n<a href=\"#code\">tl;dr (too long; didn't read. take me to the code)</a>\n\n# How to do the thing\n\nFinally, how to do the thing.\n\n> This tutorial assumes you know a little bit about html and css or at the very least can use a search engine to find the relevant details if I miss something. I'll do my best to cover it all and provide links.\n\nOpen either your website's main html file or main css file.\n\nFigure out what your `background-color` and `color` are in the css. If you haven't set them that's fine too. By default the background color of your website will be unset which will likely render as white or `#fff` in hex and your foreground color will likely be black or `#000` in hex.  (Hex colors are one way to define colors in css, [but there are a group of named colors as well](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color_keywords#list_of_all_color_keywords).)\n\n> **Note:** color refers to text or foreground `color` and `background-color` refers to...background color.\nThe below code snippet will leave your background as white and set your foreground color to gray. It will also set your font to the apple system font, but feel free to put whatever you want there. You'll notice there are a bunch of fonts separated by commas. Those are fallbacks in case the first one isn't present.\n\nAssuming you're starting with an un-styled light mode website, you're going to put your colors from the above step in a chunk of code that will either live in your css file or in a `<style></style>` tag in your html.\n\n# Code\n\n## Starter light mode\n\n```css\n@media (prefers-color-scheme: light) {\n  html {\n    color: #555;\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,\n      Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',\n      'Segoe UI Symbol';\n  }\n}\n```\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/434f043547.png\" alt=\"Screenshot of gray text on a white background\" title=\"Screen Shot 2022-07-07 at 21.57.25.png\" border=\"0\" width=\"76\" height=\"65\" />\n\nNext you'll add a dark theme. You can choose whatever colors you want for background and foreground, but for simplicity I'll stick with black (#000) for the background and white (#fff) for the foreground. Keep in mind that black background and white text is a bit intense to look at so feel free to mess with these colors. I've included the `font-family` attribute in both snippets, but you don't need it in both or either unless you plan on setting a different font when in dark mode versus light mode. \n\nThere are likely other elements that you'll want to include in your dark mode styles (like `pre` or `code`) that will look weird if you only have body styled, but I'll leave that as an exercise for the reader.\n\n## Starter dark mode\n\n```css\n@media (prefers-color-scheme: dark) {\n  html {\n    background-color: #000;\n    color: #fff;\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,\n      Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',\n      'Segoe UI Symbol';\n  }\n}\n```\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/db2dd09dce.png\" alt=\"Screenshot of white text on a black background\" title=\"Screen Shot 2022-07-07 at 22.20.27.png\" border=\"0\" width=\"78\" height=\"57\" />\n\n# Ending thoughts\n\nI wrote probably way more than I needed to for what amounts to less than 20 lines of css, but I wanted to give some background and context. \n\nMy inspiration for doing this to my website was browsing the web at night and being blinded by other's websites. I wanted to be able to make my website not to searing and I made this post to hopefully share this information with others. At the end of the day you can take the two snippets and put them on your website and you'll enable the ability to have two different themes for your site that follow what the operating system is rendering in terms of appearance. \n\nYou can also get much more creative and have a number of themes, but you'll likely need some sort of javascript to enable something like that. Maybe I'll write about that in the future. Who knows.\n\nIf you enjoyed this post, feel free to leave a comment or let me know on [twitter @nickkacz](https://twitter.com/nickkacz/) or if you use micro.blog (I hope you do) send me a mention there. I'd love to hear about it or what I could do to help.\n\n-- Nick\n\n# My theme\n\nAnd finally this is what my dark theme looks like:\n\n```css\n@media (prefers-color-scheme: dark) {\n  html {\n    background-color: #000;\n    color: #b4b4b4;\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,\n      Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',\n      'Segoe UI Symbol';\n  }\n  .site__name {\n    color: #b4b4b4;\n  }\n  pre {\n    background-color: #282828;\n    color: #b4b4b4;\n  }\n}\n```\n\nAnd here is my light theme:\n\n```css\n@media (prefers-color-scheme: light) {\n  html {\n    color: #555;\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,\n      Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',\n      'Segoe UI Symbol';\n  }\n}\n```\n\n# Links\n\n[MDN prefers-color-scheme docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)\n\n[MDN css color keywords docs](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color_keywords#list_of_all_color_keywords)\n",
+				"date_published": "2022-07-07T22:57:26-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/07/add-a-dark.html",
+				"tags": ["technology"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/07/161926.html",
+				
+				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/6419f24268.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/6419f24268.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-07T16:19:26-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/07/161926.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/07/06/202137.html",
+				
+				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/4a3a7252e7.jpg\" width=\"600\" height=\"588\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/4a3a7252e7.jpg\" width=\"600\" height=\"588\" alt=\"\" />\n",
+				"date_published": "2022-07-06T20:21:37-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/07/06/202137.html"
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/06/pm-is-much.html",
 				
 				"content_html": "<p>8pm is much too late to ring someone’s doorbell asking for them to vote for you. It’s much to late to ring someone’s doorbell period. Especially when they might have a small child sleeping.</p>\n",
@@ -25,8 +164,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/06/20/got-to-see.html",
 				
-				"content_html": "<p>Got to see my brother from Colorado today. Also my brother who lives in the same city.</p>\n\n<p><img src=\"uploads/2022/b352055f9c.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
-				"content_text": "Got to see my brother from Colorado today. Also my brother who lives in the same city. \n\n<img src=\"uploads/2022/b352055f9c.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>Got to see my brother from Colorado today. Also my brother who lives in the same city.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/b352055f9c.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "Got to see my brother from Colorado today. Also my brother who lives in the same city. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/b352055f9c.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-06-20T19:55:10-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/06/20/got-to-see.html"
 			},
@@ -42,8 +181,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/06/13/112724.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/4d3f03e1b6.jpg\" width=\"600\" height=\"325\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2022/4d3f03e1b6.jpg\" width=\"600\" height=\"325\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/4d3f03e1b6.jpg\" width=\"600\" height=\"325\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/4d3f03e1b6.jpg\" width=\"600\" height=\"325\" alt=\"\" />\n",
 				"date_published": "2022-06-13T11:27:24-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/06/13/112724.html"
 			},
