@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/08/21/another-burger-this.html",
+				
+				"content_html": "<p>Another burger. This time half beyond meat, half impossible, field roast chao cheese, pretzilla bun, bens spicy mustard, sir kensington ketchup, home made salsa verde, and Whole Foods “tater puffs”. Delicious!!!</p>\n\n<p><img src=\"uploads/2022/19f256728a.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Another burger. This time half beyond meat, half impossible, field roast chao cheese, pretzilla bun, bens spicy mustard, sir kensington ketchup, home made salsa verde, and Whole Foods “tater puffs”. Delicious!!!\n\n<img src=\"uploads/2022/19f256728a.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-21T12:17:43-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/08/21/another-burger-this.html"
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2022/08/20/wow-i-really.html",
 				
 				"content_html": "<p>Wow I really like this idea. Sharing code in SwiftUI has always felt weird to me.</p>\n\n<p><a href=\"https://www.jessesquires.com/blog/2022/08/19/sharing-code-in-swiftui-apps/\">Sharing code in SwiftUI apps on www.jessesquires.com</a></p>\n",
