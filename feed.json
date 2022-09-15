@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/09/15/htmlinputelement-type-number.html",
+				"title": "HTMLInputElement type number fun fact",
+				"content_html": "<p>I am a web developer by day and was working on a feature that was supposed to create an input field that could only accept numbers. Super easy right?!</p>\n\n<p><code>&lt;input type=&quot;number&quot; /&gt;</code></p>\n\n<p>I&rsquo;m demoing said feature to the client (after having tested this) and I&rsquo;m bashing on the home row and nothing is printing. I type some numbers and they print. Then I grab some text and paste it in an bam, a single letter <code>e</code>. That&rsquo;s weird. I try another word. Another letter <code>e</code>. Hmm. I tell the client we&rsquo;ll look into it.</p>\n\n<p>I shared this with a coworker and they were able to produce the same behavior. I then decided to look up the issue on the internet and of course this is a well known thing. I dig a little deeper and realize that the HTML spec allows for this behavior because of floating point numbers. For instance <code>2e5</code>.</p>\n\n<p>Anyways, that was a fun little journey.</p>\n\n<p><a href=\"https://html.spec.whatwg.org/multipage/input.html#number-state-(type%3Dnumber)\">Link to the HTML spec for input type=number</a></p>\n",
+				"content_text": "I am a web developer by day and was working on a feature that was supposed to create an input field that could only accept numbers. Super easy right?! \n\n`<input type=\"number\" />`\n\nI'm demoing said feature to the client (after having tested this) and I'm bashing on the home row and nothing is printing. I type some numbers and they print. Then I grab some text and paste it in an bam, a single letter `e`. That's weird. I try another word. Another letter `e`. Hmm. I tell the client we'll look into it.\n\nI shared this with a coworker and they were able to produce the same behavior. I then decided to look up the issue on the internet and of course this is a well known thing. I dig a little deeper and realize that the HTML spec allows for this behavior because of floating point numbers. For instance `2e5`.\n\nAnyways, that was a fun little journey.\n\n[Link to the HTML spec for input type=number](https://html.spec.whatwg.org/multipage/input.html#number-state-(type%3Dnumber))\n\n",
+				"date_published": "2022-09-15T09:04:51-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/09/15/htmlinputelement-type-number.html",
+				"tags": ["technology","random","educational"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/09/11/burrito-with-refried.html",
+				
+				"content_html": "<p>Burrito with refried pinto beans, Mexican rice, roasted potatoes, grilled on a comal, smothered in vegan cheese sauce, vegan sour cream, and herdez salsa chipotle cremosa. Outstanding. 🌯</p>\n\n<p><img src=\"uploads/2022/df564f0636.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Burrito with refried pinto beans, Mexican rice, roasted potatoes, grilled on a comal, smothered in vegan cheese sauce, vegan sour cream, and herdez salsa chipotle cremosa. Outstanding. 🌯 \n\n<img src=\"uploads/2022/df564f0636.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-09-11T09:40:49-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/09/11/burrito-with-refried.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/09/07/some-sort-of.html",
+				
+				"content_html": "<p>Some sort of gray tree frog was on my patio umbrella. 🐸 ☂</p>\n\n<p><img src=\"uploads/2022/d6e7945419.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/691d0db0d7.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Some sort of gray tree frog was on my patio umbrella. 🐸 ☂ \n\n<img src=\"uploads/2022/d6e7945419.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/691d0db0d7.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-07T15:05:15-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/09/07/some-sort-of.html"
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2022/08/21/another-burger-this.html",
 				
 				"content_html": "<p>Another burger. This time half beyond meat, half impossible, field roast chao cheese, pretzilla bun, bens spicy mustard, sir kensington ketchup, home made salsa verde, and Whole Foods “tater puffs”. Delicious!!!</p>\n\n<p><img src=\"uploads/2022/19f256728a.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
