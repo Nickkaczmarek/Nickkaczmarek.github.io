@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/10/13/vulture-against-the.html",
+				"title": "Vulture against the blue sky.",
+				"content_html": "<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/0406c77d87.jpg\" alt=\"Vulture against the blue sky\" title=\"IMG_2273.jpeg\" border=\"0\" width=\"300\" height=\"225\" /></p>\n\n<blockquote>\n<p>Taken at 12 pm CT in Eastern Missouri, USA.</p>\n</blockquote>\n\n<p>I took this while taking my daily walk around our neighborhood with my daughter. The sky is very clear and it was quite windy so this vulture was just gliding around.</p>\n",
+				"content_text": "\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/0406c77d87.jpg\" alt=\"Vulture against the blue sky\" title=\"IMG_2273.jpeg\" border=\"0\" width=\"300\" height=\"225\" />\n\n> Taken at 12 pm CT in Eastern Missouri, USA.\n\nI took this while taking my daily walk around our neighborhood with my daughter. The sky is very clear and it was quite windy so this vulture was just gliding around.\n",
+				"date_published": "2022-10-13T12:28:03-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/10/13/vulture-against-the.html",
+				"tags": ["random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/10/06/what-called-are.html",
+				"title": "What called are you named?",
+				"content_html": "<p>It seems in the UK (and perhaps other UK influenced places) they say &ldquo;a person called Nick&rdquo;, but in the US we say &ldquo;a person named Nick&rdquo;. I wonder why that is. Do you know?</p>\n",
+				"content_text": "It seems in the UK (and perhaps other UK influenced places) they say \"a person called Nick\", but in the US we say \"a person named Nick\". I wonder why that is. Do you know?\n",
+				"date_published": "2022-10-06T08:15:34-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/10/06/what-called-are.html",
+				"tags": ["random"]
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/10/05/a-word-that.html",
+				"title": "A word that doesn't exist and yet it does.",
+				"content_html": "\n\n<blockquote>\n<p>I&rsquo;ll make it easy on you, this is the word: <code>smalm</code></p>\n</blockquote>\n\n<p>I was playing <a href=\"https://www.nytimes.com/games/wordle/index.html\">Wordle</a> with my brother and dad the other day and my dad sent me a word he tried, but he was confused because autocomplete kept correcting it. He had never heard of it. Neither had I.</p>\n\n<p>I looked in the dictionary for the word and I couldn&rsquo;t find it. I did a web search and couldn&rsquo;t find it. Then I checked in the unix word list to see if I could find it there.</p>\n\n<p>I found it!</p>\n\n<p>But then I still couldn&rsquo;t find a definition.</p>\n\n<p>I did eventually find a couple links to it on the web for scrabble word lists.</p>\n\n<p>My guess is that like map makers, dictionary makes must create fake words as a sort of copyright mechanism to check if people are copying their work. And because word game makers can&rsquo;t check every word to see if they&rsquo;re real, they include a word from a common list of words.</p>\n\n<p>Don&rsquo;t believe me that it doesn&rsquo;t exist?</p>\n\n<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/1b8560cf65.png\" alt=\"terminal window showing me searching from smalm\" title=\"Screen Shot 2022-10-05 at 14.43.34.png\" border=\"0\" width=\"297\" height=\"74\" /></p>\n\n<h3 id=\"references\">References</h3>\n\n<p><a href=\"https://www.youtube.com/watch?v=DeiATy-FfjI\">Video talking about locations that don&rsquo;t exist</a></p>\n\n<p><a href=\"https://duckduckgo.com/?q=smalm&amp;t=osx&amp;safari_group=9&amp;ia=web\">DuckDuckGo search for smalm</a></p>\n\n<p><a href=\"https://www.google.com/search?hl=en&amp;q=smalm\">Google search for smalm</a></p>\n\n<p>P.S. both searches think I&rsquo;ve mistyped <code>smalm</code> and meant <code>small</code> but in any case you still won&rsquo;t find anything.</p>\n",
+				"content_text": "> I'll make it easy on you, this is the word: `smalm`\n\nI was playing [Wordle](https://www.nytimes.com/games/wordle/index.html) with my brother and dad the other day and my dad sent me a word he tried, but he was confused because autocomplete kept correcting it. He had never heard of it. Neither had I. \n\nI looked in the dictionary for the word and I couldn't find it. I did a web search and couldn't find it. Then I checked in the unix word list to see if I could find it there. \n\nI found it! \n\nBut then I still couldn't find a definition.\n\nI did eventually find a couple links to it on the web for scrabble word lists.\n\nMy guess is that like map makers, dictionary makes must create fake words as a sort of copyright mechanism to check if people are copying their work. And because word game makers can't check every word to see if they're real, they include a word from a common list of words.\n\nDon't believe me that it doesn't exist? \n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://www.nickkaczmarek.com/uploads/2022/1b8560cf65.png\" alt=\"terminal window showing me searching from smalm\" title=\"Screen Shot 2022-10-05 at 14.43.34.png\" border=\"0\" width=\"297\" height=\"74\" />\n\n### References\n\n[Video talking about locations that don't exist](https://www.youtube.com/watch?v=DeiATy-FfjI)\n\n[DuckDuckGo search for smalm](https://duckduckgo.com/?q=smalm&t=osx&safari_group=9&ia=web)\n\n[Google search for smalm](https://www.google.com/search?hl=en&q=smalm)\n\nP.S. both searches think I've mistyped `smalm` and meant `small` but in any case you still won't find anything.\n",
+				"date_published": "2022-10-05T14:51:08-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/10/05/a-word-that.html",
+				"tags": ["random","educational"]
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2022/10/04/its-chrysanthemum-season.html",
 				
 				"content_html": "<p>It’s chrysanthemum season! Shot with my iPhone 14 Pro Max’s 48 megapixel camera. Curious how this will look on the web. (And also the file size)</p>\n\n<p><img src=\"uploads/2022/0c6498ad67.jpg\" width=\"600\" height=\"599\" alt=\"\"></p>\n",
