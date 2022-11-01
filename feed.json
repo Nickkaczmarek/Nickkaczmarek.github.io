@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://nickkaczmarek.micro.blog/2022/10/22/the-sun-says.html",
+				
+				"content_html": "<p>The sun says hello.</p>\n\n<p><img src=\"uploads/2022/635fe2d033.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "The sun says hello. \n\n<img src=\"uploads/2022/635fe2d033.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-10-22T11:26:52-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/10/22/the-sun-says.html"
+			},
+			{
+				"id": "http://nickkaczmarek.micro.blog/2022/10/22/purple-beautyberry-callicarpa.html",
+				
+				"content_html": "<p><a href=\"https://plants.ces.ncsu.edu/plants/callicarpa-dichotoma/\">Purple beautyberry (Callicarpa dichotoma)\n</a></p>\n\n<p><img src=\"uploads/2022/5daffe4397.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "[Purple beautyberry (Callicarpa dichotoma)\n](https://plants.ces.ncsu.edu/plants/callicarpa-dichotoma/)\n\n<img src=\"uploads/2022/5daffe4397.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-22T11:26:03-05:00",
+				"url": "https://www.nickkaczmarek.com/2022/10/22/purple-beautyberry-callicarpa.html"
+			},
+			{
 				"id": "http://nickkaczmarek.micro.blog/2022/10/22/went-to-a.html",
 				
 				"content_html": "<p>Went to a park with a prairie this morning. Amazing to think that this used to be what much of the midwestern United States looked like.</p>\n\n<p><img src=\"uploads/2022/ae84bf6d04.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
@@ -61,24 +77,24 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/09/11/burrito-with-refried.html",
 				
-				"content_html": "<p>Burrito with refried pinto beans, Mexican rice, roasted potatoes, grilled on a comal, smothered in vegan cheese sauce, vegan sour cream, and herdez salsa chipotle cremosa. Outstanding. 🌯</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/df564f0636.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "Burrito with refried pinto beans, Mexican rice, roasted potatoes, grilled on a comal, smothered in vegan cheese sauce, vegan sour cream, and herdez salsa chipotle cremosa. Outstanding. 🌯 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/df564f0636.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Burrito with refried pinto beans, Mexican rice, roasted potatoes, grilled on a comal, smothered in vegan cheese sauce, vegan sour cream, and herdez salsa chipotle cremosa. Outstanding. 🌯</p>\n\n<p><img src=\"uploads/2022/df564f0636.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Burrito with refried pinto beans, Mexican rice, roasted potatoes, grilled on a comal, smothered in vegan cheese sauce, vegan sour cream, and herdez salsa chipotle cremosa. Outstanding. 🌯 \n\n<img src=\"uploads/2022/df564f0636.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-09-11T09:40:49-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/09/11/burrito-with-refried.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/09/07/some-sort-of.html",
 				
-				"content_html": "<p>Some sort of gray tree frog was on my patio umbrella. 🐸 ☂</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/d6e7945419.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/691d0db0d7.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Some sort of gray tree frog was on my patio umbrella. 🐸 ☂ \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/d6e7945419.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/691d0db0d7.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Some sort of gray tree frog was on my patio umbrella. 🐸 ☂</p>\n\n<p><img src=\"uploads/2022/d6e7945419.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/691d0db0d7.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Some sort of gray tree frog was on my patio umbrella. 🐸 ☂ \n\n<img src=\"uploads/2022/d6e7945419.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/691d0db0d7.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-07T15:05:15-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/09/07/some-sort-of.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/08/21/another-burger-this.html",
 				
-				"content_html": "<p>Another burger. This time half beyond meat, half impossible, field roast chao cheese, pretzilla bun, bens spicy mustard, sir kensington ketchup, home made salsa verde, and Whole Foods “tater puffs”. Delicious!!!</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/19f256728a.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Another burger. This time half beyond meat, half impossible, field roast chao cheese, pretzilla bun, bens spicy mustard, sir kensington ketchup, home made salsa verde, and Whole Foods “tater puffs”. Delicious!!!\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/19f256728a.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Another burger. This time half beyond meat, half impossible, field roast chao cheese, pretzilla bun, bens spicy mustard, sir kensington ketchup, home made salsa verde, and Whole Foods “tater puffs”. Delicious!!!</p>\n\n<p><img src=\"uploads/2022/19f256728a.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Another burger. This time half beyond meat, half impossible, field roast chao cheese, pretzilla bun, bens spicy mustard, sir kensington ketchup, home made salsa verde, and Whole Foods “tater puffs”. Delicious!!!\n\n<img src=\"uploads/2022/19f256728a.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-21T12:17:43-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/08/21/another-burger-this.html"
 			},
@@ -147,16 +163,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/25/trip-to-the.html",
 				"title": "Trip to the local Thai restaurant.",
-				"content_html": "<p>Pictured are spring rolls, yellow curry with tofu, and pad thai with tofu. All delicious, all vegan. The server was even kind enough to realize we were vegan (just by the way we were ordering) and mentioned that something we had planned to get was not vegan. I love when that happens.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/2d2a6f4911.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/31db4810f3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/4a3dee6e87.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/206a4de441.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/7334ed293b.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/568c2b5161.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/912f961956.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/842e9cd15a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/269a219b23.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/2aedd5a19d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Pictured are spring rolls, yellow curry with tofu, and pad thai with tofu. All delicious, all vegan. The server was even kind enough to realize we were vegan (just by the way we were ordering) and mentioned that something we had planned to get was not vegan. I love when that happens.\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/2d2a6f4911.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/31db4810f3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/4a3dee6e87.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/206a4de441.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/7334ed293b.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/568c2b5161.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/912f961956.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/842e9cd15a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/269a219b23.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/2aedd5a19d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Pictured are spring rolls, yellow curry with tofu, and pad thai with tofu. All delicious, all vegan. The server was even kind enough to realize we were vegan (just by the way we were ordering) and mentioned that something we had planned to get was not vegan. I love when that happens.</p>\n\n<p><img src=\"uploads/2022/2d2a6f4911.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/31db4810f3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/4a3dee6e87.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/206a4de441.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/7334ed293b.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/568c2b5161.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/912f961956.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/842e9cd15a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/269a219b23.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/2aedd5a19d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Pictured are spring rolls, yellow curry with tofu, and pad thai with tofu. All delicious, all vegan. The server was even kind enough to realize we were vegan (just by the way we were ordering) and mentioned that something we had planned to get was not vegan. I love when that happens.\n\n<img src=\"uploads/2022/2d2a6f4911.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/31db4810f3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/4a3dee6e87.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/206a4de441.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/7334ed293b.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/568c2b5161.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/912f961956.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/842e9cd15a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/269a219b23.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/2aedd5a19d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-25T07:55:33-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/25/trip-to-the.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/25/a-little-breakfast.html",
 				
-				"content_html": "<p>A little breakfast for dinner that my wife prepared last night. Homemade biscuits, vegan sausage gravy, and tofu scramble. So delicious. 🤤</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/d44e7e4104.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A little breakfast for dinner that my wife prepared last night. Homemade biscuits, vegan sausage gravy, and tofu scramble. So delicious. 🤤\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/d44e7e4104.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A little breakfast for dinner that my wife prepared last night. Homemade biscuits, vegan sausage gravy, and tofu scramble. So delicious. 🤤</p>\n\n<p><img src=\"uploads/2022/d44e7e4104.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A little breakfast for dinner that my wife prepared last night. Homemade biscuits, vegan sausage gravy, and tofu scramble. So delicious. 🤤\n\n<img src=\"uploads/2022/d44e7e4104.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-25T07:45:56-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/25/a-little-breakfast.html"
 			},
@@ -180,16 +196,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/16/this-is-the.html",
 				
-				"content_html": "<p>This is the meat lovers with cashew cheese from Pizza Head and while it may not look creamy and delicious, looks can be deceiving. It&rsquo;s phenomenal. Glad you&rsquo;re aware of how bad STL style pizza is <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a>. It was a shock to me when I moved here.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/7a22cae224.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "This is the meat lovers with cashew cheese from Pizza Head and while it may not look creamy and delicious, looks can be deceiving. It's phenomenal. Glad you're aware of how bad STL style pizza is [@danielpunkass](https://micro.blog/danielpunkass). It was a shock to me when I moved here.\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/7a22cae224.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>This is the meat lovers with cashew cheese from Pizza Head and while it may not look creamy and delicious, looks can be deceiving. It&rsquo;s phenomenal. Glad you&rsquo;re aware of how bad STL style pizza is <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a>. It was a shock to me when I moved here.</p>\n\n<p><img src=\"uploads/2022/7a22cae224.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "This is the meat lovers with cashew cheese from Pizza Head and while it may not look creamy and delicious, looks can be deceiving. It's phenomenal. Glad you're aware of how bad STL style pizza is [@danielpunkass](https://micro.blog/danielpunkass). It was a shock to me when I moved here.\n\n<img src=\"uploads/2022/7a22cae224.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-16T21:20:59-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/16/this-is-the.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/16/the-most-responses.html",
 				
-				"content_html": "<p>The most responses I’ve had to a tweet was a picture of a beyond burger. Good thing I’ve got another I want to post. 🤣</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/056faff7e1.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "The most responses I’ve had to a tweet was a picture of a beyond burger. Good thing I’ve got another I want to post. 🤣 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/056faff7e1.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>The most responses I’ve had to a tweet was a picture of a beyond burger. Good thing I’ve got another I want to post. 🤣</p>\n\n<p><img src=\"uploads/2022/056faff7e1.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "The most responses I’ve had to a tweet was a picture of a beyond burger. Good thing I’ve got another I want to post. 🤣 \n\n<img src=\"uploads/2022/056faff7e1.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-07-16T19:28:21-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/16/the-most-responses.html"
 			},
@@ -205,8 +221,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/14/i-will-never.html",
 				
-				"content_html": "<p><a href=\"https://icecreamsandwichcomics.com/post/157923361474/you-are-only-making-him-more-powerful-full-image\">I will never tire of this comic.</a></p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/df81870784.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "[I will never tire of this comic.](https://icecreamsandwichcomics.com/post/157923361474/you-are-only-making-him-more-powerful-full-image)\n\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/df81870784.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://icecreamsandwichcomics.com/post/157923361474/you-are-only-making-him-more-powerful-full-image\">I will never tire of this comic.</a></p>\n\n<p><img src=\"uploads/2022/df81870784.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "[I will never tire of this comic.](https://icecreamsandwichcomics.com/post/157923361474/you-are-only-making-him-more-powerful-full-image)\n\n\n<img src=\"uploads/2022/df81870784.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-14T14:05:11-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/14/i-will-never.html"
 			},
@@ -221,16 +237,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/13/this-is-how.html",
 				
-				"content_html": "<p>This is how everyone pours a glass of water right? Right?</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/500fb18e76.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This is how everyone pours a glass of water right? Right?\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/500fb18e76.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This is how everyone pours a glass of water right? Right?</p>\n\n<p><img src=\"uploads/2022/500fb18e76.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is how everyone pours a glass of water right? Right?\n\n<img src=\"uploads/2022/500fb18e76.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-13T20:45:45-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/13/this-is-how.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/13/weve-made-it.html",
 				
-				"content_html": "<p>We’ve made it to level 3.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/486543817a.jpg\" width=\"450\" height=\"600\" alt=\"baby climbing on monkey bars\" /></p>\n",
-				"content_text": "We’ve made it to level 3. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/486543817a.jpg\" width=\"450\" height=\"600\" alt=\"baby climbing on monkey bars\" />\n",
+				"content_html": "<p>We’ve made it to level 3.</p>\n\n<p><img src=\"uploads/2022/486543817a.jpg\" width=\"450\" height=\"600\" alt=\"baby climbing on monkey bars\" /></p>\n",
+				"content_text": "We’ve made it to level 3. \n\n<img src=\"uploads/2022/486543817a.jpg\" width=\"450\" height=\"600\" alt=\"baby climbing on monkey bars\" />\n",
 				"date_published": "2022-07-13T11:45:26-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/13/weve-made-it.html"
 			},
@@ -245,16 +261,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/13/my-wife-made.html",
 				
-				"content_html": "<p>My wife made this last night and it was amazing. <a href=\"https://www.veganbell.com/lemon-spinach-risotto/\">Lemon Kale Risotto. (She also doubled the nutritional yeast)</a></p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/1c5c9e7eba.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My wife made this last night and it was amazing. [Lemon Kale Risotto. (She also doubled the nutritional yeast)](https://www.veganbell.com/lemon-spinach-risotto/)\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/1c5c9e7eba.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My wife made this last night and it was amazing. <a href=\"https://www.veganbell.com/lemon-spinach-risotto/\">Lemon Kale Risotto. (She also doubled the nutritional yeast)</a></p>\n\n<p><img src=\"uploads/2022/1c5c9e7eba.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My wife made this last night and it was amazing. [Lemon Kale Risotto. (She also doubled the nutritional yeast)](https://www.veganbell.com/lemon-spinach-risotto/)\n\n<img src=\"uploads/2022/1c5c9e7eba.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-13T08:16:07-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/13/my-wife-made.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/13/frying-potato-tacos.html",
 				
-				"content_html": "<p>Frying potato tacos. Started with enchilada mix of corn, onion, garlic, zucchini, and salsa verde then mixed in boiled and mashed yellow potatoes. Forgot to take a picture of the finished product. 🤷🏽‍♀️</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/9f45da0eb5.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Frying potato tacos. Started with enchilada mix of corn, onion, garlic, zucchini, and salsa verde then mixed in boiled and mashed yellow potatoes. Forgot to take a picture of the finished product. 🤷🏽‍♀️\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/9f45da0eb5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Frying potato tacos. Started with enchilada mix of corn, onion, garlic, zucchini, and salsa verde then mixed in boiled and mashed yellow potatoes. Forgot to take a picture of the finished product. 🤷🏽‍♀️</p>\n\n<p><img src=\"uploads/2022/9f45da0eb5.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Frying potato tacos. Started with enchilada mix of corn, onion, garlic, zucchini, and salsa verde then mixed in boiled and mashed yellow potatoes. Forgot to take a picture of the finished product. 🤷🏽‍♀️\n\n<img src=\"uploads/2022/9f45da0eb5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-13T08:08:24-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/13/frying-potato-tacos.html"
 			},
@@ -277,8 +293,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/12/enchiladas-verdes-con.html",
 				
-				"content_html": "<p>Enchiladas verdes con arroz y frijoles.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/f54a26d276.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6759f7d32d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Enchiladas verdes con arroz y frijoles.\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/f54a26d276.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6759f7d32d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Enchiladas verdes con arroz y frijoles.</p>\n\n<p><img src=\"uploads/2022/f54a26d276.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/6759f7d32d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Enchiladas verdes con arroz y frijoles.\n\n<img src=\"uploads/2022/f54a26d276.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/6759f7d32d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-12T13:38:48-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/12/enchiladas-verdes-con.html"
 			},
@@ -344,16 +360,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/07/161926.html",
 				
-				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/6419f24268.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/6419f24268.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2022/6419f24268.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/6419f24268.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-07T16:19:26-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/07/161926.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/07/06/202137.html",
 				
-				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/4a3a7252e7.jpg\" width=\"600\" height=\"588\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/4a3a7252e7.jpg\" width=\"600\" height=\"588\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2022/4a3a7252e7.jpg\" width=\"600\" height=\"588\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/4a3a7252e7.jpg\" width=\"600\" height=\"588\" alt=\"\" />\n",
 				"date_published": "2022-07-06T20:21:37-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/07/06/202137.html"
 			},
@@ -376,8 +392,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/06/20/got-to-see.html",
 				
-				"content_html": "<p>Got to see my brother from Colorado today. Also my brother who lives in the same city.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/b352055f9c.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
-				"content_text": "Got to see my brother from Colorado today. Also my brother who lives in the same city. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/b352055f9c.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>Got to see my brother from Colorado today. Also my brother who lives in the same city.</p>\n\n<p><img src=\"uploads/2022/b352055f9c.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "Got to see my brother from Colorado today. Also my brother who lives in the same city. \n\n<img src=\"uploads/2022/b352055f9c.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-06-20T19:55:10-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/06/20/got-to-see.html"
 			},
@@ -393,8 +409,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/06/13/112724.html",
 				
-				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/4d3f03e1b6.jpg\" width=\"600\" height=\"325\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/4d3f03e1b6.jpg\" width=\"600\" height=\"325\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2022/4d3f03e1b6.jpg\" width=\"600\" height=\"325\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/4d3f03e1b6.jpg\" width=\"600\" height=\"325\" alt=\"\" />\n",
 				"date_published": "2022-06-13T11:27:24-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/06/13/112724.html"
 			},
@@ -437,16 +453,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/05/28/we-went-to.html",
 				
-				"content_html": "<p>We went to Mellow Mushroom for the first time the other day with my in-laws (who are not vegan) and were pleasantly surprised at how amazing the pizza was. We got jerk tempeh and the flavor and texture was so much better than expected and the cheese was so melty. And my god was there so much cheese.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/73b4fafedd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/4edf4ab3cb.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "We went to Mellow Mushroom for the first time the other day with my in-laws (who are not vegan) and were pleasantly surprised at how amazing the pizza was. We got jerk tempeh and the flavor and texture was so much better than expected and the cheese was so melty. And my god was there so much cheese. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/73b4fafedd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/4edf4ab3cb.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>We went to Mellow Mushroom for the first time the other day with my in-laws (who are not vegan) and were pleasantly surprised at how amazing the pizza was. We got jerk tempeh and the flavor and texture was so much better than expected and the cheese was so melty. And my god was there so much cheese.</p>\n\n<p><img src=\"uploads/2022/73b4fafedd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/4edf4ab3cb.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "We went to Mellow Mushroom for the first time the other day with my in-laws (who are not vegan) and were pleasantly surprised at how amazing the pizza was. We got jerk tempeh and the flavor and texture was so much better than expected and the cheese was so melty. And my god was there so much cheese. \n\n<img src=\"uploads/2022/73b4fafedd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/4edf4ab3cb.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-28T06:31:14-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/05/28/we-went-to.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/05/28/062644.html",
 				
-				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/09e5526838.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/09e5526838.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2022/09e5526838.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/09e5526838.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-28T06:26:44-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/05/28/062644.html"
 			},
@@ -480,8 +496,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/04/08/til-xcode-has.html",
 				"title": "TIL: Xcode has the ability to split editors vertically",
-				"content_html": "\n\n<p>I have used VSCode for much of my career (for historical .NETy reasons) and really like its ability to split editor panes. Particularly the ability to split horizontally and vertically. I was bummed when moving to Xcode and found I wasn&rsquo;t able to do this&hellip;Until now!</p>\n\n<h2 id=\"how-to-do-split-editor-vertically-in-xcode\">How to do split editor vertically in Xcode</h2>\n\n<ol>\n<li>Open Xcode (seems like it has to be a project, not a playground)</li>\n<li>Go to File -&gt; New -&gt; Editor Below (ctrl + option + cmd + T)\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/2cc5fa4c1c.png\" alt=\"macOS Xcode menu with Editor Below highlighted\" title=\"Screen Shot 2022-04-08 at 13.20.04.png\" border=\"0\" width=\"220\" height=\"300\" /></li>\n</ol>\n\n<p>This is very exciting, but I look forward to when other editors support the VSCode feature of dragging those pane corners more than one direction at a time. (VSCode allows you to grab at the corner of two panes and drag horizontally, vertically, or diagonally all in one motion while Xcode and Nova only allow one direction per click).</p>\n",
-				"content_text": "I have used VSCode for much of my career (for historical .NETy reasons) and really like its ability to split editor panes. Particularly the ability to split horizontally and vertically. I was bummed when moving to Xcode and found I wasn't able to do this...Until now! \n\n## How to do split editor vertically in Xcode\n\n1. Open Xcode (seems like it has to be a project, not a playground)\n2. Go to File -> New -> Editor Below (ctrl + option + cmd + T)\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/2cc5fa4c1c.png\" alt=\"macOS Xcode menu with Editor Below highlighted\" title=\"Screen Shot 2022-04-08 at 13.20.04.png\" border=\"0\" width=\"220\" height=\"300\" />\n\nThis is very exciting, but I look forward to when other editors support the VSCode feature of dragging those pane corners more than one direction at a time. (VSCode allows you to grab at the corner of two panes and drag horizontally, vertically, or diagonally all in one motion while Xcode and Nova only allow one direction per click).\n",
+				"content_html": "\n\n<p>I have used VSCode for much of my career (for historical .NETy reasons) and really like its ability to split editor panes. Particularly the ability to split horizontally and vertically. I was bummed when moving to Xcode and found I wasn&rsquo;t able to do this&hellip;Until now!</p>\n\n<h2 id=\"how-to-do-split-editor-vertically-in-xcode\">How to do split editor vertically in Xcode</h2>\n\n<ol>\n<li>Open Xcode (seems like it has to be a project, not a playground)</li>\n<li>Go to File -&gt; New -&gt; Editor Below (ctrl + option + cmd + T)\n<img src=\"uploads/2022/2cc5fa4c1c.png\" alt=\"macOS Xcode menu with Editor Below highlighted\" title=\"Screen Shot 2022-04-08 at 13.20.04.png\" border=\"0\" width=\"220\" height=\"300\" /></li>\n</ol>\n\n<p>This is very exciting, but I look forward to when other editors support the VSCode feature of dragging those pane corners more than one direction at a time. (VSCode allows you to grab at the corner of two panes and drag horizontally, vertically, or diagonally all in one motion while Xcode and Nova only allow one direction per click).</p>\n",
+				"content_text": "I have used VSCode for much of my career (for historical .NETy reasons) and really like its ability to split editor panes. Particularly the ability to split horizontally and vertically. I was bummed when moving to Xcode and found I wasn't able to do this...Until now! \n\n## How to do split editor vertically in Xcode\n\n1. Open Xcode (seems like it has to be a project, not a playground)\n2. Go to File -> New -> Editor Below (ctrl + option + cmd + T)\n<img src=\"uploads/2022/2cc5fa4c1c.png\" alt=\"macOS Xcode menu with Editor Below highlighted\" title=\"Screen Shot 2022-04-08 at 13.20.04.png\" border=\"0\" width=\"220\" height=\"300\" />\n\nThis is very exciting, but I look forward to when other editors support the VSCode feature of dragging those pane corners more than one direction at a time. (VSCode allows you to grab at the corner of two panes and drag horizontally, vertically, or diagonally all in one motion while Xcode and Nova only allow one direction per click).\n",
 				"date_published": "2022-04-08T13:26:45-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/04/08/til-xcode-has.html",
 				"tags": ["technology","Xcode"]
@@ -497,16 +513,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/18/heres-another-image.html",
 				
-				"content_html": "<p>Here’s another image Duolingo sent me for completing a 365 day streak.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/c4a196852b.png\" width=\"600\" height=\"600\" alt=\"image showing me being part of a quote streak society in Duolingo. \" /></p>\n",
-				"content_text": "Here’s another image Duolingo sent me for completing a 365 day streak. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/c4a196852b.png\" width=\"600\" height=\"600\" alt=\"image showing me being part of a quote streak society in Duolingo. \" />\n",
+				"content_html": "<p>Here’s another image Duolingo sent me for completing a 365 day streak.</p>\n\n<p><img src=\"uploads/2022/c4a196852b.png\" width=\"600\" height=\"600\" alt=\"image showing me being part of a quote streak society in Duolingo. \" /></p>\n",
+				"content_text": "Here’s another image Duolingo sent me for completing a 365 day streak. \n\n<img src=\"uploads/2022/c4a196852b.png\" width=\"600\" height=\"600\" alt=\"image showing me being part of a quote streak society in Duolingo. \" />\n",
 				"date_published": "2022-03-18T16:18:50-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/18/heres-another-image.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/18/days-is-the.html",
 				
-				"content_html": "<p>365 days is the longest and most consistently I’ve ever practiced Spanish. I’ve missed about a month or so and have used many streak freezes but I’m proud either way.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/6087fe1d17.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "365 days is the longest and most consistently I’ve ever practiced Spanish. I’ve missed about a month or so and have used many streak freezes but I’m proud either way. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/6087fe1d17.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>365 days is the longest and most consistently I’ve ever practiced Spanish. I’ve missed about a month or so and have used many streak freezes but I’m proud either way.</p>\n\n<p><img src=\"uploads/2022/6087fe1d17.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "365 days is the longest and most consistently I’ve ever practiced Spanish. I’ve missed about a month or so and have used many streak freezes but I’m proud either way. \n\n<img src=\"uploads/2022/6087fe1d17.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-18T16:16:53-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/18/days-is-the.html"
 			},
@@ -571,24 +587,24 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/07/tacos-con-arroz.html",
 				
-				"content_html": "<p>Tacos con arroz y frijoles refritos</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/3dd28c9038.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/0b887982ad.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/7984cf9245.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/f5bb9b21f4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/44d63c7cd0.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Tacos con arroz y frijoles refritos\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/3dd28c9038.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/0b887982ad.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/7984cf9245.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/f5bb9b21f4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/44d63c7cd0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Tacos con arroz y frijoles refritos</p>\n\n<p><img src=\"uploads/2022/3dd28c9038.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/0b887982ad.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/7984cf9245.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/f5bb9b21f4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/44d63c7cd0.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tacos con arroz y frijoles refritos\n\n<img src=\"uploads/2022/3dd28c9038.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/0b887982ad.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/7984cf9245.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/f5bb9b21f4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/44d63c7cd0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-07T20:40:57-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/07/tacos-con-arroz.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/07/our-dog-named.html",
 				
-				"content_html": "<p>Our dog named Wednesday. Isn’t she lovely?</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/3ee96091ce.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing forward in the front seat of my car\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/16fac0b94a.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing towards the drivers seat in the front seat of my car\" /></p>\n",
-				"content_text": "Our dog named Wednesday. Isn’t she lovely?\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/3ee96091ce.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing forward in the front seat of my car\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/16fac0b94a.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing towards the drivers seat in the front seat of my car\" />\n",
+				"content_html": "<p>Our dog named Wednesday. Isn’t she lovely?</p>\n\n<p><img src=\"uploads/2022/3ee96091ce.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing forward in the front seat of my car\" /><img src=\"uploads/2022/16fac0b94a.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing towards the drivers seat in the front seat of my car\" /></p>\n",
+				"content_text": "Our dog named Wednesday. Isn’t she lovely?\n\n<img src=\"uploads/2022/3ee96091ce.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing forward in the front seat of my car\" /><img src=\"uploads/2022/16fac0b94a.jpg\" width=\"450\" height=\"600\" alt=\"my dog Wednesday sitting on her butt facing towards the drivers seat in the front seat of my car\" />\n",
 				"date_published": "2022-03-07T09:24:40-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/07/our-dog-named.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/07/my-wife-really.html",
 				
-				"content_html": "<p>My wife really makes a delicious sourdough. This was made from our sourdough starter, Constance. She’s been making them for a month or two now and I think this is the best one yet! 🥖</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/aa7d6cb2ac.jpg\" width=\"450\" height=\"600\" alt=\"loaf of sourdough bread taken from above\" /></p>\n",
-				"content_text": "My wife really makes a delicious sourdough. This was made from our sourdough starter, Constance. She’s been making them for a month or two now and I think this is the best one yet! 🥖 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/aa7d6cb2ac.jpg\" width=\"450\" height=\"600\" alt=\"loaf of sourdough bread taken from above\" />\n",
+				"content_html": "<p>My wife really makes a delicious sourdough. This was made from our sourdough starter, Constance. She’s been making them for a month or two now and I think this is the best one yet! 🥖</p>\n\n<p><img src=\"uploads/2022/aa7d6cb2ac.jpg\" width=\"450\" height=\"600\" alt=\"loaf of sourdough bread taken from above\" /></p>\n",
+				"content_text": "My wife really makes a delicious sourdough. This was made from our sourdough starter, Constance. She’s been making them for a month or two now and I think this is the best one yet! 🥖 \n\n<img src=\"uploads/2022/aa7d6cb2ac.jpg\" width=\"450\" height=\"600\" alt=\"loaf of sourdough bread taken from above\" />\n",
 				"date_published": "2022-03-07T08:46:00-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/07/my-wife-really.html"
 			},
@@ -603,8 +619,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/03/06/yesterday-was-a.html",
 				"title": "Yesterday was a good day",
-				"content_html": "<p>Had a really fun day with the family yesterday. Went to a maple syrup festival and learned about how much work it is. I also got to try maple sugar which was phenomenal.</p>\n\n<p>Later we drove into the city to eat at a local vegan taco place called Terror Tacos. They have a heavy metal theme. What a wonderful place to try if you’re around St. Louis. Had a delicious quesadilla, birria burrito, and nachos.</p>\n\n<p>Finally we stopped in a big park and walked around a little and then put out a picnic blanket and hung out while my daughter crawled around.</p>\n\n<p>Didn’t even have to use the ak.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/19b4c52225.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6e2716fa71.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/afa9929d76.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/56026cfb96.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9c4ab8b010.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6ad639faf1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/017c5aa09b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/20cb82b394.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Had a really fun day with the family yesterday. Went to a maple syrup festival and learned about how much work it is. I also got to try maple sugar which was phenomenal. \n\nLater we drove into the city to eat at a local vegan taco place called Terror Tacos. They have a heavy metal theme. What a wonderful place to try if you’re around St. Louis. Had a delicious quesadilla, birria burrito, and nachos. \n\nFinally we stopped in a big park and walked around a little and then put out a picnic blanket and hung out while my daughter crawled around. \n\nDidn’t even have to use the ak. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/19b4c52225.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6e2716fa71.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/afa9929d76.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/56026cfb96.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9c4ab8b010.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/6ad639faf1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/017c5aa09b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/20cb82b394.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Had a really fun day with the family yesterday. Went to a maple syrup festival and learned about how much work it is. I also got to try maple sugar which was phenomenal.</p>\n\n<p>Later we drove into the city to eat at a local vegan taco place called Terror Tacos. They have a heavy metal theme. What a wonderful place to try if you’re around St. Louis. Had a delicious quesadilla, birria burrito, and nachos.</p>\n\n<p>Finally we stopped in a big park and walked around a little and then put out a picnic blanket and hung out while my daughter crawled around.</p>\n\n<p>Didn’t even have to use the ak.</p>\n\n<p><img src=\"uploads/2022/19b4c52225.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/6e2716fa71.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"uploads/2022/afa9929d76.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/56026cfb96.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/9c4ab8b010.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/6ad639faf1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/017c5aa09b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/20cb82b394.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Had a really fun day with the family yesterday. Went to a maple syrup festival and learned about how much work it is. I also got to try maple sugar which was phenomenal. \n\nLater we drove into the city to eat at a local vegan taco place called Terror Tacos. They have a heavy metal theme. What a wonderful place to try if you’re around St. Louis. Had a delicious quesadilla, birria burrito, and nachos. \n\nFinally we stopped in a big park and walked around a little and then put out a picnic blanket and hung out while my daughter crawled around. \n\nDidn’t even have to use the ak. \n\n<img src=\"uploads/2022/19b4c52225.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/6e2716fa71.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"uploads/2022/afa9929d76.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/56026cfb96.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/9c4ab8b010.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/6ad639faf1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/017c5aa09b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/20cb82b394.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-06T08:31:04-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/03/06/yesterday-was-a.html"
 			},
@@ -628,8 +644,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/02/02/the-hard-work.html",
 				
-				"content_html": "<p>The hard work of my wife paid off. After making a sour dough starter from scratch, a little trial and error, and only a tiny amount of stress 🤪 we have a beautiful load of bread.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/4afee6ea26.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The hard work of my wife paid off. After making a sour dough starter from scratch, a little trial and error, and only a tiny amount of stress 🤪 we have a beautiful load of bread. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/4afee6ea26.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The hard work of my wife paid off. After making a sour dough starter from scratch, a little trial and error, and only a tiny amount of stress 🤪 we have a beautiful load of bread.</p>\n\n<p><img src=\"uploads/2022/4afee6ea26.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The hard work of my wife paid off. After making a sour dough starter from scratch, a little trial and error, and only a tiny amount of stress 🤪 we have a beautiful load of bread. \n\n<img src=\"uploads/2022/4afee6ea26.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-02T10:37:21-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/02/02/the-hard-work.html"
 			},
@@ -644,8 +660,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/30/breakfast-and-lunch.html",
 				
-				"content_html": "<p>Breakfast and lunch are done. Dinner is on its way. (Lunch is the pasta I made yesterday)</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/d0ad47b2b9.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Breakfast and lunch are done. Dinner is on its way. (Lunch is the pasta I made yesterday)\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/d0ad47b2b9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Breakfast and lunch are done. Dinner is on its way. (Lunch is the pasta I made yesterday)</p>\n\n<p><img src=\"uploads/2022/d0ad47b2b9.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Breakfast and lunch are done. Dinner is on its way. (Lunch is the pasta I made yesterday)\n\n<img src=\"uploads/2022/d0ad47b2b9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-30T13:00:55-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/30/breakfast-and-lunch.html"
 			},
@@ -660,8 +676,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/30/my-wifes-sourdough.html",
 				
-				"content_html": "<p>My wife’s sourdough starter. Her name is Constance. I know, I know. Bread is so 2020, but we got a house with a reasonable kitchen in 2021 so 🤷🏽‍♂️</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/142cd3a25d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My wife’s sourdough starter. Her name is Constance. I know, I know. Bread is so 2020, but we got a house with a reasonable kitchen in 2021 so 🤷🏽‍♂️ \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/142cd3a25d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My wife’s sourdough starter. Her name is Constance. I know, I know. Bread is so 2020, but we got a house with a reasonable kitchen in 2021 so 🤷🏽‍♂️</p>\n\n<p><img src=\"uploads/2022/142cd3a25d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My wife’s sourdough starter. Her name is Constance. I know, I know. Bread is so 2020, but we got a house with a reasonable kitchen in 2021 so 🤷🏽‍♂️ \n\n<img src=\"uploads/2022/142cd3a25d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-30T10:01:50-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/30/my-wifes-sourdough.html"
 			},
@@ -676,8 +692,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/29/made-some-delicious.html",
 				
-				"content_html": "<p>Made some delicious (vegan) meaty pasta. 🍝</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/8ef7e4da2f.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/d56a75ed9a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/1fc7f1b203.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Made some delicious (vegan) meaty pasta. 🍝 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/8ef7e4da2f.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/d56a75ed9a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/1fc7f1b203.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Made some delicious (vegan) meaty pasta. 🍝</p>\n\n<p><img src=\"uploads/2022/8ef7e4da2f.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/d56a75ed9a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/1fc7f1b203.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Made some delicious (vegan) meaty pasta. 🍝 \n\n<img src=\"uploads/2022/8ef7e4da2f.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/d56a75ed9a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/1fc7f1b203.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-29T20:39:04-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/29/made-some-delicious.html"
 			},
@@ -732,8 +748,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/26/just-started-writing.html",
 				
-				"content_html": "<p>Just started writing a post from @overcast.fm and noticed this weirdness. Almost thought I wasn’t going to be able to post it. Not sure if this is on <a href=\"https://micro.blog/marco\">@marco</a> or <a href=\"https://micro.blog/manton\">@manton</a>. Maybe <a href=\"https://micro.blog/help\">@help</a> would know?</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/4711560bb8.png\" width=\"277\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Just started writing a post from @overcast.fm and noticed this weirdness. Almost thought I wasn’t going to be able to post it. Not sure if this is on [@marco](https://micro.blog/marco) or [@manton](https://micro.blog/manton). Maybe [@help](https://micro.blog/help) would know?\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/4711560bb8.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Just started writing a post from @overcast.fm and noticed this weirdness. Almost thought I wasn’t going to be able to post it. Not sure if this is on <a href=\"https://micro.blog/marco\">@marco</a> or <a href=\"https://micro.blog/manton\">@manton</a>. Maybe <a href=\"https://micro.blog/help\">@help</a> would know?</p>\n\n<p><img src=\"uploads/2022/4711560bb8.png\" width=\"277\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Just started writing a post from @overcast.fm and noticed this weirdness. Almost thought I wasn’t going to be able to post it. Not sure if this is on [@marco](https://micro.blog/marco) or [@manton](https://micro.blog/manton). Maybe [@help](https://micro.blog/help) would know?\n\n<img src=\"uploads/2022/4711560bb8.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-26T13:24:55-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/26/just-started-writing.html"
 			},
@@ -772,8 +788,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/24/love-this-food.html",
 				
-				"content_html": "<p>Love this food!</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/670f0f9b6a.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Love this food!\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/670f0f9b6a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Love this food!</p>\n\n<p><img src=\"uploads/2022/670f0f9b6a.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Love this food!\n\n<img src=\"uploads/2022/670f0f9b6a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-24T18:21:34-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/24/love-this-food.html"
 			},
@@ -804,32 +820,32 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/20/success-air-fryer.html",
 				
-				"content_html": "<p>Success! Air fryer rolled tacos! Took me a couple days of trial and error (and tostadas), but we did it. And my wife liked them too. I haven’t had rolled tacos in years so this was quite it nostalgic moment for me.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/6dbc22a405.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/46bb1953cd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/44e24706a9.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/24a227bbef.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Success! Air fryer rolled tacos! Took me a couple days of trial and error (and tostadas), but we did it. And my wife liked them too. I haven’t had rolled tacos in years so this was quite it nostalgic moment for me. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/6dbc22a405.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/46bb1953cd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/44e24706a9.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/24a227bbef.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Success! Air fryer rolled tacos! Took me a couple days of trial and error (and tostadas), but we did it. And my wife liked them too. I haven’t had rolled tacos in years so this was quite it nostalgic moment for me.</p>\n\n<p><img src=\"uploads/2022/6dbc22a405.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/46bb1953cd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/44e24706a9.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/24a227bbef.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Success! Air fryer rolled tacos! Took me a couple days of trial and error (and tostadas), but we did it. And my wife liked them too. I haven’t had rolled tacos in years so this was quite it nostalgic moment for me. \n\n<img src=\"uploads/2022/6dbc22a405.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/46bb1953cd.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/44e24706a9.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/24a227bbef.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-20T18:51:46-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/20/success-air-fryer.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/19/might-as-well.html",
 				
-				"content_html": "<p>Might as well post breakfast too. I make this burrito most days.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/af834407a0.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/b35f2febd4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/edc01176d2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Might as well post breakfast too. I make this burrito most days. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/af834407a0.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/b35f2febd4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/edc01176d2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Might as well post breakfast too. I make this burrito most days.</p>\n\n<p><img src=\"uploads/2022/af834407a0.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/b35f2febd4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/edc01176d2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Might as well post breakfast too. I make this burrito most days. \n\n<img src=\"uploads/2022/af834407a0.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/b35f2febd4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/edc01176d2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-19T09:04:47-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/19/might-as-well.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/19/tomato-potato-cauliflower.html",
 				"title": "tomato potato cauliflower pea and lentil curry for lunch",
-				"content_html": "<p>Aloo gobi mattar dal tamatar subzi. Potato, cauliflower, pea, lentil, and tomato curry. Adapted from the @veganricha recipe in her book page 87. I made this in the instant pot so had to adapt a little more but came out great. Also made some basmati rice and simmered mustard and cumin seed in oil and cooked that with the rice. Also pictured, roti cooked from dough I bought at the Indian grocery store.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/bfd59a3a60.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/e65e142b2d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Aloo gobi mattar dal tamatar subzi. Potato, cauliflower, pea, lentil, and tomato curry. Adapted from the @veganricha recipe in her book page 87. I made this in the instant pot so had to adapt a little more but came out great. Also made some basmati rice and simmered mustard and cumin seed in oil and cooked that with the rice. Also pictured, roti cooked from dough I bought at the Indian grocery store. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/bfd59a3a60.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/e65e142b2d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Aloo gobi mattar dal tamatar subzi. Potato, cauliflower, pea, lentil, and tomato curry. Adapted from the @veganricha recipe in her book page 87. I made this in the instant pot so had to adapt a little more but came out great. Also made some basmati rice and simmered mustard and cumin seed in oil and cooked that with the rice. Also pictured, roti cooked from dough I bought at the Indian grocery store.</p>\n\n<p><img src=\"uploads/2022/bfd59a3a60.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/e65e142b2d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Aloo gobi mattar dal tamatar subzi. Potato, cauliflower, pea, lentil, and tomato curry. Adapted from the @veganricha recipe in her book page 87. I made this in the instant pot so had to adapt a little more but came out great. Also made some basmati rice and simmered mustard and cumin seed in oil and cooked that with the rice. Also pictured, roti cooked from dough I bought at the Indian grocery store. \n\n<img src=\"uploads/2022/bfd59a3a60.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/e65e142b2d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-19T08:12:30-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/19/tomato-potato-cauliflower.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/19/tostadas-for-dinner.html",
 				"title": "tostadas for dinner",
-				"content_html": "<p>Tostadas con frijoles y arroz Mexicano. I intended to make rolled tacos but made my beans too runny so we decided to air fry tortillas to make tostadas. They came out amazing! My wife also made a cheese sauce from @ohsheglows cookbook. As always the rice is @morenita.salazar.k recipe but I’ve adapted it over time to be vegan. The tostadas have beans, lettuce, tomatoes, pickled jalapeños, cheese sauce, salsa verde, @herdezmexico chipotle cremosa (holy shit this stuff is good), and cashew sour cream. These were next level.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/2680cc188e.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Tostadas con frijoles y arroz Mexicano. I intended to make rolled tacos but made my beans too runny so we decided to air fry tortillas to make tostadas. They came out amazing! My wife also made a cheese sauce from @ohsheglows cookbook. As always the rice is @morenita.salazar.k recipe but I’ve adapted it over time to be vegan. The tostadas have beans, lettuce, tomatoes, pickled jalapeños, cheese sauce, salsa verde, @herdezmexico chipotle cremosa (holy shit this stuff is good), and cashew sour cream. These were next level. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/2680cc188e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Tostadas con frijoles y arroz Mexicano. I intended to make rolled tacos but made my beans too runny so we decided to air fry tortillas to make tostadas. They came out amazing! My wife also made a cheese sauce from @ohsheglows cookbook. As always the rice is @morenita.salazar.k recipe but I’ve adapted it over time to be vegan. The tostadas have beans, lettuce, tomatoes, pickled jalapeños, cheese sauce, salsa verde, @herdezmexico chipotle cremosa (holy shit this stuff is good), and cashew sour cream. These were next level.</p>\n\n<p><img src=\"uploads/2022/2680cc188e.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tostadas con frijoles y arroz Mexicano. I intended to make rolled tacos but made my beans too runny so we decided to air fry tortillas to make tostadas. They came out amazing! My wife also made a cheese sauce from @ohsheglows cookbook. As always the rice is @morenita.salazar.k recipe but I’ve adapted it over time to be vegan. The tostadas have beans, lettuce, tomatoes, pickled jalapeños, cheese sauce, salsa verde, @herdezmexico chipotle cremosa (holy shit this stuff is good), and cashew sour cream. These were next level. \n\n<img src=\"uploads/2022/2680cc188e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-19T08:11:14-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/19/tostadas-for-dinner.html"
 			},
@@ -877,8 +893,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/13/kfc-plant-based.html",
 				"title": "KFC plant based chicken nuggets are meh",
-				"content_html": "<p>Tried the new Beyond Meat chicken nuggets from KFC because why not. Great breading, but unfortunately they were dense as hell. Another local restaurant, Sybergs, serves the beyond meat chicken tenders and while the breading isn’t as good, they are moist and juicy. It was worth the try and I’d eat if I were stuck in the middle of nowhere, but it’s about on par with the Burger King impossible whopper. Which is to say that non vegans seem to struggle with cooking non meat products.</p>\n\n<p>What a shame because I love that there are more plant based options accessible to people who normally wouldn’t seek that out. I’m hoping this is the beginning and not the end and there is only upside from here because we really shouldn’t be raising animals for food. For many reasons.</p>\n\n<p>🫂 🐓🐄🐪🦬🐐 🐑 🐖 🦌 🦃</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/82aaa7b2ae.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/85c929385c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9b7b576d74.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Tried the new Beyond Meat chicken nuggets from KFC because why not. Great breading, but unfortunately they were dense as hell. Another local restaurant, Sybergs, serves the beyond meat chicken tenders and while the breading isn’t as good, they are moist and juicy. It was worth the try and I’d eat if I were stuck in the middle of nowhere, but it’s about on par with the Burger King impossible whopper. Which is to say that non vegans seem to struggle with cooking non meat products. \n\nWhat a shame because I love that there are more plant based options accessible to people who normally wouldn’t seek that out. I’m hoping this is the beginning and not the end and there is only upside from here because we really shouldn’t be raising animals for food. For many reasons. \n\n🫂 🐓🐄🐪🦬🐐 🐑 🐖 🦌 🦃 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/82aaa7b2ae.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/85c929385c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2022/9b7b576d74.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Tried the new Beyond Meat chicken nuggets from KFC because why not. Great breading, but unfortunately they were dense as hell. Another local restaurant, Sybergs, serves the beyond meat chicken tenders and while the breading isn’t as good, they are moist and juicy. It was worth the try and I’d eat if I were stuck in the middle of nowhere, but it’s about on par with the Burger King impossible whopper. Which is to say that non vegans seem to struggle with cooking non meat products.</p>\n\n<p>What a shame because I love that there are more plant based options accessible to people who normally wouldn’t seek that out. I’m hoping this is the beginning and not the end and there is only upside from here because we really shouldn’t be raising animals for food. For many reasons.</p>\n\n<p>🫂 🐓🐄🐪🦬🐐 🐑 🐖 🦌 🦃</p>\n\n<p><img src=\"uploads/2022/82aaa7b2ae.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/85c929385c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/9b7b576d74.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tried the new Beyond Meat chicken nuggets from KFC because why not. Great breading, but unfortunately they were dense as hell. Another local restaurant, Sybergs, serves the beyond meat chicken tenders and while the breading isn’t as good, they are moist and juicy. It was worth the try and I’d eat if I were stuck in the middle of nowhere, but it’s about on par with the Burger King impossible whopper. Which is to say that non vegans seem to struggle with cooking non meat products. \n\nWhat a shame because I love that there are more plant based options accessible to people who normally wouldn’t seek that out. I’m hoping this is the beginning and not the end and there is only upside from here because we really shouldn’t be raising animals for food. For many reasons. \n\n🫂 🐓🐄🐪🦬🐐 🐑 🐖 🦌 🦃 \n\n<img src=\"uploads/2022/82aaa7b2ae.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/85c929385c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/9b7b576d74.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-13T07:54:30-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/13/kfc-plant-based.html"
 			},
@@ -893,16 +909,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/09/small-accomplishment-but.html",
 				
-				"content_html": "<p>Small accomplishment, but I’m happy with it. ¡Pero hay más que aprender!</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/0f478412e0.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Small accomplishment, but I’m happy with it. ¡Pero hay más que aprender!\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/0f478412e0.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Small accomplishment, but I’m happy with it. ¡Pero hay más que aprender!</p>\n\n<p><img src=\"uploads/2022/0f478412e0.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Small accomplishment, but I’m happy with it. ¡Pero hay más que aprender!\n\n<img src=\"uploads/2022/0f478412e0.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-09T10:46:24-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/09/small-accomplishment-but.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/05/171246.html",
 				
-				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/d92f589a14.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-05T18:12:46-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/05/171246.html"
 			},
@@ -933,8 +949,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2022/01/02/vegan-new-yorkstyle.html",
 				
-				"content_html": "<p>Vegan New York-style meat lovers pizza from Pizza Head in St. Louis, Missouri. This one is made with cashew cheese and it’s amazing. I only wish it was closer. 🍕</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2022/8929a006e2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Vegan New York-style meat lovers pizza from Pizza Head in St. Louis, Missouri. This one is made with cashew cheese and it’s amazing. I only wish it was closer. 🍕 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2022/8929a006e2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Vegan New York-style meat lovers pizza from Pizza Head in St. Louis, Missouri. This one is made with cashew cheese and it’s amazing. I only wish it was closer. 🍕</p>\n\n<p><img src=\"uploads/2022/8929a006e2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Vegan New York-style meat lovers pizza from Pizza Head in St. Louis, Missouri. This one is made with cashew cheese and it’s amazing. I only wish it was closer. 🍕 \n\n<img src=\"uploads/2022/8929a006e2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-02T14:55:35-05:00",
 				"url": "https://www.nickkaczmarek.com/2022/01/02/vegan-new-yorkstyle.html"
 			},
@@ -958,8 +974,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/12/30/this-is-her.html",
 				
-				"content_html": "<p>This is her go to spot in my office.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/9b28343337.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This is her go to spot in my office. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/9b28343337.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This is her go to spot in my office.</p>\n\n<p><img src=\"uploads/2021/9b28343337.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is her go to spot in my office. \n\n<img src=\"uploads/2021/9b28343337.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-30T20:03:34-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/12/30/this-is-her.html"
 			},
@@ -975,8 +991,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/12/29/123132.html",
 				
-				"content_html": "<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/c081d67f49.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/c081d67f49.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/c081d67f49.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/c081d67f49.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-29T13:31:32-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/12/29/123132.html"
 			},
@@ -1043,8 +1059,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/11/01/went-for-a.html",
 				
-				"content_html": "<p>Went for a bike ride with my father in law this weekend. Saw this pretty tree. I’m so fortunate that I live in a world where I can fit an amazing camera into my pocket comfortably.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/11beb33598.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Went for a bike ride with my father in law this weekend. Saw this pretty tree. I’m so fortunate that I live in a world where I can fit an amazing camera into my pocket comfortably. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/11beb33598.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Went for a bike ride with my father in law this weekend. Saw this pretty tree. I’m so fortunate that I live in a world where I can fit an amazing camera into my pocket comfortably.</p>\n\n<p><img src=\"uploads/2021/11beb33598.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Went for a bike ride with my father in law this weekend. Saw this pretty tree. I’m so fortunate that I live in a world where I can fit an amazing camera into my pocket comfortably. \n\n<img src=\"uploads/2021/11beb33598.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-01T13:51:59-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/11/01/went-for-a.html"
 			},
@@ -1059,40 +1075,40 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/10/09/yr-old-its.html",
 				
-				"content_html": "<p>3 yr old: it’s kinda like a taco hat.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/7b12c57e40.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "3 yr old: it’s kinda like a taco hat. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/7b12c57e40.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>3 yr old: it’s kinda like a taco hat.</p>\n\n<p><img src=\"uploads/2021/7b12c57e40.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "3 yr old: it’s kinda like a taco hat. \n\n<img src=\"uploads/2021/7b12c57e40.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-09T16:34:07-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/10/09/yr-old-its.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/10/06/potato-wedge-salad.html",
 				
-				"content_html": "<p>Potato wedge salad with tempeh bacon</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/8372b2dd14.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Potato wedge salad with tempeh bacon\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/8372b2dd14.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Potato wedge salad with tempeh bacon</p>\n\n<p><img src=\"uploads/2021/8372b2dd14.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Potato wedge salad with tempeh bacon\n\n<img src=\"uploads/2021/8372b2dd14.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-06T12:00:57-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/10/06/potato-wedge-salad.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/10/04/early-morning-shot.html",
 				
-				"content_html": "<p>Early morning shot from my new house. The sun was so intense. It created such a beautiful glow on everything.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/85af1f009c.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Early morning shot from my new house. The sun was so intense. It created such a beautiful glow on everything. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/85af1f009c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Early morning shot from my new house. The sun was so intense. It created such a beautiful glow on everything.</p>\n\n<p><img src=\"uploads/2021/85af1f009c.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Early morning shot from my new house. The sun was so intense. It created such a beautiful glow on everything. \n\n<img src=\"uploads/2021/85af1f009c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-04T13:30:19-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/10/04/early-morning-shot.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/10/02/the-burrito.html",
 				
-				"content_html": "<p>The burrito</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/aca0e084ab.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/e033bfe397.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/b893cce8ac.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The burrito\n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/aca0e084ab.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/e033bfe397.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/b893cce8ac.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The burrito</p>\n\n<p><img src=\"uploads/2021/aca0e084ab.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/e033bfe397.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/b893cce8ac.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The burrito\n\n<img src=\"uploads/2021/aca0e084ab.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/e033bfe397.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/b893cce8ac.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-02T12:48:32-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/10/02/the-burrito.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/10/02/another-day-another.html",
 				
-				"content_html": "<p>Another day, another burrito 🌯</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/a5e5d7f9b0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Another day, another burrito 🌯 \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/a5e5d7f9b0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Another day, another burrito 🌯</p>\n\n<p><img src=\"uploads/2021/a5e5d7f9b0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Another day, another burrito 🌯 \n\n<img src=\"uploads/2021/a5e5d7f9b0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-02T08:38:30-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/10/02/another-day-another.html"
 			},
@@ -1108,32 +1124,32 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/09/17/he-walked-to.html",
 				
-				"content_html": "<p>He walked to the edge of the porch and stretched himself out just enough to stay in the shade.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/a2dcc34285.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "He walked to the edge of the porch and stretched himself out just enough to stay in the shade. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/a2dcc34285.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>He walked to the edge of the porch and stretched himself out just enough to stay in the shade.</p>\n\n<p><img src=\"uploads/2021/a2dcc34285.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "He walked to the edge of the porch and stretched himself out just enough to stay in the shade. \n\n<img src=\"uploads/2021/a2dcc34285.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-17T06:43:03-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/09/17/he-walked-to.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/09/17/imposible-is-now.html",
 				
-				"content_html": "<p>Imposible is now selling tubes of vegan sausage so we made biscuits and gravy. It was amazing! Not pictured is me covering mine with ketchup and hot sauce.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/2dc00d749b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Imposible is now selling tubes of vegan sausage so we made biscuits and gravy. It was amazing! Not pictured is me covering mine with ketchup and hot sauce. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/2dc00d749b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Imposible is now selling tubes of vegan sausage so we made biscuits and gravy. It was amazing! Not pictured is me covering mine with ketchup and hot sauce.</p>\n\n<p><img src=\"uploads/2021/2dc00d749b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Imposible is now selling tubes of vegan sausage so we made biscuits and gravy. It was amazing! Not pictured is me covering mine with ketchup and hot sauce. \n\n<img src=\"uploads/2021/2dc00d749b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-17T06:41:49-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/09/17/imposible-is-now.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/09/17/wednesday-hanging-outside.html",
 				
-				"content_html": "<p>Wednesday hanging outside, sniffing.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/2b5d81f0b6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Wednesday hanging outside, sniffing. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/2b5d81f0b6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Wednesday hanging outside, sniffing.</p>\n\n<p><img src=\"uploads/2021/2b5d81f0b6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Wednesday hanging outside, sniffing. \n\n<img src=\"uploads/2021/2b5d81f0b6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-17T06:40:31-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/09/17/wednesday-hanging-outside.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/09/10/good-morning-to.html",
 				
-				"content_html": "<p>Good morning to you too half pizza on the ground.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/ccf5a45ffb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Good morning to you too half pizza on the ground. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/ccf5a45ffb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Good morning to you too half pizza on the ground.</p>\n\n<p><img src=\"uploads/2021/ccf5a45ffb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Good morning to you too half pizza on the ground. \n\n<img src=\"uploads/2021/ccf5a45ffb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-10T10:39:03-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/09/10/good-morning-to.html"
 			},
@@ -1148,8 +1164,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/08/20/i-heard-the.html",
 				
-				"content_html": "<p>I heard the other dumpster had 14. I wonder what makes one want to go off on their own.</p>\n\n<p><img src=\"https://www.nickkaczmarek.com/uploads/2021/4697461395.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/ae1daeee9c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I heard the other dumpster had 14. I wonder what makes one want to go off on their own. \n\n<img src=\"https://www.nickkaczmarek.com/uploads/2021/4697461395.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.nickkaczmarek.com/uploads/2021/ae1daeee9c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I heard the other dumpster had 14. I wonder what makes one want to go off on their own.</p>\n\n<p><img src=\"uploads/2021/4697461395.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/ae1daeee9c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I heard the other dumpster had 14. I wonder what makes one want to go off on their own. \n\n<img src=\"uploads/2021/4697461395.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/ae1daeee9c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-20T07:59:50-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/08/20/i-heard-the.html"
 			},
@@ -1164,8 +1180,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/08/15/i-got-the.html",
 				
-				"content_html": "<p>I got the raccoons out. Spent like ten minutes watching two of them try to scale the edges of the dumpster. I’ve heard the groundskeeper normally lets them out, but I don’t mind helping.</p>\n\n<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/b21ab86a8f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I got the raccoons out. Spent like ten minutes watching two of them try to scale the edges of the dumpster. I’ve heard the groundskeeper normally lets them out, but I don’t mind helping. \n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/b21ab86a8f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I got the raccoons out. Spent like ten minutes watching two of them try to scale the edges of the dumpster. I’ve heard the groundskeeper normally lets them out, but I don’t mind helping.</p>\n\n<p><img src=\"uploads/2021/b21ab86a8f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I got the raccoons out. Spent like ten minutes watching two of them try to scale the edges of the dumpster. I’ve heard the groundskeeper normally lets them out, but I don’t mind helping. \n\n<img src=\"uploads/2021/b21ab86a8f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-15T08:00:23-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/08/15/i-got-the.html"
 			},
@@ -1215,24 +1231,24 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/07/10/this-tastes-exactly.html",
 				
-				"content_html": "<p>This tastes exactly like a green skittle.</p>\n\n<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This tastes exactly like a green skittle. \n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This tastes exactly like a green skittle.</p>\n\n<p><img src=\"uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This tastes exactly like a green skittle. \n\n<img src=\"uploads/2021/309117de75.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-10T18:26:45-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/07/10/this-tastes-exactly.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/07/09/turns-out-cherries.html",
 				
-				"content_html": "<p>Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out.</p>\n\n<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" /></p>\n",
-				"content_text": "Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out. \n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" />\n",
+				"content_html": "<p>Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out.</p>\n\n<p><img src=\"uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" /></p>\n",
+				"content_text": "Turns out cherries are a million times easier to pit when you slice them in half as opposed to trying to shove a metal straw into it and push the pit out. \n\n<img src=\"uploads/2021/02d0572f61.jpg\" width=\"450\" height=\"600\" alt=\"Blueberries, strawberries, and sliced in half cherries with pits removed.\" />\n",
 				"date_published": "2021-07-09T13:55:40-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/07/09/turns-out-cherries.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/07/09/my-dog-wednesday.html",
 				
-				"content_html": "<p>My dog, Wednesday, laying on a couch on her side showing how long her legs are.</p>\n\n<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" /></p>\n",
-				"content_text": "My dog, Wednesday, laying on a couch on her side showing how long her legs are.\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" />\n",
+				"content_html": "<p>My dog, Wednesday, laying on a couch on her side showing how long her legs are.</p>\n\n<p><img src=\"uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" /></p>\n",
+				"content_text": "My dog, Wednesday, laying on a couch on her side showing how long her legs are.\n\n<img src=\"uploads/2021/c91d6d5bf1.jpg\" width=\"600\" height=\"450\" alt=\"My dog, Wednesday, laying on a couch on her side showing how long her legs are.\" />\n",
 				"date_published": "2021-07-09T13:52:15-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/07/09/my-dog-wednesday.html"
 			},
@@ -1297,16 +1313,16 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/04/11/210739.html",
 				
-				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/e4af559a8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/2bee7e3a96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-11T21:07:39-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/04/11/210739.html"
 			},
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/04/11/210649.html",
 				
-				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/dd4002da7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-11T21:06:49-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/04/11/210649.html"
 			},
@@ -1329,8 +1345,8 @@
 			{
 				"id": "http://nickkaczmarek.micro.blog/2021/02/14/065318.html",
 				
-				"content_html": "<p><img src=\"https://nickkaczmarek.micro.blog/uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://nickkaczmarek.micro.blog/uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/cbb17e7535.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-14T07:53:18-05:00",
 				"url": "https://www.nickkaczmarek.com/2021/02/14/065318.html"
 			},
